@@ -1,5 +1,12 @@
-{
-  "name": "productsOfInterest",
-  "title": "Gérer ses cultures d'intérêt",
-  "text": "Pour accélérer le chargement des pages, vous pouvez réduire le nombre de culture sélectionnées dans vos cultures d’intérêt"
-}
+[
+  {
+    "name": "productsOfInterest",
+    "title": "Gérer ses cultures d'intérêt",
+    "text": "Pour accélérer le chargement des pages, vous pouvez réduire le nombre de culture sélectionnées dans vos cultures d’intérêt"
+  },
+  {
+    "name": "productSpecificLayers",
+    "title": "Calques liés à une culture",
+    "text": "Certains calques représentent les informations d'une seule culture. Vous pouvez la sélectionner depuis le panneau latéral. C'est le cas des calques de rendement ou d'assolement par exemple"
+  }
+]
