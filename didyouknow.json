@@ -2,11 +2,53 @@
   {
     "name": "productsOfInterest",
     "title": "Gérer ses cultures d'intérêt",
-    "text": "Pour accélérer le chargement des pages, vous pouvez réduire le nombre de culture sélectionnées dans vos cultures d’intérêt"
+    "text": "Pour accélérer le chargement des pages, vous pouvez réduire le nombre de cultures sélectionnées dans vos cultures d’intérêt."
   },
   {
     "name": "productSpecificLayers",
     "title": "Calques liés à une culture",
-    "text": "Certains calques représentent les informations d'une seule culture. Vous pouvez la sélectionner depuis le panneau latéral. C'est le cas des calques de rendement ou d'assolement par exemple"
+    "text": "Certains calques représentent les informations d'une seule culture. Vous pouvez la sélectionner depuis le panneau latéral. C'est le cas des calques de rendement ou d'assolement par exemple."
   }
+  {
+    "name": "parcelSearch",
+    "title": "Trouver des parcelles avec des critères définis",
+    "text": "Vous pouvez rechercher une parcelle sur la base de critères définis depuis le moteur de recherche des parcelles !"
+  }
+  {
+    "name": "cartoPngExport",
+    "title": "Exporter une carte",
+    "text": "Dans le module cartographie, vous pouvez exporter en .png (image) les cartes que vous créez !"
+  }
+  {
+    "name": "cartoCsvExport",
+    "title": "Exporter les données de la carto sous format excel",
+    "text": "Dans le module cartographie, vous pouvez exporter les informations affichées sur la carte en format .csv !"
+  }
+  {
+    "name": "harvestForecastCsvExport",
+    "title": "Exporter le tableau de prévisionnel de collecte",
+    "text": "Dans le module de prévisionnel de collecte, vous pouvez exporter les données sous forme de fichier .csv !"
+  }
+  {
+    "name": "changeCurrentCampain",
+    "title": "Changer de campagne",
+    "text": "Pour consulter les informations liées à une campagne passée ou future, sélectionnez l'année correspondante dans le header."
+  }
+  {
+    "name": "harvestForecastChangeView",
+    "title": "Prévisionnel de collecte sous forme de graphique",
+    "text": "Vous pouvez accéder au prévisionnel de collecte sous la forme d'un tableau ou d'un graphique en changeant le mode de vue."
+  }
+  {
+    "name": "dataHistoryCumulate",
+    "title": "Comparer deux régions",
+    "text": "Dans le module d'historique de données, si vous sélectionnez plusieurs zones géographiques, vous pouvez choisir de sommer ou de comparer les informations de ces zones."
+  }
+  {
+    "name": "editParcelSearch",
+    "title": "Modifier une recherche de parcelles",
+    "text": "Pour modifier les critères de recherches d'une parcelle, cliquez sur la petite loupe dans la barre d'outils !"
+  }
+  
+  
 ]
