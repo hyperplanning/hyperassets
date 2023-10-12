@@ -482,3 +482,8 @@ Quel nom voulez-vous donner à la zone ?,Quel nom voulez-vous donner à la zone 
 ajout(s),ajout(s),,,,
 suppression(s),suppression(s),,,,
 Municipalités,Municipalités,,,,
+Voulez-vous vraiment publier ce scenario ?,Voulez-vous vraiment publier ce scenario ?,,,,
+"L'ensemble des modifications apportées au scénario seront désormais visibles pour tous les utilisateurs, dans tous les modules de l'application","L'ensemble des modifications apportées au scénario seront désormais visibles pour tous les utilisateurs, dans tous les modules de l'application",,,,
+Les changements seront effectifs dès que les calculs liés aux nouvelles zones seront effectués,Les changements seront effectifs dès que les calculs liés aux nouvelles zones seront effectués,,,,
+Voulez-vous vraiment réinitialiser ce scenario ?,Voulez-vous vraiment réinitialiser ce scenario ?,,,,
+L'ensemble des modifications apportées au scénario seront perdues et le scenario sera désormais identique à celui utilisé actuellement dans le reste de l'application,L'ensemble des modifications apportées au scénario seront perdues et le scenario sera désormais identique à celui utilisé actuellement dans le reste de l'application,,,,
