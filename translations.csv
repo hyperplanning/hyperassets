@@ -493,13 +493,13 @@ Voulez-vous vraiment supprimer la zone ?,Voulez-vous vraiment supprimer la zone 
 "La zone, ainsi que les sous-territoires qui lui sont éventuellement rattachés seront supprimés","La zone, ainsi que les sous-territoires qui lui sont éventuellement rattachés seront supprimés",The zone and any sub-areas attached to it will be deleted.,Das Gebiet sowie die eventuell dazugehörigen Untergebiete werden gelöscht.,La zona e gli eventuali sottoterritori ad essa collegati verranno eliminati.,Se borrará la zona y los subterritorios adjuntos a ella.
 Commercial,Commercial,Commercial,Gewerblich,Commerciale,Comercial
 "La zone est vide, selectionnez des territoires en cliquant sur la carte pour les ajouter","La zone est vide, selectionnez des territoires en cliquant sur la carte pour les ajouter",The zone is empty. Select territories by clicking on the map to add them.,"Das Gebiet ist leer, wählen Sie Gebiete aus, indem Sie auf die Karte klicken, um sie hinzuzufügen.","La zona è vuota, selezionare i territori facendo clic sulla mappa per aggiungerli.","La zona está vacía, seleccione territorios haciendo clic en el mapa para añadirlos"
-Flash couverture,Flash couverture,,,,
-Masquer les silos,Masquer les silos,,,,
-Afficher les silos,Afficher les silos,,,,
-Calque,Calque,,,,
-Orge de printemps semée au printemps,Orge de printemps semée au printemps,,,,
-Orge de printemps semée en automne,Orge de printemps semée en automne,,,,
-Maïs doux,Maïs doux,,,,
-Maïs ensilage,Maïs ensilage,,,,
-Maïs grain,Maïs grain,,,,
-Maïs non distingué,Maïs non distingué,,,,
+Flash couverture,Flash couverture,Flash coverage,Flash coverage,Flash coverage,Flash coverage
+Masquer les silos,Masquer les silos,Hide silos,Silos ausblenden,Nascondi i silos,Ocultar silos
+Afficher les silos,Afficher les silos,Show silos,Silos einblenden,Mostra i silos,Mostrar silos
+Calque,Calque,Layer,Ebene,Strato,Capa
+Orge de printemps semée au printemps,Orge de printemps semée au printemps,Spring sown barley,Im Frühjahr gesäte Sommergerste,Orzo seminato in primavera,Cebada de primavera sembrada en primavera
+Orge de printemps semée en automne,Orge de printemps semée en automne,Autumn-sown spring barley,Im Herbst gesäte Sommergerste,Orzo primaverile seminato in autunno,Cebada de primavera sembrada en otoño
+Maïs doux,Maïs doux,Sweet corn,Zuckermais,Mais dolce,Maíz dulce
+Maïs ensilage,Maïs ensilage,Silage corn,Silomais,Mais insilato,Maíz para ensilado
+Maïs grain,Maïs grain,Grain corn,Körnermais,Mais da granella,Maíz grano
+Maïs non distingué,Maïs non distingué,Undifferentiated corn,Mais nicht unterschieden,Mais indifferenziato,Maíz no diferenciado
