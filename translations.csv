@@ -64,6 +64,7 @@ Prénom,Prénom,First name,Vorname,Nome,Nombre y apellidos
 Nom de famille,Nom de famille,Last name,Nachname,Cognome,Apellidos
 Nom,Nom,Name,Name,Nome,Nombre
 Email,Email,Email,E-Mail,Email,Correo electrónico
+Emails,Emails,Emails,E-Mails,Emails,Correos electrónicos
 Rôle,Rôle,Role,Rolle,Ruolo,Función
 Rôles,Rôles,Roles,Rollen,Ruoli,Funciones
 Actions,Actions,Actions,Aktionen,Azioni,Acciones
@@ -503,3 +504,7 @@ Maïs doux,Maïs doux,Sweet corn,Zuckermais,Mais dolce,Maíz dulce
 Maïs ensilage,Maïs ensilage,Silage corn,Silomais,Mais insilato,Maíz para ensilado
 Maïs grain,Maïs grain,Grain corn,Körnermais,Mais da granella,Maíz grano
 Maïs non distingué,Maïs non distingué,Undifferentiated corn,Mais nicht unterschieden,Mais indifferenziato,Maíz no diferenciado
+Inivter un collaborateur,Inivter un collaborateur
+Pas de nouveaux collaborateurs...,Pas de nouveaux collaborateurs...
+En attente...,En attente...
+Renvoyer l'invitation,Renvoyer l'invitation
