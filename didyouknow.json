@@ -5,11 +5,6 @@
     "text": "Pour accélérer le chargement des pages, réduisez vos cultures d'intérêt."
   },
   {
-    "name": "productSpecificLayers",
-    "title": "Calques liés à une culture",
-    "text": "Sélectionner la culture dont vous souhaitez voir les informations depuis le panneau latéral. Certains calques représentent les informations d'une seule culture. C'est le cas des calques de rendements ou d'assolement par exemple."
-  },
-  {
     "name": "parcelSearch",
     "title": "Trouver des parcelles avec des critères définis",
     "text": "Ouvrez le moteur de recherche des parcelles pour rechercher une parcelle sur la base de critères définis !"
@@ -48,5 +43,10 @@
     "name": "editParcelSearch",
     "title": "Modifier une recherche de parcelles",
     "text": "Cliquez sur la petite loupe dans la barre d'outils pour modifier les critères de recherches de parcelles !"
+  }
+  {
+    "name": "changeCurrentView",
+    "title": "Analysez votre territoire à une maille géographique différente",
+    "text": "Pour avoir les informations à la commune par exemple, modifiez la maille géographique depuis le header." 
   }
 ]
