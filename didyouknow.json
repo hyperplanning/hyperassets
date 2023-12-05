@@ -43,7 +43,7 @@
     "name": "editParcelSearch",
     "title": "Modifier une recherche de parcelles",
     "text": "Cliquez sur la petite loupe dans la barre d'outils pour modifier les critères de recherches de parcelles !"
-  }
+  },
   {
     "name": "changeCurrentView",
     "title": "Analysez votre territoire à une maille géographique différente",
