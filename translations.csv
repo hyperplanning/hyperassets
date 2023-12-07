@@ -1,6 +1,7 @@
 TAG,FR,EN,DE,IT,ES
 Hyperplan,Hyperplan,Hyperplan,Hyperplan,Hyperplan,Hyperplan
 Bienvenue sur,Bienvenue sur,Welcome to,Willkommen bei,Benvenuti a,Bienvenido a Hyperplan
+Bienvenue sur Hyperplan !,Bienvenue sur Hyperplan !,Welcome to Hyperplan !,Willkommen bei Hyperplan !,Benvenuti a Hyperplan !,¡Bienvenido a Hyperplan!
 Veuillez saisir vos identifiants,Veuillez saisir vos identifiants,Please enter your credentials,Bitte geben Sie Ihre Anmeldedaten ein,Inserire le proprie credenziali,"Por favor, introduce tus credenciales"
 Une question ? Envoyez nous un mail à,Une question ? Envoyez nous un mail à,A question ? Send us an email at,Eine Frage? Schicken Sie uns eine E-Mail an,Una domanda? Inviateci un'e-mail a,¿ Alguna pregunta? Envíenos un correo electrónico a
 Nom d'utilisateur (Prénom NOM),Nom d'utilisateur (Prénom NOM),Username (Firstname LASTNAME),Benutzername (Vorname NACHNAME),Nome utente (Nome COGNOME),Nombre de usuario (Nombre APELLIDO)
@@ -508,3 +509,16 @@ Inviter un collaborateur,Inviter un collaborateur,,,,
 Pas de nouveaux collaborateurs...,Pas de nouveaux collaborateurs...,,,,
 En attente...,En attente...,,,,
 Renvoyer l'invitation,Renvoyer l'invitation,,,,
+Fonction dans l'entreprise,Fonction dans l'entreprise,,,,
+Création de compte,Création de compte,,,,
+Directeur Commercial / Marketing,Directeur Commercial / Marketing,,,,
+Responsable de région commercial,Responsable de région commercial,,,,
+Responsable de compte,Responsable de compte,,,,
+Technico-commercial,Technico-commercial,,,,
+Marketing,Marketing,,,,
+Agronomie,Agronomie,,,,
+Exploitation/Supply-Chain,Exploitation/Supply-Chain,,,,
+Mise en marché,Mise en marché,,,,
+Responsable approvisionnement,Responsable approvisionnement,,,,
+IT,IT,,,,
+Autres,Autres,,,,
