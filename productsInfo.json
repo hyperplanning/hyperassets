@@ -1,0 +1,226 @@
+[
+   {
+      "product": "ble-d-hiver",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/01",
+      "yieldPerParcel": true
+   },
+   {
+      "product": "orge-d-hiver",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/01",
+      "yieldPerParcel": true
+   },
+   {
+      "product": "orge-de-printemps",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/01",
+      "yieldPerParcel": true
+   },
+   {
+      "product": "triticale",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "autres-cereales",
+      "availableData": ["yield"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "ble-de-printemps",
+      "availableData": ["yield"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "aromatiques",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product" :"autres-fruits",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "autres-proteagineux",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "choux",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "cucurbitacees",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "epinard",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "fleurs-ornementales",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "lavande",
+      "availableData": [],
+      "displayDate":"01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "moutarde",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "oignons-et-echalottes",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "riz",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "seigle",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "vignes",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "haricot-flageolet",
+      "availableData": [],
+      "displayDate": "01/07",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "betteraves",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/01",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "mais",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/07",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "colza",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/01",
+      "yieldPerParcel": true
+   },
+   {
+      "product": "tournesol",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/07",
+      "nextYearDisplayDate": "01/01",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "luzerne",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "pomme-de-terre",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "soja",
+      "availableData": ["yield"],
+      "displayDate": "01/07",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "pois",
+      "availableData": ["yield"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "chanvre",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "lin",
+      "availableData": ["yield"],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "prairies-arbres-autres",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "legumes-autres-legumes",
+      "availableData": [],
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   }
+]
