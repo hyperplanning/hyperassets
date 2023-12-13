@@ -154,6 +154,27 @@
       "yieldPerParcel": false
    },
    {
+      "product": "mais-doux",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/07",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "mais-ensilage",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/07",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
+      "product": "mais-grain",
+      "availableData": ["yield", "phenologicalStages"],
+      "displayDate": "01/07",
+      "nextYearDisplayDate": "01/12",
+      "yieldPerParcel": false
+   },
+   {
       "product": "colza",
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
