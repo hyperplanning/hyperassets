@@ -4,7 +4,7 @@
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/01",
-      "yieldPerParcel": true
+      "yieldPerParcel": false
    },
    {
       "product": "orge-d-hiver",
