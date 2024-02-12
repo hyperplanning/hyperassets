@@ -528,31 +528,31 @@ Country,Pays,Country,Land,Paese,País
 Region,Région,Region,Region,Regione,Región
 Department,Département,Department,Abteilung,Dipartimento,Departamento
 Municipality,Commune,Municipality,Gemeinde,Comune,Común
-La valeur existe déjà,La valeur existe déjà,,,,
-Merci de rentrer un email valide,Merci de rentrer un email valide,,,,
-Zone introuvable,Zone introuvable,,,,
-Les valeurs ne correspondent pas,Les valeurs ne correspondent pas,,,,
-Quel nom voulez-vous donner à la maille géographique ?,Quel nom voulez-vous donner à la maille géographique ?,,,,
-Renommage de la maille géographique,Renommage de la maille géographique,,,,
-"Pour avoir les informations à la commune par exemple, modifiez la maille géographique depuis le header.","Pour avoir les informations à la commune par exemple, modifiez la maille géographique depuis le header.",,,,
-Comparez les informations de plusieurs zones géographiques dans le module d'historique de données.,Comparez les informations de plusieurs zones géographiques dans le module d'historique de données.,,,,
-Ajouter un calque,Ajouter un calque,,,,
-Voir plus,Voir plus,,,,
-Valeur calculée sur la base de logique de rotations de cultures,Valeur calculée sur la base de logique de rotations de cultures,,,,
-Rendement (t/ha),Rendement (t/ha),,,,
-Tonnes (k t),Tonnes (k t),,,,
-Copiez/collez ou entrez ici les emails des collaborateurs que vous souhaitez inviter,Copiez/collez ou entrez ici les emails des collaborateurs que vous souhaitez inviter,,,,
-Inviter,Inviter,,,,
-Modification vue,Modification vue,,,,
-"Attention, les territoires sont exclusifs. Chaque élément ajouté à un territoire est supprimé du territoire actuel auquel il appartient","Attention, les territoires sont exclusifs. Chaque élément ajouté à un territoire est supprimé du territoire actuel auquel il appartient",,,,
-Vue d'ensemble,Vue d'ensemble,,,,
-les exploitations,les exploitations,,,,
-les silos,les silos,,,,
-Exploitation,Exploitation,,,,
-Informations,Informations,,,,
-Siret,Siret,,,,
-Type d’exploitation,Type d’exploitation,,,,
-Adresse,Adresse,,,,
-Agriculteur,Agriculteur,,,,
-Zoomez pour voir apparaitre les exploitations,Zoomez pour voir apparaitre les exploitations,,,,
-Zoomez pour voir apparaitre les communes,Zoomez pour voir apparaitre les communes,,,,
+La valeur existe déjà,La valeur existe déjà,Value already exists,Der Wert existiert bereits.,Il valore esiste già,El valor ya existe
+Merci de rentrer un email valide,Merci de rentrer un email valide,Please enter a valid email,Bitte geben Sie eine gültige E-Mail ein,Inserire un'e-mail valida,Por favor
+Zone introuvable,Zone introuvable,Field not found,Feld wurde nicht gefunden,Zona non trovata,Zona no encontrada
+Les valeurs ne correspondent pas,Les valeurs ne correspondent pas,Values do not match,Die Werte stimmen nicht überein,I valori non corrispondono,Los valores no coinciden
+Quel nom voulez-vous donner à la maille géographique ?,Quel nom voulez-vous donner à la maille géographique ?,What name do you want to give to the geographic mesh?,Welchen Namen soll das geografische Netz erhalten?,Quale nome si desidera assegnare alla griglia geografica?,¿Qué nombre quiere dar a la rejilla geográfica?
+Renommage de la maille géographique,Renommage de la maille géographique,Renaming the geographic mesh,Umbenennen des geografischen Gitters,Rinominare la griglia geografica,Cambiar el nombre de la rejilla geográfica
+Pour avoir les informations à la commune par exemple, modifiez la maille géographique depuis le header.,Pour avoir les informations à la commune par exemple, modifiez la maille géographique depuis le header.,"For example, if you want to have information at the commune level, modify the geographic mesh in the header.","Um die Informationen z. B. auf Gemeindeebene zu haben, ändern Sie das geografische Netz vom Header aus.","Ad esempio, per ottenere informazioni su un comune, cambiare la griglia geografica dall'intestazione.",Por ejemplo
+Comparez les informations de plusieurs zones géographiques dans le module d'historique de données.,Comparez les informations de plusieurs zones géographiques dans le module d'historique de données.,Compare information from several geographic zones in the data history module.,Vergleichen Sie die Informationen mehrerer geografischer Gebiete im Datenverlaufsmodul.,Confrontare le informazioni di diverse aree geografiche nel modulo della cronologia dei dati.,"Compare la información de varias zonas geográficas en el módulo de historial de datos."
+Ajouter un calque,Ajouter un calque,Add a layer,Hinzufügen einer Ebene,Aggiungere un livello,Añadir una capa
+Voir plus,Voir plus,See more,Siehe mehr,Vedi di più,Más información
+Valeur calculée sur la base de logique de rotations de cultures,Valeur calculée sur la base de logique de rotations de cultures,Value calculated on the basis of crop rotation logic,Auf der Grundlage von Fruchtfolgelogik berechneter Wert.,Valore calcolato in base alla logica della rotazione delle colture,Valor calculado en base a la lógica de rotación de cultivos
+Rendement (t/ha),Rendement (t/ha),Yield (t/ha),Ertrag (t/ha),Resa (t/ha),Rendimiento (t/ha)
+Tonnes (k t),Tonnes (k t),Tons (k t),Tonnen (k t),Tonnellate (k t),Toneladas (k t)
+Copiez/collez ou entrez ici les emails des collaborateurs que vous souhaitez inviter,Copiez/collez ou entrez ici les emails des collaborateurs que vous souhaitez inviter,Copy/paste or enter here the emails of collaborators you wish to invite,"Kopieren/einfügen oder geben Sie hier die E-Mails der Mitarbeiter ein, die Sie einladen möchten",Copiare/incollare o inserire qui le email dei collaboratori che si desidera invitare,Copie/pegue o introduzca aquí los correos electrónicos de los colaboradores que desea invitar
+Inviter,Inviter,Invite,Einladen,Invitare,Invitar
+Modification vue,Modification vue,Edit view,Ansicht bearbeiten,Visualizza modifica,Ver modificación
+Attention, les territoires sont exclusifs. Chaque élément ajouté à un territoire est supprimé du territoire actuel auquel il appartient,Attention, les territoires sont exclusifs. Chaque élément ajouté à un territoire est supprimé du territoire actuel auquel il appartient,Please note that territories are exclusive. Each item added to a territory is deleted from the current territory to which it belongs.,"Achtung: Territorien sind exklusiv. Jedes Element, das zu einem Gebiet hinzugefügt wird, wird aus dem aktuellen Gebiet, zu dem es gehört, entfernt.",Si noti che i territori sono esclusivi. Ogni elemento aggiunto a un territorio viene cancellato dal territorio attuale a cui appartiene.,Tenga en cuenta que los territorios son exclusivos. Cada elemento añadido a un territorio se elimina del territorio actual al que pertenece.
+Vue d'ensemble,Vue d'ensemble,Overview,Übersicht,Vista complessiva,Vista general
+les exploitations,les exploitations,farms,die Betriebe,fattorie,granjas
+les silos,les silos,silos,die Silos,silos,silos
+Exploitation,Exploitation,Farm,Betrieb,Fattoria,Granja
+Informations,Informations,Information,Informationen,Informazioni,Información
+Siret,Siret,Siret,Siret,Siret,Siret
+Type d’exploitation,Type d’exploitation,Type of farm,Art des Betriebs,Tipo di azienda,Tipo de explotación
+Adresse,Adresse,Address,Adresse,Indirizzo,Dirección
+Agriculteur,Agriculteur,Farmer,Landwirt,Agricoltore,Granjero
+Zoomez pour voir apparaitre les exploitations,Zoomez pour voir apparaitre les exploitations,Zoom in to view farms,"Vergrößern, um die Betriebe anzuzeigen",Ingrandisci per vedere le aziende agricole,Ampliar para ver las explotaciones
+Zoomez pour voir apparaitre les communes,Zoomez pour voir apparaitre les communes,Zoom in to see communes,"Vergrößern, um die Gemeinden anzuzeigen",Ingrandisci per vedere i comuni,Ampliar para ver los municipios
