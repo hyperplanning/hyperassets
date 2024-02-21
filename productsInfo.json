@@ -3,7 +3,7 @@
       "product": "ble-d-hiver",
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
-      "nextYearDisplayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "yieldPerParcel": true,
       "phenologicalStages": ["sowing"]
    },
@@ -11,15 +11,15 @@
       "product": "orge-d-hiver",
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
-      "nextYearDisplayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "yieldPerParcel": true,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "orge-de-printemps",
       "availableData": ["yield", "phenologicalStages"],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/01",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": true,
       "phenologicalStages": ["sowing"]
    },
@@ -42,101 +42,13 @@
    {
       "product": "ble-de-printemps",
       "availableData": ["yield"],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "aromatiques",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product" :"autres-fruits",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "autres-proteagineux",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "choux",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "cucurbitacees",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "epinard",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "fleurs-ornementales",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "lavande",
-      "availableData": [],
-      "displayDate":"01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "moutarde",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "oignons-et-echalottes",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "riz",
-      "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "seigle",
       "availableData": [],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
@@ -154,48 +66,24 @@
    {
       "product": "haricot-flageolet",
       "availableData": [],
-      "displayDate": "01/07",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "betteraves",
       "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/01",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "mais",
       "availableData": ["yield", "phenologicalStages"],
-      "displayDate": "01/07",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "mais-doux",
-      "availableData": ["yield", "phenologicalStages"],
-      "displayDate": "01/07",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "mais-ensilage",
-      "availableData": ["yield", "phenologicalStages"],
-      "displayDate": "01/07",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
-      "phenologicalStages": ["sowing"]
-   },
-   {
-      "product": "mais-grain",
-      "availableData": ["yield", "phenologicalStages"],
-      "displayDate": "01/07",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
@@ -203,55 +91,55 @@
       "product": "colza",
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
-      "nextYearDisplayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "yieldPerParcel": true,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "tournesol",
       "availableData": ["yield", "phenologicalStages"],
-      "displayDate": "01/07",
-      "nextYearDisplayDate": "01/01",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "luzerne",
       "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "pomme-de-terre",
       "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "soja",
       "availableData": ["yield"],
-      "displayDate": "01/07",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "pois",
       "availableData": ["yield"],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
    {
       "product": "chanvre",
       "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    },
@@ -274,8 +162,8 @@
    {
       "product": "legumes-autres-legumes",
       "availableData": [],
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing"]
    }
