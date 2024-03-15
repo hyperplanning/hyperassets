@@ -558,28 +558,26 @@ Informations,Informations,Information,Informationen,Informazioni,Información
 Siret,Siret,Siret,Siret,Siret,Siret
 Type d'exploitation,Type d'exploitation,Type of farm,Art des Betriebs,Tipo di azienda,Tipo de explotación
 Adresse,Adresse,Address,Adresse,Indirizzo,Dirección
-Technicien,Technicien,,,,
-Silo de rattachement,Silo de rattachement,,,,
+Technicien,Technicien,Technician,Techniker,Tecnico,Técnico
+Silo de rattachement,Silo de rattachement,Silo connection,Anschlusssilo,Silo di connessione,Silo de conexión
 Agriculteur,Agriculteur,Farmer,Landwirt,Agricoltore,Granjero
 Zoomez pour voir apparaitre les exploitations,Zoomez pour voir apparaitre les exploitations,Zoom in to view farms,"Vergrößern, um die Betriebe anzuzeigen",Ingrandisci per vedere le aziende agricole,Ampliar para ver las explotaciones
 Zoomez pour voir apparaitre les communes,Zoomez pour voir apparaitre les communes,Zoom in to see communes,"Vergrößern, um die Gemeinden anzuzeigen",Ingrandisci per vedere i comuni,Ampliar para ver los municipios
-Astuces,Astuces,,,,
-Maintenez la touche MAJ enfoncée afin d'effectuer une selection multiple,Maintenez la touche MAJ enfoncée afin d'effectuer une selection multiple,,,,
-Culture du riz,Culture du riz,,,,
-Cultures de légumes et maraichage,Cultures de légumes et maraichage,,,,
-Culture du tabac,Culture du tabac,,,,
-Cultures textiles et fibres,Cultures textiles et fibres,,,,
-Cultures Fourragères,Cultures Fourragères,,,,
-Viticulture,Viticulture,,,,
-Culture d'agrumes,Culture d'agrumes,,,,
-Culture de fruits à pépins et à noyau,Culture de fruits à pépins et à noyau,,,,
-Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque,Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque,,,,
-Cultures de fruits oléagineux,Cultures de fruits oléagineux,,,,
-"Cultures de plantes à épices, aromatiques, médicinales et pharmaceutiques","Cultures de plantes à épices, aromatiques, médicinales et pharmaceutiques",,,,
-Élevage de vaches laitières,Élevage de vaches laitières,,,,
-Élevage Ovin/caprin,Élevage Ovin/caprin,,,,
-Élevage Porc/porcin,Élevage Porc/porcin,,,,
-Élevage de volailles,Élevage de volailles,,,,
-Polycultures élevage,Polycultures élevage,,,,
-Cultures de céréales / Industrielles / Légumineuses,Cultures de céréales / Industrielles / Légumineuses,,,,
-Élevage autres bovins,Élevage autres bovins,,,,
+Astuces,Astuces,Tips,Tipps,Suggerimenti,Consejos
+Culture du riz,Culture du riz,Rice cultivation,Anbau von Reis,Coltivazione del riso,Cultivo del arroz
+Cultures de légumes et maraichage,Cultures de légumes et maraichage,Vegetable and market gardening,Anbau von Gemüse und Gemüsegärten,Orticoltura e mercato,Horticultura
+Culture du tabac,Culture du tabac,Tobacco growing,Anbau von Tabak,Coltivazione del tabacco,Cultivo del tabaco
+Cultures textiles et fibres,Cultures textiles et fibres,Textile and fiber crops,Textil- und Faserkulturen,Colture tessili e da fibra,Cultivos textiles y de fibras
+Cultures Fourragères,Cultures Fourragères,Fodder crops,Anbau von Futterpflanzen,Colture foraggere,Cultivos forrajeros
+Viticulture,Viticulture,Viticulture,Weinbau,Viticoltura,Viticultura
+Culture d'agrumes,Culture d'agrumes,Citrus growing,Anbau von Zitrusfrüchten,Agrumicoltura,Citricultura
+Culture de fruits à pépins et à noyau,Culture de fruits à pépins et à noyau,Pome and stone fruit growing,Anbau von Kern- und Steinobst,Coltivazione di pomacee e drupacee,Cultivo de frutas de pepita y hueso
+Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque,Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque,Growing of other tree and bush fruits and nuts,Anbau von sonstigem Baum- und Strauchobst und von Schalenfrüchten,Coltivazione di altri frutti arborei e arbustivi e di frutta a guscio,Cultivo de otras frutas de árbol y arbusto y frutos secos
+Cultures de fruits oléagineux,Cultures de fruits oléagineux,Growing of oleaginous fruits,Anbau von Ölfrüchten,Coltivazione di frutti oleosi,Cultivo de frutos oleaginosos
+"Cultures de plantes à épices, aromatiques, médicinales et pharmaceutiques","Cultures de plantes à épices, aromatiques, médicinales et pharmaceutiques","Growing of spices, aromatic, medicinal and pharmaceutical plants","Anbau von Gewürz-, Aroma-, Medizinal- und Pharma-Pflanzen","Coltivazione di spezie, piante aromatiche, medicinali e farmaceutiche","Cultivo de especias, plantas aromáticas, medicinales y farmacéuticas"
+Élevage de vaches laitières,Élevage de vaches laitières,Dairy cow farming,Haltung von Milchkühen,Allevamento di bovini da latte,Ganadería lechera
+Élevage Ovin/caprin,Élevage Ovin/caprin,Sheep/goat farming,Schaf-/Ziegenhaltung,Allevamento di ovini/caprini,Ganadería ovina y caprina
+Élevage Porc/porcin,Élevage Porc/porcin,Pig farming,Schweinezucht/Schweinehaltung,Allevamento di suini,Ganadería porcina
+Élevage de volailles,Élevage de volailles,Poultry farming,Geflügelzucht,Allevamento di pollame,Avicultura
+Polycultures élevage,Polycultures élevage,Multi-crop livestock farming,Polykulturen Viehzucht,Allevamento di più colture,Ganadería multicultivo
+Cultures de céréales / Industrielles / Légumineuses,Cultures de céréales / Industrielles / Légumineuses,Cereal / Industrial / Pulses crops,Getreide/Industriekulturen/Hülsenfrüchte,Colture cerealicole / colture industriali / legumi,Cereales / Cultivos industriales / Legumbres
