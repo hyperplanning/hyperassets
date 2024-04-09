@@ -527,9 +527,9 @@ IT/Digital,IT/Digital,IT/Digital,IT/Digital,IT/Digitale,TI/Digital
 Autres,Autres,Other,Andere,Altro,Otros
 Administrative,Administratif,Administrative,Administrativ,Amministrativo,Administrativo
 Country,Pays,Country,Land,Paese,País
-Region,Région,Region,Region,Regione,Región
-Department,Département,Department,Abteilung,Dipartimento,Departamento
-Municipality,Commune,Municipality,Gemeinde,Comune,Común
+Region,Région,Region,Region,Regione,CCAA
+Department,Département,Department,Abteilung,Dipartimento,Provincia
+Municipality,Commune,Municipality,Gemeinde,Comune,Municipio
 La valeur existe déjà,La valeur existe déjà,Value already exists,Der Wert existiert bereits.,Il valore esiste già,El valor ya existe
 Merci de rentrer un email valide,Merci de rentrer un email valide,Please enter a valid email,Bitte geben Sie eine gültige E-Mail ein,Inserire un'e-mail valida,Por favor
 Zone introuvable,Zone introuvable,Field not found,Feld wurde nicht gefunden,Zona non trovata,Zona no encontrada
@@ -542,7 +542,7 @@ Renommage de la maille géographique,Renommage de la maille géographique,Renami
 "Pour avoir les informations à la commune par exemple, modifiez la maille géographique depuis le header.","Pour avoir les informations à la commune par exemple, modifiez la maille géographique depuis le header.","For example, if you want to have information at the commune level, modify the geographic mesh in the header.","Um die Informationen z. B. auf Gemeindeebene zu haben, ändern Sie das geografische Netz vom Header aus.","Ad esempio, per ottenere informazioni su un comune, cambiare la griglia geografica dall'intestazione.",Por ejemplo
 Comparez les informations de plusieurs zones géographiques dans le module d'historique de données.,Comparez les informations de plusieurs zones géographiques dans le module d'historique de données.,Compare information from several geographic zones in the data history module.,Vergleichen Sie die Informationen mehrerer geografischer Gebiete im Datenverlaufsmodul.,Confrontare le informazioni di diverse aree geografiche nel modulo della cronologia dei dati.,"Compare la información de varias zonas geográficas en el módulo de historial de datos."
 Ajouter un calque,Ajouter un calque,Add a layer,Hinzufügen einer Ebene,Aggiungere un livello,Añadir una capa
-Ajouter un calque en arrière plan,Ajouter un calque en arrière plan,,,,
+Ajouter un calque en arrière plan,Ajouter un calque en arrière plan,Add a background layer,Eine Ebene im Hintergrund hinzufügen,Aggiunta di un livello di sfondo,Añadir una capa de fondo
 Voir plus,Voir plus,See more,Siehe mehr,Vedi di più,Más información
 Valeur calculée sur la base de logique de rotations de cultures,Valeur calculée sur la base de logique de rotations de cultures,Value calculated on the basis of crop rotation logic,Auf der Grundlage von Fruchtfolgelogik berechneter Wert.,Valore calcolato in base alla logica della rotazione delle colture,Valor calculado en base a la lógica de rotación de cultivos
 Rendement (t/ha),Rendement (t/ha),Yield (t/ha),Ertrag (t/ha),Resa (t/ha),Rendimiento (t/ha)
