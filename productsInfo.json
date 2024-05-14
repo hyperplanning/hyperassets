@@ -82,7 +82,7 @@
    {
       "product": "mais",
       "availableData": ["yield", "phenologicalStages"],
-      "displayDate": "01/05",
+      "displayDate": "01/04",
       "nextYearDisplayDate": "01/05",
       "yieldPerParcel": false,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
