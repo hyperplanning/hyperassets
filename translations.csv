@@ -352,7 +352,7 @@ Pays,Pays,Countries,Länder,Paesi,Países
 Actifs,Actifs,Actives,Aktive,Attivi,Activos
 Prévisionnel de collecte,Prévisionnel de collecte,Collect forecast,Prognose sammeln,Previsione di incasso,Recoger previsión
 Rendement,Rendement,Yield,Ausbeute,Rendimento,Rendimiento
-Rendement 2024,Rendement 2024,Yield 2024,Ausbeute 2024,Rendimento 2024,Rendimiento 2024
+Rendement 2024,Rendement 2024,Yield 2024,Ausbeute 2024,Rendimento 2024,Rendimiento 2023
 Parts de marché,Parts de marché,Market share,Marktanteil,Quota di mercato,Cuota de mercado
 Récolté,Récolté,Harvested,Geerntet,Raccolta,Cosechado
 Tableau,Tableau,Table,Tabelle,Tabella,Tabla
@@ -567,7 +567,7 @@ Silo de rattachement,Silo de rattachement,Silo connection,Anschlusssilo,Silo di 
 Agriculteur,Agriculteur,Farmer,Landwirt,Agricoltore,Granjero
 Zoomez pour voir apparaitre les exploitations,Zoomez pour voir apparaitre les exploitations,Zoom in to view farms,"Vergrößern, um die Betriebe anzuzeigen",Ingrandisci per vedere le aziende agricole,Ampliar para ver las explotaciones
 Zoomez pour voir apparaitre les communes,Zoomez pour voir apparaitre les communes,Zoom in to see communes,"Vergrößern, um die Gemeinden anzuzeigen",Ingrandisci per vedere i comuni,Ampliar para ver los municipios
-Zoomez pour voir apparaitre les codes postaux,Zoomez pour voir apparaitre les codes postaux,,,,
+Zoomez pour voir apparaitre les codes postaux,Zoomez pour voir apparaitre les codes postaux,Zoom in to see postal codes,"Zoomen Sie, um die Postleitzahlen zu sehen",Ingrandisci per vedere i codici postali,Ampliar para ver los códigos postales
 Astuces,Astuces,Tips,Tipps,Suggerimenti,Consejos
 Culture du riz,Culture du riz,Rice cultivation,Anbau von Reis,Coltivazione del riso,Cultivo del arroz
 Cultures de légumes et maraichage,Cultures de légumes et maraichage,Vegetable and market gardening,Anbau von Gemüse und Gemüsegärten,Orticoltura e mercato,Horticultura
@@ -608,4 +608,4 @@ Taux de pénétration,Taux de pénétration,Penetration rate,Durchdringungsrate,
 Part de marché Volume,Part de marché Volume,Market share Volume,Marktanteil Volumen,Quota di mercato Volume,Cuota de mercado Volumen
 Selection d'une zone,Selection d'une zone,Zone selection,Auswahl einer Zone,Selezione della zona,Selección de zonas
 Le tableau ci-dessous contient les prédictions de collecte pour le <u><b>maïs grain uniquement</b></u>.,Le tableau ci-dessous contient les prédictions de collecte pour le <u><b>maïs grain uniquement</b></u>.,The table below contains harvest forecast for <u><b>corn grain only</b></u>.,Die folgende Tabelle enthält die Erntevorhersagen für <u><b>Körnermais allein</b></u>.,La tabella seguente contiene le previsioni di raccolta per il solo <u><b>grano di mais</b></u>.,El rendimiento de maíz indicado corresponde al <u><b>rendimiento de <u><b>maíz en grano</b></u>.
-Vous n'avez pas souscrit à ce module,Vous n'avez pas souscrit à ce module,,,,
+Vous n'avez pas souscrit à ce module,Vous n'avez pas souscrit à ce module,You have not subscribed to this module,Sie haben dieses Modul nicht abonniert,Non si è iscritti a questo modulo,No te has suscrito a este módulo
