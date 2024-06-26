@@ -1,0 +1,107 @@
+[
+   {
+      "falcoId": "ble-d-hiver",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "orge-d-hiver",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "orge-de-printemps",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "triticale",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "autres-cereales",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "ble-de-printemps",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "riz",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "vignes",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "haricot-flageolet",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "betteraves",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "mais",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "colza",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "tournesol",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "luzerne",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "pomme-de-terre",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "soja",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "pois",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "chanvre",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   },
+   {
+      "falcoId": "lin",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "prairies-arbres-autres",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12"
+   },
+   {
+      "falcoId": "legumes-autres-legumes",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null
+   }
+]
