@@ -4,7 +4,6 @@
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": true,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit","heading-flowering"]
    },
    {
@@ -12,15 +11,13 @@
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": true,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit","heading-flowering"]
    },
    {
       "product": "orge-de-printemps",
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": true,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
@@ -28,7 +25,6 @@
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
@@ -36,15 +32,13 @@
       "availableData": ["yield"],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "ble-de-printemps",
       "availableData": ["yield"],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
@@ -52,7 +46,6 @@
       "availableData": [],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
@@ -60,31 +53,27 @@
       "availableData": [],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "haricot-flageolet",
       "availableData": [],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "betteraves",
       "availableData": [],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "mais",
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
@@ -92,55 +81,48 @@
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": true,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "tournesol",
       "availableData": ["yield", "phenologicalStages"],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "luzerne",
       "availableData": [],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "pomme-de-terre",
       "availableData": [],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "soja",
       "availableData": ["yield"],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "pois",
       "availableData": ["yield"],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "chanvre",
       "availableData": [],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
@@ -148,7 +130,6 @@
       "availableData": ["yield"],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
@@ -156,15 +137,13 @@
       "availableData": [],
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "yieldPerParcel": false,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    },
    {
       "product": "legumes-autres-legumes",
       "availableData": [],
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/05",
-      "yieldPerParcel": false,
+      "nextYearDisplayDate": null,
       "phenologicalStages": ["sowing","emergence","ndvi-falloff","senescence_ndvi_fit","maturity_ndvi_fit"]
    }
 ]
