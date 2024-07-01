@@ -304,8 +304,8 @@ Irrigation,Irrigation,Irrigation,Bewässerung,Irrigazione,Riego
 Informations de la parcelle modifiées avec succès,Informations de la parcelle modifiées avec succès,Parcel info successfully modified,Parzelleninfo erfolgreich geändert,Parcel info successfully modified,Información de la parcela modificada correctamente
 Informations de la parcelle validées avec succès,Informations de la parcelle validées avec succès,Parcel info successfully validated,Paketinfo erfolgreich validiert,Informazioni sul pacco convalidate con successo,Información de la parcela validada correctamente
 Faible,Faible,Low,Niedrig,Basso,Bajo
-Moyen,Moyen,Moderate,Mäßig,Moderato,Moderado
-Elevé,Elevé,High,Hoch,Alto,Alto
+Moyen,Moyen,Medium,Mittel,Medio,Media
+Elevé,Elevé,High,Hoch,Alto,Alta
 Oui,Oui,Yes,Ja,Sì,Sí
 Non,Non,No,Nein,No,No
 Sable,Sable,Sand,Sand,Sabbia,Arena
@@ -609,11 +609,4 @@ Part de marché Volume,Part de marché Volume,Market share Volume,Marktanteil Vo
 Selection d'une zone,Selection d'une zone,Zone selection,Auswahl einer Zone,Selezione della zona,Selección de zonas
 Le tableau ci-dessous contient les prédictions de collecte pour le <u><b>maïs grain uniquement</b></u>.,Le tableau ci-dessous contient les prédictions de collecte pour le <u><b>maïs grain uniquement</b></u>.,The table below contains harvest forecast for <u><b>corn grain only</b></u>.,Die folgende Tabelle enthält die Erntevorhersagen für <u><b>Körnermais allein</b></u>.,La tabella seguente contiene le previsioni di raccolta per il solo <u><b>grano di mais</b></u>.,El rendimiento de maíz indicado corresponde al <u><b>rendimiento de <u><b>maíz en grano</b></u>.
 Vous n'avez pas souscrit à ce module,Vous n'avez pas souscrit à ce module,You have not subscribed to this module,Sie haben dieses Modul nicht abonniert,Non si è iscritti a questo modulo,No te has suscrito a este módulo
-Faible,Faible,Low,Gering,Basso,Bajo
-Moyen,Moyen,Medium,Mittel,Medio,Media
-Elevé,Elevé,High,Hoch,Alto,Alta
-Stress hydrique,Stress hydrique,Water stress,Stress durch Wasser,Stress idrico,Estrés hídrico
-Irrigation,Irrigation,Irrigation,Bewässerung,Irrigazione,Riego
-Irriguée,Irriguée,Irrigated,Bewässert,Irrigato,Regadío
-Non irriguée,Non irriguée,Non-irrigated,Nicht bewässert,Non irrigato,No regado
 à partir de la semaine,à partir de la semaine,from week,ab Woche,dalla settimana,de la semana
