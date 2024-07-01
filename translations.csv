@@ -609,3 +609,11 @@ Part de marché Volume,Part de marché Volume,Market share Volume,Marktanteil Vo
 Selection d'une zone,Selection d'une zone,Zone selection,Auswahl einer Zone,Selezione della zona,Selección de zonas
 Le tableau ci-dessous contient les prédictions de collecte pour le <u><b>maïs grain uniquement</b></u>.,Le tableau ci-dessous contient les prédictions de collecte pour le <u><b>maïs grain uniquement</b></u>.,The table below contains harvest forecast for <u><b>corn grain only</b></u>.,Die folgende Tabelle enthält die Erntevorhersagen für <u><b>Körnermais allein</b></u>.,La tabella seguente contiene le previsioni di raccolta per il solo <u><b>grano di mais</b></u>.,El rendimiento de maíz indicado corresponde al <u><b>rendimiento de <u><b>maíz en grano</b></u>.
 Vous n'avez pas souscrit à ce module,Vous n'avez pas souscrit à ce module,You have not subscribed to this module,Sie haben dieses Modul nicht abonniert,Non si è iscritti a questo modulo,No te has suscrito a este módulo
+Faible,Faible,Low,Gering,Basso,Bajo
+Moyen,Moyen,Medium,Mittel,Medio,Media
+Elevé,Elevé,High,Hoch,Alto,Alta
+Stress hydrique,Stress hydrique,Water stress,Stress durch Wasser,Stress idrico,Estrés hídrico
+Irrigation,Irrigation,Irrigation,Bewässerung,Irrigazione,Riego
+Irriguée,Irriguée,Irrigated,Bewässert,Irrigato,Regadío
+Non irriguée,Non irriguée,Non-irrigated,Nicht bewässert,Non irrigato,No regado
+à partir de la semaine,à partir de la semaine,from week,ab Woche,dalla settimana,de la semana
