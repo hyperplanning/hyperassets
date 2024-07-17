@@ -1,222 +1,215 @@
 TAG,FR,EN,DE,IT,ES
-Hyperplan,,Hyperplan,,,
-Close,,Close,,,
-Cartography,,Cartography,,,
-Crop Rotation,,Crop Rotation,,,
-Hyperplan map,,Hyperplan map,,,
-Satellite map,,Satellite map,,,
-Geolocate me,,Geolocate me,,,
-Find address,,Find address,,,
-Download PNG,,Download PNG,,,
-You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [120]),,You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [120]),,,
-Add background layer,,Add background layer,,,
-silos,,silos,,,
-farms,,farms,,,
-Hide,,Hide,,,
-Show,,Show,,,
-H,,H,,,
-Updated every first saturday of each month,,Updated every first saturday of each month,,,
-Download CSV,,Download CSV,,,
-Hectares,,Hectares,,,
-Yield,,Yield,,,
-Volume,,Volume,,,
-Total,,Total,,,
-Show more,,Show more,,,
-Updated every tuesday,,Updated every tuesday,,,
-Collect forecast,,Collect forecast,,,
-Data history,,Data history,,,
-User management,,User management,,,
-Zone management,,Zone management,,,
-Logout,,Logout,,,
-Select all,,Select all,,,
-Unselect all,,Unselect all,,,
-Cancel,,Cancel,,,
-Save,,Save,,,
-User preferences,,User preferences,,,
-Crops of interest,,Crops of interest,,,
-Please select crops you want to see accross the app.,,Please select crops you want to see accross the app.,,,
-You can select all crops or up to five.,,You can select all crops or up to five.,,,
-Parcel identifier,,Parcel identifier,,,
-Latitude;Longitude,,Latitude;Longitude,,,
-Parcels,,Parcels,,,
-Views,,Views,,,
-Filter,,Filter,,,
-User profile,,User profile,,,
-Additional information,,Additional information,,,
-My parcels,,My parcels,,,
-Cultural failure risk,,Cultural failure risk,,,
-This field is required,,This field is required,,,
-Crops,,Crops,,,
-Parcel characteristics,,Parcel characteristics,,,
-All crops,,All crops,,,
-Select all crops from the list below,,Select all crops from the list below,,,
-Select caracteristics you want to see for parcels.,,Select caracteristics you want to see for parcels.,,,
-Select all caracteristics from the list below,,Select all caracteristics from the list below,,,
-All caracteristics,,All caracteristics,,,
-Surface,,Surface,,,
-All,,All,,,
-Favorite filters,,Favorite filters,,,
-I want to filter on parcels located in my territory,,I want to filter on parcels located in my territory,,,
-Some criterias are incorrects,,Some criterias are incorrects,,,
-Caracteristic,,Caracteristic,,,
-whose,,whose,,,
-or,,or,,,
-and,,and,,,
-equal to,,equal to,,,
-greater than,,greater than,,,
-lower than,,lower than,,,
-after,,after,,,
-before,,before,,,
-in,,in,,,
-Value is not in accepted range,,Value is not in accepted range,,,
-zone,,zone | zones,,,
-Invalid email address,,Invalid email address,,,
-Each item must be a valid email,,Each item must be a valid email,,,
-Value does not match,,Value does not match,,,
-Password does not match,,Password does not match,,,
-Email does not match,,Email does not match,,,
-ha,,ha,,,
-t/ha,,t/ha,,,
-t,,t,,,
-Soil type,,Soil type,,,
-Product,,Product,,,
-I3P,,I3P,,,
-Irrigation,,Irrigation,,,
-Hydric stress,,Hydric stress,,,
-Temperature,,Temperature,,,
-Rainfall,,Rainfall,,,
-NDVI,,NDVI,,,
-Area,,Area,,,
-Municipality,,Municipality,,,
-and whose,,and whose,,,
-is,,is,,,
-Value,,Value,,,
-Sections,,Sections,,,
-View,,View,,,
-Split,,Split,,,
-Today,,Today,,,
-Zone,,Zone,,,
-Crop,,Crop,,,
-Last name,,Last name,,,
-First name,,First name,,,
-Email,,Email,,,
-Role,,Role,,,
-Accessible territories,,Accessible territories,,,
-Actions,,Actions,,,
-My colleagues,,My colleagues,,,
-possibles,,possibles,,,
-Add a colleague,,Add a colleague,,,
-Entire territory accessible,,Entire territory accessible,,,
-User,,User,,,
-Admin,,Admin,,,
-SuperAdmin,,SuperAdmin,,,
-No limitation,,No limitation,,,
-Resend invitation,,Resend invitation,,,
-Pending...,,Pending...,,,
-Created from CRM,,Created from CRM,,,
-Email sent,,Email sent,,,
-Invite to join,,Invite to join,,,
-Non-existent account,,Non-existent account,,,
-Welcome !,,Welcome !,,,
-Please enter your credentials,,Please enter your credentials,,,
-Forgot your password ?,,Forgot your password ?,,,
-A question ? Send us an email at,,A question ? Send us an email at,,,
-Password,,Password,,,
-Log in,,Log in,,,
-Do you need more information at parcel level ?,,Do you need more information at parcel level ?,,,
-Please fill,,Please fill,,,
-this form,,this form,,,
-to let us know,,to let us know,,,
-Management,,Management,,,
-Overview,,Overview,,,
-Zone group,,Zone group,,,
-Create new zone,,Create new zone,,,
-Export to CSV,,Export to CSV,,,
-Edit,,Edit,,,
-Delete,,Delete,,,
-You are the only one that can access this zone group,,You are the only one that can access this zone group,,,
-Zone group creation,,Zone group creation,,,
-Delete zone group,,Delete zone group,,,
-Are you sure you want to delete this zone group and all its zones ?,,Are you sure you want to delete this zone group and all its zones ?,,,
-This action is irreversible,,This action is irreversible,,,
-Please type the exact zoning name to proceed,,Please type the exact zoning name to proceed,,,
-Name,,Name,,,
-Zone group name,,Zone group name,,,
-Zone composition,,Zone composition,,,
-Zone group rules,,Zone group rules,,,
-"Finally, choose if it is possible or not for several zones to overlap",,"Finally, choose if it is possible or not for several zones to overlap",,,
-Exclusive zones,,Exclusive zones,,,
-Non exclusive zones,,Non exclusive zones,,,
-"A zone group is a group of zones of same type. For example: zone group ""Sections"" is made of my TC zones.",,"A zone group is a group of zones of same type. For example: zone group ""Sections"" is made of my TC zones.",,,
-Create,,Create,,,
-from scratch,,from scratch,,,
-Duplicate,,Duplicate,,,
-from existing,,from existing,,,
-Import,,Import,,,
-from csv,,from csv,,,
-"First of all, choose the name of the new zone group",,"First of all, choose the name of the new zone group",,,
-Next,,Next,,,
-"Then, define how zones will be composed",,"Then, define how zones will be composed",,,
-My zones will be composed by,,My zones will be composed by,,,
-Previous,,Previous,,,
-"First of all, choose which zoning you want to duplicate",,"First of all, choose which zoning you want to duplicate",,,
-Zones import,,Zones import,,,
-Download excel template,,Download excel template,,,
-and fill it to define zones.,,and fill it to define zones.,,,
-Zones,,Zones,,,
-Please upload filled template,,Please upload filled template,,,
-Import failed,,Import failed,,,
-Import successfull,,Import successfull,,,
-detected,,detected,,,
-Zone group to duplicate,,Zone group to duplicate,,,
-Parcel,,Parcel,,,
-Rotations,,Rotations,,,
-Caracteristics,,Caracteristics,,,
-Parcel caracteristic edition,,Parcel caracteristic edition,,,
-No data found,,No data found,,,
-Configure,,Configure,,,
-Administrative,,Administrative,,,
-Custom,,Custom,,,
-Show farms,,Show farms,,,
-Country,,Country,,,
-Rapeseed,,Rapeseed,,,
-Sunflower,,Sunflower,,,
-Winter wheat,,Winter wheat,,,
-Other cereals,,Other cereals,,,
-Other vegetables,,Other vegetables,,,
-Beetroot,,Beetroot,,,
-Hemp,,Hemp,,,
-Beans,,Beans,,,
-Linen,,Linen,,,
-Alfalfa,,Alfalfa,,,
-Maize,,Maize,,,
-Meadow,,Meadow,,,
-Peas,,Peas,,,
-Potatoes,,Potatoes,,,
-Rice,,Rice,,,
-Soya,,Soya,,,
-Spring barley,,Spring barley,,,
-Spring wheat,,Spring wheat,,,
-Triticale,,Triticale,,,
-Vineyards,,Vineyards,,,
-Winter barley,,Winter barley,,,
-Value calculated thanks to crop rotation logic,,Value calculated thanks to crop rotation logic,,,
-Phenology,,Phenology,,,
-Crop confidence score,,Crop confidence score,,,
-parcels,,parcels,,,
-Municipalities,,Municipalities,,,
-Departments,,Departments,,,
-Welcome to Hyperplan !,,Welcome to Hyperplan !,,,
-Account creation,,Account creation,,,
-Profession,,Profession,,,
-Password,,Password,,,
-Create account,,Create account,,,
-Farm market share,,Farm market share,,,
-Tag,,Tag,,,
-Parcel farm,,Parcel farm,,,
-Closest silo,,Closest silo,,,
-Farms with no field sales,,Farms with no field sales,,,
-Filters,,Filters,,,
-Add to favorite,,Add to favorite,,,
-Edit filters,,Edit filters,,,
-Irrigated,,Irrigated,,,
+Hyperplan,Hyperplan,Hyperplan,Hyperplan,Hyperplan,Hyperplan
+Close,Fermer,Close,Schließen,Chiudere,Cerrar
+Cartography,Cartographie,Cartography,Feldkarte,Mappa del campo,Mapa del campo
+Crop Rotation,Rotation cultures,Crop Rotation,Fruchtfolge,Rotazione delle colture,Recortar rotación
+Hyperplan map type,Carte Hyperplan,Hyperplan map type,Hyperplan-Kartentyp,Tipo di mappa Hyperplan,Tipo de mapa hiperplano
+Satellite map type,Carte satellite,Satellite map type,Typ der Satellitenkarte,Tipo di mappa satellitare,Tipo de mapa satélite
+Geolocate me,Me géolocaliser,Geolocate me,Geolokalisiere mich,Geolocalizzami,Geolocalízame
+Find address,Rechercher une adresse,Find address,Adresse finden,Trova indirizzo,Encontrar dirección
+Download PNG,Télécharger PNG,Download PNG,PNG herunterladen,Scarica PNG,Descargar PNG
+You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [120]),Vous pouvez également rechercher des coordonnées (ex: 48.86;2.33) ou un identifiant de parcelle (ex: [120]),You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [120]),Sie können auch nach Koordinaten (z.B.: 48.86;2.33) oder einer Parzellenkennung (z.B.: [120]) suchen.,È anche possibile cercare le coordinate (ad esempio, 48.86;2.33) o un identificatore di parcella (ad esempio, [120]).,También puedes buscar por coordenadas (ej: 48.86;2.33) o id de parcela (ej: [120])
+Add a background layer,Ajouter un calque en arrière plan,Add a background layer,Eine Ebene im Hintergrund hinzufügen,Aggiunta di un livello di sfondo,Añadir una capa de fondo
+silos,les silos,silos,die Silos,silos,silos
+farms,les exploitations,farms,die Betriebe,fattorie,granjas
+Hide,Masquer,Hide,Ausblenden,Nascondi,Ocultar
+Display,Afficher,Display,Anzeige,Display,Mostrar
+H,R,H,E,R,C
+Updated every first Thursday of each month,Mis à jour chaque premier samedi du mois,Updated every first Thursday of each month,Wird jeden ersten Samstag im Monat aktualisiert.,Aggiornato ogni primo sabato del mese,Actualización cada primer sábado de mes
+Download CSV,Télécharger CSV,Download CSV,,,
+Hectares,hectares,Hectares,Hektar,ettari,hectáreas
+Yield,Rendement,Yield,Ausbeute,Rendimento,Rendimiento
+Volume,Volume,Volume,Volumen,Volume,Volumen
+Total,Total,Total,Gesamt,Totale,Total
+Show more,Voir plus,Show more,Mehr anzeigen,Mostra di più,Ver más
+Updated every tuesday,Mis à jour tous les mardis,Updated every tuesday,Jeden Dienstag aktualisiert,Aggiornato ogni martedì,Actualizado cada martes
+Collect forecast,Prévisionnel de collecte,Collect forecast,Prognose sammeln,Previsione di incasso,Recoger previsión
+Data history,Historique des données,Data history,Datengeschichte,Storia dei dati,Historial de datos
+User management,Gestion des utilisateurs,User management,Datentyp,Gestione degli utenti,Gestión de usuarios
+Territories management,Gestion des territoires,Territories management,Verwaltung von Gebieten,Gestione del territorio,Gestión del territorio
+Logout,Déconnexion,Logout,Abmelden,,
+Select all,Tout sélectionner,Select all,Alle auswählen,Seleziona tutto,Seleccionar todo
+Unselect all,Désélectionner tout,Unselect all,Alle abwählen,Deseleziona tutti,Deseleccionar todo
+Cancel,annuler,Cancel,abbrechen,annullare,cancelar
+Save,Sauvegarder,Save,Speichern,Salva,Guardar
+User preferences,Préférences utilisateur,User preferences,Benutzereinstellungen,Preferenze dell'utente,Preferencias del usuario
+Crops of interest,Cultures d'intérêt,Crops of interest,Pflanzen von Interesse,Colture di interesse,Cultivos de interés
+Please select crops you want to see across the app.,Choisissez les cultures que vous souhaitez voir à travers l'application.,Please select crops you want to see across the app.,Bitte wählen Sie die Kulturen aus,Selezionare le colture che si desidera visualizzare in tutta l'applicazione.,Seleccione los cultivos que desea ver en la aplicación.
+You can select all crops or up to five.,Vous pouvez sélectionner toutes les cultures, ou bien en choisir jusqu'à 5 maximum.,You can select all crops or up to five.,Sie können alle Kulturen oder bis zu fünf auswählen.,È possibile selezionare tutte le colture o solo cinque.,Puede seleccionar todos los cultivos o hasta cinco.
+Parcel ID,Identifiant parcel,Parcel ID,Parzellen-ID,ID parcella,ID de parcela
+Latitude;Longitude,Latitude ; Longitude,Latitude;Longitude,Breitengrad;Längengrad,Latitudine; Longitudine,Latitud;Longitud
+Parcels,parcelles,Parcels,Pakete,parcelle,parcelas
+parcels,parcelles,parcels,Pakete,parcelle,parcelas
+Views,Vues,Views,Ansichten,Visualizzazioni,Vistas
+Filter,Filtre,Filter,Filtern,Filtro,Filtrar
+My profile,Mon profil,My profile,Mein Profil,Il mio profilo,Mi perfil
+Additional information,Informations supplémentaires,Additional information,Zusätzliche Daten,,
+My parcels,Mes parcelles,My parcels,Meine Parzellen,Le mie parcelle,Mis parcelas
+Cultural failure risk,Risque d'échec culture,Cultural failure risk,Kulturelles Ausfallrisiko,Rischio di fallimento culturale,Riesgo de fallo cultural
+This field is required,Ce champ est obligatoire.,This field is required,Dieses Feld ist erforderlich,Questo campo è obbligatorio,Este campo es obligatorio
+Crops,Cultures d'intérêt,Crops,Kulturen,Colture,Cultivos
+Parcel characteristics,Caractéristique parcelle,Parcel characteristics,Merkmal Parzelle,Trama caratteristica,Característica de parcela
+All crops,Toutes les cultures,All crops,Alle Feldfrüchte,Tutte le colture,Todos los cultivos
+Select characteristics you want to see for parcels.,Choisissez les caractèristiques que vous souhaitez voir à l'échelle de la parcelle.,Select characteristics you want to see for parcels.,Wählen Sie die Merkmale aus,Selezionare le caratteristiche che si desidera visualizzare per le parcelle.,Seleccione las características que desea ver para las parcelas.
+All characteristics,Toutes les caractéristiques,All characteristics,Alle Merkmale,Tutte le caratteristiche,Todas las características
+Surface,Surface,Surface,Oberfläche,Superficie,Superficie
+All,Tous,All,Alle,Tutti,Todos
+Favorite filters,Mes filtres favoris,Favorite filters,Bevorzugte Filter,Filtri preferiti,Filtros favoritos
+I want to filter on parcels located in my territory,Je veux filtrer sur les parcelles de mon territoire,I want to filter on parcels located in my territory,Ich möchte nach Flurstücken filtern,Voglio filtrare le parcelle situate nel mio territorio,Quiero filtrar las parcelas situadas en mi territorio
+Some criterias are incorrect,Certains critères sont incorrects,Some criterias are incorrect,Einige Kriterien sind inkorrekt,Alcuni criteri non sono corretti,Algunos criterios son incorrectos
+Caracteristic,Caractéristique,Caracteristic,Merkmal,Caratteristica,Característica
+whose,dont le,whose,dessen,il cui,cuyo
+or,ou,or,oder,o,o
+and,et,and,und,e,y
+equal to,égal à ,equal to,gleich,uguale a,igual a
+greater than,supérieur à ,greater than,größer als,maggiore di,mayor que
+lower than,inférieur à,lower than,niedriger als,inferiore a,menor que
+after,Après le,after,Nach,Dopo,Después de
+before,Avant le,before,Vorher,Prima,Antes
+in,dans,in,in,in,en
+Value is not in accepted range,La valeur n'est pas dans la fourchette acceptée,Value is not in accepted range,Wert liegt nicht im akzeptierten Bereich,Il valore non rientra nell'intervallo accettato,El valor no está en el rango aceptado
+zone,zone | zones,zone | zones,Zone | Zonen,zona | zone,zona | zonas
+Zone,Zone,Zone,Zone,Zona,Zona
+Please enter a valid email,Merci de rentrer un email valide,Please enter a valid email,Bitte geben Sie eine gültige E-Mail ein,Inserire un'e-mail valida,Por favor
+Each item must be a valid email,Tous les emails doivent être valides,Each item must be a valid email,Jedes Element muss eine gültige E-Mail sein,Ogni elemento deve essere un'e-mail valida,Cada elemento debe ser un email válido
+Values do not match,Les valeurs ne correspondent pas,Values do not match,Die Werte stimmen nicht überein,I valori non corrispondono,Los valores no coinciden
+Passwords do not match,Les mots de passe ne correspondent pas,Passwords do not match,Passwörter stimmen nicht überein,Le password non corrispondono,Las contraseñas no coinciden
+Email does not match,Les emails ne correspondent pas,Email does not match,E-Mail stimmt nicht überein,L'e-mail non corrisponde,El correo electrónico no coincide
+ha,ha,ha,ha,ha,ha
+t/ha,t/ha,t/ha,t/ha,t/ha,t/ha
+t,t,t,t,t,t
+Soil texture,Texture du sol,Soil texture,Bodenbeschaffenheit,Struttura del suolo,Textura del suelo
+I3P,I3P,I3P,I3P,I3P,I3P
+Irrigation,Irrigation,Irrigation,Bewässerung,Irrigazione,Riego
+Water stress,Stress hydrique,Water stress,Wasserstress,Stress idrico,Estrés hídrico
+Accumulated temperatures,Températures cumulées,Accumulated temperatures,Kumulierte Temperaturen,Temperature accumulate,Temperaturas acumuladas
+Accumalated rainfall,Précipitations cumulées,Accumalated rainfall,Kumulierte Niederschlagsmenge,Precipitazioni accumulate,Precipitaciones acumuladas
+NDVI,NDVI,NDVI,NDVI,NDVI,NDVI
+Area,Surface,Area,Gebiet,Area,Superficie
+Municipality,Commune,Municipality,Gemeinde,Comune,Municipio
+and whose,et dont,and whose,und dessen,e il cui,y cuyo
+is,est,is,ist,è,es
+Value,Valeur,Value,Wert,Valore,Valor
+Sections,Sections,Sections,Abschnitte,Sezioni,Secciones
+View,Vue,View,Ansicht,Vista,Ver
+Split,Répartition,Split,Aufgeteilt,Dividere,Dividir
+Today,Auj.,Today,Heute,Oggi,Hoy
+Crop,Culture,Crop,Ernte,Colture,Cultivo
+Last name,Nom de famille,Last name,Nachname,Cognome,Apellidos
+First name,Prénom,First name,Vorname,Nome,Nombre y apellidos
+Email,Email,Email,E-Mail,Email,Correo electrónico
+Role,Rôle,Role,Rolle,Ruolo,Función
+Accessible territories,Territoires accessibles,Accessible territories,Erreichbare Territorien,Territori accessibili,Territorios accesibles
+Actions,Actions,Actions,Aktionen,Azioni,Acciones
+My colleagues,Mes collaborateurs,My colleagues,Meine Kollegen,I miei colleghi,Mis colegas
+possibles,possibles,possibles,Möglichkeiten,Possibili,posibles
+Invite a colleague,Inviter un collaborateur,Invite a colleague,Einen Mitarbeiter einladen,Invita un collega,Invitar a un compañero
+All accessible territory,Ensemble du territoire accessible,All accessible territory,Hinzuf√ºgen einer Spalte,Tutto il territorio accessibile,Todo el territorio accesible
+User,Utilisateur,User,Benutzer,Utente,Usuario
+Admin,Administrateur,Admin,Verwaltung,Admin,Admin
+SuperAdmin,SuperAdmin,SuperAdmin,SuperAdmin,SuperAdmin,SuperAdmin
+No limitation,Pas de limitation,No limitation,Merkmal Parzelle,Nessuna limitazione,Sin limitación
+Resend invitation,Renvoyer l'invitation,Resend invitation,Einladung erneut senden,Invia nuovamente l'invito,Reenviar invitación
+Pending...,En attente...,Pending...,In der Warteschleife...,In attesa...,Esperando...
+Created from CRM,Créé à partir du CRM,Created from CRM,Aus CRM erstellt,Creato dal CRM,Creado desde CRM
+Email sent,Invitation envoyée,Email sent,E-Mail gesendet,Email inviata,Email enviado
+Invite to join,Inviter un collaborateur,Invite to join,Zum Beitritt einladen,Invito a partecipare,Invitar a unirse
+Non-existent account,Compte inexistant,Non-existent account,Nicht vorhandenes Konto,Account inesistente,Cuenta inexistente
+Welcome!,Bienvenue !,Welcome!,Willkommen!,Benvenuti!,¡Bienvenido!
+Please enter your credentials,Merci de saisir vos identifiants,Please enter your credentials,Bitte geben Sie Ihre Anmeldedaten ein,Inserire le proprie credenziali,Por favor, introduce tus credenciales
+Forgot your password ?,Mot de passe oublié ?,Forgot your password ?,Haben Sie Ihr Passwort vergessen?,Hai dimenticato la password?,¿Has olvidado tu contraseña?
+A question ? Send us an email at,Une question ? Envoyez nous un mail à,A question ? Send us an email at,Eine Frage? Schicken Sie uns eine E-Mail an,Una domanda? Inviateci un'e-mail a,¿ Alguna pregunta? Envíenos un correo electrónico a
+Password,Mot de passe,Password,Kennwort,Password,Contraseña
+Password,Mot de passe,Password,Kennwort,Password,Contraseña
+Log in,Se connecter,Log in,Anmelden,Log in,Conectarse
+Do you need more information at parcel level ?,Vous souhaitez voir d'autres informations au niveau de la parcelle ?,Do you need more information at parcel level ?,Benötigen Sie weitere Informationen auf Paketebene?,Hai bisogno di ulteriori informazioni a livello di parcella?,¿Necesita más información a nivel de parcela?
+Please fill,Merci de remplir,Please fill,Bitte füllen Sie,Compilare,Rellene
+this form,ce formulaire,this form,dieses Formular,questo modulo,este formulario
+to let us know,,to let us know,um es uns mitzuteilen,per comunicarcelo,para comunicárnoslo
+Management,Gestion,Management,Verwaltung,Gestione,Gestión
+Overview,Vue d'ensemble,Overview,Übersicht,Vista complessiva,Vista general
+Zone group,Sectorisation,Zone group,Zone gruppieren,Gruppo di zone,Grupo de zonas
+Create a new zone,Créer une nouvelle zone,Create a new zone,Neue Zone erstellen,Creare una nuova zona,Crear nueva zona
+Export to CSV,Exporter en CSV,Export to CSV,In CSV exportieren,Esportazione in CSV,Exportar a CSV
+Edit,Modifier,Edit,Bearbeiten,Modifica,Editar
+Delete,Supprimer,Delete,Löschen,Elimina,Borrar
+You are the only one that can access this zone group,Vous êtes le seul à pouvoir voir cette sectorisation,You are the only one that can access this zone group,Sie sind der Einzige,Solo voi potete accedere a questo gruppo di zone,Usted es el único que puede acceder a este grupo de zonas
+Zone group creation,Création d'une sectorisation,Zone group creation,Erstellen einer Zonengruppe,Creazione del gruppo di zone,Creación de un grupo de zonas
+Delete zone group,Supprimer une sectorisation,Delete zone group,Zonengruppe löschen,Elimina gruppo di zone,Eliminar grupo de zonas
+Are you sure you want to delete this zone group and all its zones ?,Etes vous sur de vouloir supprimer cette sectorisation et toutes les zones qui la composent ?,Are you sure you want to delete this zone group and all its zones ?,Sind Sie sicher,Siete sicuri di voler eliminare questo gruppo di zone e tutte le sue zone?,¿Está seguro de que desea eliminar este grupo de zonas y todas sus zonas?
+This action is irreversible,Cette action est irréversible,This action is irreversible,Dieser Vorgang ist nicht umkehrbar.,Questa azione è irreversibile,Esta acción es irreversible
+Please type the exact zoning name to proceed,Merci de saisir le nom exact de la zone pour confirmer,Please type the exact zoning name to proceed,Bitte geben Sie den genauen Zonennamen ein,Digitare il nome esatto della zona per procedere,Por favor
+Name,Nom,Name,Name,Nome,Nombre
+Zone group name,Nom de la sectorisation,Zone group name,Name der Zonengruppe,Nome del gruppo di zone,Nombre del grupo de zonas
+Zone composition,Composition de la zone,Zone composition,Zusammensetzung der Zone,Composizione della zona,Composición de la zona
+Zone group rules,Paramètres de la sectorisation,Zone group rules,Regeln für die Zonengruppe,Regole del gruppo di zone,Reglas del grupo de zonas
+Finally"," choose if it is possible or not for several zones to overlap,Enfin"," choisissez si vous souhaitez autoriser le chevauchement des zones,Finally"," choose if it is possible or not for several zones to overlap,Wählen Sie abschließend,Infine,Por último
+Exclusive zones,Zones exclusives,Exclusive zones,Exklusive Zonen,Zone esclusive,Zonas exclusivas
+Non exclusive zones,Zones non exclusives,Non exclusive zones,Nicht exklusive Zonen,Zone non esclusive,Zonas no exclusivas
+A zone group is a group of zones of same type. For example: zone group "Sections" is made of my TC zones.,Une sectorisation est un groupe de zones de même type. Par exemple"," une sectorisation "Sections" peut être composée des zones de vos TC.,A zone group is a group of zones of same type. For example: zone group "Sections" is made of my TC zones.,Eine Zonengruppe ist eine Gruppe von Zonen desselben Typs. Zum Beispiel: Die Zonengruppe "Sections" besteht aus meinen TC-Zonen.,Un gruppo di zone è un gruppo di zone dello stesso tipo. Ad esempio,Un grupo de zonas es un conjunto de zonas del mismo tipo. Por ejemplo: el grupo de zonas "Secciones" está formado por mis zonas TC.
+Create,Créer,Create,Erstellen Sie,Creare,Cree
+from scratch,à partir d'une carte vierge,from scratch,von Grund auf,da zero,desde cero
+Duplicate,Dupliquer,Duplicate,Duplizieren,Duplicare,Duplicar
+from existing,une sectorisation existante,from existing,aus bestehenden,da una esistente,desde existente
+Import,Importer,Import,importieren,Importare,Importar
+from csv,depuis un fichier excel,from csv,aus csv,da csv,desde csv
+First of all"," choose the name of the new zone group,Commencez par définir le nom de votre sectorisation,First of all"," choose the name of the new zone group,Wählen Sie zunächst den Namen der neuen Zonengruppe,Prima di tutto,En primer lugar
+Next,Suivant,Next,Weiter,Poi,Siguiente
+Then"," define how zones will be composed,Ensuite"," choisissez de quoi sont constituées vos zones,Then"," define how zones will be composed,Legen Sie dann fest,Quindi,A continuación
+My zones will be composed by,Mes zones seront composées de,My zones will be composed by,Meine Zonen werden wie folgt zusammengesetzt sein,Le mie zone saranno composte da,Mis zonas estarán compuestas por
+Previous,Précédent,Previous,Vorherige,Precedente,Anterior
+First of all"," choose which zoning you want to duplicate,Commencez par choisir la sectorisation que vous voulez dupliquer,First of all"," choose which zoning you want to duplicate,Wählen Sie zunächst,Prima di tutto,En primer lugar
+Zones import,Import des zones,Zones import,Zonen importieren,Importazione delle zone,Importar zonas
+Download excel template,Télécharger le template excel,Download excel template,Excel-Vorlage herunterladen,Scaricare il modello excel,Descargar plantilla excel
+and fill it to define zones.,et remplissez le afin de definir vos zones.,and fill it to define zones.,und füllen Sie sie aus,e compilarlo per definire le zone.,y rellénela para definir las zonas.
+Zones,zones,Zones,Zonen,zone,zonas
+Please upload filled template,Déposez ici le template complété,Please upload filled template,Bitte laden Sie die ausgefüllte Vorlage hoch,Caricare il modello compilato,Por favor
+Import failed,Echec de l'import,Import failed,Import fehlgeschlagen,Importazione non riuscita,Importación fallida
+Import successfull,Import réalisé avec succès,Import successfull,Import erfolgreich,Importazione riuscita,Importación correcta
+detected,détectées,detected,entdeckt,rilevato,detectado
+Zone group to duplicate,Sectorisation à dupliquer,Zone group to duplicate,Zonengruppe zu duplizieren,Gruppo di zone da duplicare,Grupo de zonas a duplicar
+Parcel,Parcelle,Parcel,Parzelle,Parcella,Paquete
+Rotations,Rotations,Rotations,Rotationen,Rotazioni,Rotaciones
+Characteristics,Caractéristiques,Characteristics,Merkmale,Caratteristiche,Características
+Parcel characteristic edition,Modification des caractéristiques parcelles,Parcel characteristic edition,Ausgabe des Merkmals Parzelle,Edizione delle caratteristiche del pacco,Edición de características de la parcela
+No data found,Aucune donnée n'a été trouvée,No data found,Keine Daten gefunden,Nessun dato trovato,No se han encontrado datos
+Configure,Configurer,Configure,Konfigurieren Sie,Configurare,Configurar
+Administrative,Administratif,Administrative,Administrativ,Amministrativo,Administrativo
+Custom,Personnalisée,Custom,Benutzerdefiniert,Personalizzato,Personalizar
+Display farms,Afficher les exploitations,Display farms,Betriebe anzeigen,Visualizza le aziende agricole,Visualizar explotaciones
+Country,Pays,Country,Land,Paese,País
+Rapeseed,Colza,Rapeseed,Raps,Colza,Colza
+Sunflower,Tournesol,Sunflower,Sonnenblume,Girasole,Girasol
+Winter wheat,Blé d'hiver,Winter wheat,Winterweizen,Grano invernale,Trigo de invierno
+Other cereals,Autres céréales,Other cereals,Andere Getreidearten,Altri cereali,Otros cereales
+Other vegetables,Autres légumes,Other vegetables,Sonstiges Gemüse,Altre verdure,Otras hortalizas
+Beet,Betterave,Beet,Rübe,Barbabietola,Remolacha
+Hemp,Chanvre,Hemp,Hanf,Canapa,Cáñamo
+Beans,Haricots,Beans,Bohnen,Fagioli,Judías
+Linen,Lin,Linen,Leinen,Lino,Lino
+Alfalfa,Luzerne,Alfalfa,Alfalfa,Alfalfa,Alfalfa
+Maize,Maïs,Maize,Mais,Mais,Maíz
+Meadows,Prairies,Meadows,Wiesen,Prati,Prados
+Peas,Pois,Peas,Erbsen,Piselli,Guisantes
+Potato,Pomme de terre,Potato,Kartoffel,Patata,Patata
+Rice,Riz,Rice,Reis,Riso,Arroz
+Soy,Soja,Soy,Soja,Soia,Soja
+Spring barley,Orge de printemps,Spring barley,Sommergerste,Orzo primaverile,Cebada de primavera
+Spring wheat,Blé de printemps,Spring wheat,Sommerweizen,Grano primaverile,Trigo de primavera
+Triticale,Triticale,Triticale,Triticale,Triticale,Triticale
+Vineyards,Vignes,Vineyards,Weinberge,Vigneti,Viñedos
+Winter barley,Orge d'hiver,Winter barley,Wintergerste,Orzo invernale,Cebada de invierno
+Value calculated on the basis of crop rotation logic,Valeur calculée sur la base de logique de rotations de cultures,Value calculated on the basis of crop rotation logic,Auf der Grundlage von Fruchtfolgelogik berechneter Wert.,Valore calcolato in base alla logica della rotazione delle colture,Valor calculado en base a la lógica de rotación de cultivos
+Phenological stages,Stades phénologiques,Phenological stages,Phänologische Stadien,Fasi fenologiche,Etapas fenológicas
+Crop confidence score,Indice de confiance (culture),Crop confidence score,Konfidenzniveau der Kulturpflanzen,Punteggio di fiducia della coltura,Puntuación de confianza del cultivo
+Municipalities,Municipalités,Municipalities,Gemeinden,Comuni,Municipios
+Departments,Départements,Departments,Abteilungen,Dipartimenti,Departamentos
+Welcome to Hyperplan!,Bienvenue sur Hyperplan !,Welcome to Hyperplan!,Willkommen bei Hyperplan !,Benvenuti a Hyperplan !,¡Bienvenido a Hyperplan!
+Account creation,Création de compte,Account creation,Konto erstellen,Creazione dell'account,Creación de cuenta
+Company function,Fonction dans l'entreprise,Company function,Funktion in der Firma,Posizione in azienda,Posición en la empresa
+Create account,Créer le compte,Create account,Konto erstellen,Creare un account,Crear cuenta
+Market share volume,Part de marché volume,Farm market share,Marktanteil des Betriebs,Quota di mercato dell'azienda agricola,Cuota de mercado de la explotación
+Tag,Etiquette,Tag,Tag,Tag,Etiquetas
+Parcel farm,Exploitation rattachée à la ferme,Parcel farm,Parzellenbetrieb,Fattoria parcellare,Explotación parcelaria
+Closest silo,Silo le plus proche,Closest silo,Nächstes Silo,Silo più vicino,Silo más cercano
+Farms with no field sales,Exploitation non rattachée à un TC,Farms with no field sales,Bauernhöfe ohne Feldverkäufe,Aziende agricole senza vendite in campo,Explotaciones sin ventas en el campo
