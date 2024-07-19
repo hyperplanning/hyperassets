@@ -82,8 +82,8 @@ Soil texture,Texture du sol,Soil texture,Bodenbeschaffenheit,Struttura del suolo
 I3P,I3P,I3P,I3P,I3P,I3P
 Irrigation,Irrigation,Irrigation,Bewässerung,Irrigazione,Riego
 Water stress,Stress hydrique,Water stress,Wasserstress,Stress idrico,Estrés hídrico
-Accumulated temperatures,Températures cumulées,Accumulated temperatures,Kumulierte Temperaturen,Temperature accumulate,Temperaturas acumuladas
-Accumalated rainfall,Précipitations cumulées,Accumalated rainfall,Kumulierte Niederschlagsmenge,Precipitazioni accumulate,Precipitaciones acumuladas
+Accumulated temperature,Températures cumulées,Accumulated temperature,Kumulierte Temperaturen,Temperature accumulate,Temperaturas acumuladas
+Accumulated rainfall,Précipitations cumulées,Accumulated rainfall,Kumulierte Niederschlagsmenge,Precipitazioni accumulate,Precipitaciones acumuladas
 NDVI,NDVI,NDVI,NDVI,NDVI,NDVI
 Area,Surface,Area,Gebiet,Area,Superficie
 Municipality,Commune,Municipality,Gemeinde,Comune,Municipio
