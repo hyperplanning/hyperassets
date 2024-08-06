@@ -106,7 +106,6 @@ Suivi cultural,Suivi cultural,Crop monitoring,Überwachung der Kulturen,Monitora
 j,j,d,d,d,d
 Total,Total,Total,Gesamt,Totale,Total
 Date début,Date début,Date of first,Datum des ersten,Data della prima,Fecha del primer
-Stade phénologique,Stade phénologique,Phenologic stages,Phänologische Stadien,Stadi fenologici,Fases fenológicas
 Montaison,Montaison,Bolting,Verschraubung,Imbullonatura,Brotación
 Floraison,Floraison,Flowering,Blüte,Fioritura,Floración
 Maturite,Maturité,Maturity,Reife,Maturità,Madurez
@@ -168,7 +167,7 @@ Voulez-vous vraiment supprimer cette zone,Voulez-vous vraiment supprimer cette z
 Années,Années,Years,Jahre,Anni,Años
 Historique des données,Historique des données,Data history,Datengeschichte,Storia dei dati,Historial de datos
 Maturité,Maturité,Maturity,Reife,Maturità,Madurez
-Phénologie,Phénologie,,,,
+Phénologie,Phénologie,Phenology,Phänologie,Fenologia,Fenología
 Assolement,Assolement,Crop rotation,Fruchtfolge,Rotazione delle colture,Rotación de cultivos
 Rotations,Rotations,Rotations,Rotationen,Rotazioni,Rotaciones
 Evolution,Evolution,Evolution,Entwicklung,Evoluzione,Evolución
