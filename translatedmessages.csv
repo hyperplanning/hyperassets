@@ -235,5 +235,6 @@ Hyperplan confidence score for crop prediction.,Score de confiance Hyperplan pou
 Regions,Régions,Regions,Regionen,Regioni,CCAA
 Values does not match,,Values does not match,,,
 Passwords does not match,,Passwords does not match,,,
-I want to filter on parcels...,,I want to filter on parcels...,,,
-Characteristic,,Characteristic,,,
+I want to filter on parcels...,Je veux filtrer les parcelles...,I want to filter on parcels...,Ich möchte nach Flurstücken filtern...,Voglio filtrare le parcelle...,Quiero filtrar por parcelas...
+Characteristic,Caractéristique,Characteristic,Charakteristisch,Caratteristica,Característica
+Custom selection,Sélection personalisée,Custom selection,Benutzerdefinierte Auswahl,Selezione personalizzata,Selección personalizada
