@@ -238,6 +238,25 @@ Passwords does not match,,Passwords does not match,,,
 I want to filter on parcels...,Je veux filtrer les parcelles...,I want to filter on parcels...,Ich möchte nach Flurstücken filtern...,Voglio filtrare le parcelle...,Quiero filtrar por parcelas...
 Characteristic,Caractéristique,Characteristic,Charakteristisch,Caratteristica,Característica
 Custom selection,Sélection personalisée,Custom selection,Benutzerdefinierte Auswahl,Selezione personalizzata,Selección personalizada
-Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,,,,,
+Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Surface*Rendement. Les parts de marché ne sont pas prises en compte. Mise à jour tous les mardis.,Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Fläche*Ertrag. Die Marktanteile werden nicht berücksichtigt. Wird jeden Dienstag aktualisiert.,Superficie*Rendimento. Le quote di mercato non sono prese in considerazione. Aggiornato ogni martedì.,Superficie*Rendimiento. No se tienen en cuenta las cuotas de mercado. Actualizado todos los martes.
 Zone group,,Zone group,,,
 Please select crops you want to see accross the app.,,Please select crops you want to see accross the app.,,,
+Low,Faible,Low,Niedrig,Basso,Bajo
+High,Elevé,High,Hoch,Alto,Alta
+Medium,Moyen,Medium,Mittel,Medio,Media
+Clay,Argile,Clay,Lehm,Argilla,Arcilla
+Clay loam,Limon argileux,Clay loam,Lehmboden,Terreno argilloso,Franco arcilloso
+Loam,Limon,Loam,Lehm,Limo,Marga
+Sandy loam,Limon sableux,Sandy loam,Sandiger Lehm,Terreno sabbioso,Franco arenoso
+Silty loam,Limon très fin,Silty loam,Schluffiger Lehm,Limo molto fine,Franco limoso
+Silty clay loam,Limon argileux fin,Silty clay loam,Schluffiger Tonlehm,,Limo argilloso,Franco arcilloso limoso
+Silty clay,Argile limoneuse,Silty clay,Schluffiger Ton,Argilla limacciosa,Arcilla limosa
+Sand,Sable,Sand,Sand,Sabbia,Arena
+Loamy sand,Sable limoneux,Loamy sand,Lehmiger Sand,Sabbia limosa,Arena limosa
+Silt,Limon fin,Silt,Schlick,Limo fine,Limo
+Sandy clay loam,Limon argilo-sableux,Sandy clay loam,Sandiger lehmiger Lehm,Terreno argilloso sabbioso,Franco arcilloso arenoso
+Sandy clay,Argile sableuse,Sandy clay,Sandiger Lehm,Argilla sabbiosa,Arcillo arenoso
+Irrigated,Irriguée,Irrigated,Bewässert,Irrigato,De regadío
+Not irrigated,Non irriguée,Not irrigated,Unbewässert,Non irrigato,Sin regar
+Sandy clay,Argile sableuse,Sandy clay,Sandiger Lehm,Argilla sabbiosa,Arcillo arenoso
+
