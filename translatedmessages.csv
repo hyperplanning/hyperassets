@@ -233,14 +233,11 @@ Crop surface multiplied by yield.,Surface de la culture multipliée par le rende
 Parcel municipality location.,Commune de la parcelle.,Parcel municipality location.,Standort der Parzellengemeinde.,Ubicazione del comune della parcella.,Localización del municipio de la parcela.
 Hyperplan confidence score for crop prediction.,Score de confiance Hyperplan pour la prédiction des cultures.,Hyperplan confidence score for crop prediction.,Hyperplan-Konfidenzwert für die Erntevorhersage.,Punteggio di fiducia Hyperplan per la previsione delle colture.,Puntuación de confianza de Hyperplan para la predicción de cultivos.
 Regions,Régions,Regions,Regionen,Regioni,CCAA
-Values does not match,,Values does not match,,,
-Passwords does not match,,Passwords does not match,,,
 I want to filter on parcels...,Je veux filtrer les parcelles...,I want to filter on parcels...,Ich möchte nach Flurstücken filtern...,Voglio filtrare le parcelle...,Quiero filtrar por parcelas...
 Characteristic,Caractéristique,Characteristic,Charakteristisch,Caratteristica,Característica
 Custom selection,Sélection personalisée,Custom selection,Benutzerdefinierte Auswahl,Selezione personalizzata,Selección personalizada
 Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Surface*Rendement. Les parts de marché ne sont pas prises en compte. Mise à jour tous les mardis.,Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Fläche*Ertrag. Die Marktanteile werden nicht berücksichtigt. Wird jeden Dienstag aktualisiert.,Superficie*Rendimento. Le quote di mercato non sono prese in considerazione. Aggiornato ogni martedì.,Superficie*Rendimiento. No se tienen en cuenta las cuotas de mercado. Actualizado todos los martes.
 Zone group,,Zone group,,,
-Please select crops you want to see accross the app.,,Please select crops you want to see accross the app.,,,
 Low,Faible,Low,Niedrig,Basso,Bajo
 High,Elevé,High,Hoch,Alto,Alta
 Medium,Moyen,Medium,Mittel,Medio,Media
