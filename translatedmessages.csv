@@ -120,7 +120,6 @@ Please enter your credentials,Merci de saisir vos identifiants,Please enter your
 Forgot your password ?,Mot de passe oublié ?,Forgot your password ?,Haben Sie Ihr Passwort vergessen?,Hai dimenticato la password?,¿Has olvidado tu contraseña?
 A question ? Send us an email at,Une question ? Envoyez nous un mail à,A question ? Send us an email at,Eine Frage? Schicken Sie uns eine E-Mail an,Una domanda? Inviateci un'e-mail a,¿ Alguna pregunta? Envíenos un correo electrónico a
 Password,Mot de passe,Password,Kennwort,Password,Contraseña
-Password,Mot de passe,Password,Kennwort,Password,Contraseña
 Log in,Se connecter,Log in,Anmelden,Log in,Conectarse
 Do you need more information at parcel level ?,Vous souhaitez voir d'autres informations au niveau de la parcelle ?,Do you need more information at parcel level ?,Benötigen Sie weitere Informationen auf Paketebene?,Hai bisogno di ulteriori informazioni a livello di parcella?,¿Necesita más información a nivel de parcela?
 Please fill,Merci de remplir,Please fill,Bitte füllen Sie,Compilare,Rellene
@@ -234,10 +233,8 @@ Parcel municipality location.,Commune de la parcelle.,Parcel municipality locati
 Hyperplan confidence score for crop prediction.,Score de confiance Hyperplan pour la prédiction des cultures.,Hyperplan confidence score for crop prediction.,Hyperplan-Konfidenzwert für die Erntevorhersage.,Punteggio di fiducia Hyperplan per la previsione delle colture.,Puntuación de confianza de Hyperplan para la predicción de cultivos.
 Regions,Régions,Regions,Regionen,Regioni,CCAA
 I want to filter on parcels...,Je veux filtrer les parcelles...,I want to filter on parcels...,Ich möchte nach Flurstücken filtern...,Voglio filtrare le parcelle...,Quiero filtrar por parcelas...
-Characteristic,Caractéristique,Characteristic,Charakteristisch,Caratteristica,Característica
 Custom selection,Sélection personalisée,Custom selection,Benutzerdefinierte Auswahl,Selezione personalizzata,Selección personalizada
 Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Surface*Rendement. Les parts de marché ne sont pas prises en compte. Mise à jour tous les mardis.,Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Fläche*Ertrag. Die Marktanteile werden nicht berücksichtigt. Wird jeden Dienstag aktualisiert.,Superficie*Rendimento. Le quote di mercato non sono prese in considerazione. Aggiornato ogni martedì.,Superficie*Rendimiento. No se tienen en cuenta las cuotas de mercado. Actualizado todos los martes.
-Zone group,,Zone group,,,
 Low,Faible,Low,Niedrig,Basso,Bajo
 High,Elevé,High,Hoch,Alto,Alta
 Medium,Moyen,Medium,Mittel,Medio,Media
