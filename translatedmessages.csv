@@ -254,22 +254,40 @@ Sandy clay,Argile sableuse,Sandy clay,Sandiger Lehm,Argilla sabbiosa,Arcillo are
 Irrigated,Irriguée,Irrigated,Bewässert,Irrigato,De regadío
 Not irrigated,Non irriguée,Not irrigated,Unbewässert,Non irrigato,Sin regar
 Sandy clay,Argile sableuse,Sandy clay,Sandiger Lehm,Argilla sabbiosa,Arcillo arenoso
-Mean,Moyenne,Mean,,,
-other,,other | others,,,
-Total of,,Total of,,,
-Question ?,,Question,,,
-Location,,Location,,,
-Postal codes,,Postal codes,,,
-Updated every tuesday,,Updated every tuesday,,,
-Surface * Yield. Market shares are not taken into account. Updated every tuesday,,Surface * Yield. Market shares are not taken into account. Updated every tuesday,,,
-Evolution,,Evolution,,,
-evolution,,evolution,,,
-Farms,,Farms,,,
-Penetration rate,,Penetration rate,,,
-Add a colleague,,Add a colleague,,,
-User edition,,User edition,,,
-This feature allows limiting the accessible territory across the entire application,,This feature allows limiting the accessible territory across the entire application,,,
-The user will also have access to all administrative subdivisions included within their territory,,The user will also have access to all administrative subdivisions included within their territory,,,
-Customizable tag with parcel data.,,Customizable tag with parcel data.,,,
-Parcel Area.,,Parcel Area.,,,
-Parcel farm.,,Parcel farm.,,,
+Mean,Moyenne,Mean,Mittelwert,Significato,Media
+other,autre | autres,other | others,andere | andere,altri | altri,otros | otros
+Total of,Ensemble des,Total of,Summe der,Totale di,Total de
+Question ?,Question,Question,Frage,Domanda,Pregunta
+Location,Localisation,Location,Standort,Località,Ubicación
+Postal codes,Codes postaux,Postal codes,Postleitzahlen,Codici postali,Códigos postales
+Updated every tuesday,Mis à jour tous les mardis.,Updated every tuesday,Aktualisiert jeden Dienstag,Aggiornato ogni martedì,Actualizado cada martes
+Surface * Yield. Market shares are not taken into account. Updated every tuesday,Surface x rendement. Les parts de marché ne sont pas prises en compte. Mis à jour chaque mardi.,Surface * Yield. Market shares are not taken into account. Updated every tuesday,Fläche * Rendite. Die Marktanteile werden nicht berücksichtigt. Jeden Dienstag aktualisiert,Superficie * Rendimento. Le quote di mercato non sono prese in considerazione. Aggiornato ogni martedì,Superficie * Rendimiento. No se tienen en cuenta las cuotas de mercado. Actualizado cada martes
+Evolution,Évolution,Evolution,Entwicklung,Evoluzione,Evolución
+evolution,évolution,evolution,Entwicklung,evoluzione,evolución
+Farms,Exploitations,Farms,Betriebe,Aziende agricole,Explotaciones
+Penetration rate,Taux de pénétration,Penetration rate,Durchdringungsrate,Tasso di penetrazione,Tasa de penetración
+Add a colleague,,Add a colleague,Einen Kollegen hinzufügen,Aggiungi un collega,Añadir un colega
+User edition,Modification d'un utilisateur,User edition,Benutzer-Edition,Edizione utente,Edición de usuarios
+This feature allows limiting the accessible territory across the entire application,Cette fonctionnalité permet de limiter le territoire accessible pour cet utilisateur, et ce à travers toute l'application.,This feature allows limiting the accessible territory across the entire application,Mit dieser Funktion kann das zugängliche Gebiet auf die gesamte Anwendung beschränkt werden.,Questa funzione consente di limitare il territorio accessibile all'intera applicazione.,Esta función permite limitar el territorio accesible en toda la aplicación
+The user will also have access to all administrative subdivisions included within their territory,L'utilisateur aura également accès à toutes les zones (administratives ou non) incluses dans son territoire.,The user will also have access to all administrative subdivisions included within their territory,"Der Benutzer hat auch Zugang zu allen administrativen Unterteilungen, die in seinem Gebiet enthalten sind",L'utente avrà accesso anche a tutte le suddivisioni amministrative incluse nel suo territorio.,El usuario también tendrá acceso a todas las subdivisiones administrativas incluidas en su territorio
+Customizable tag with parcel data.,Champ libre pour étiqueter une parcelle.,Customizable tag with parcel data.,Anpassbarer Tag mit Parzellendaten.,Tag personalizzabile con i dati delle parcelle.,Etiqueta personalizable con los datos de la parcela.
+Parcel Area.,Surface de la parcelle.,Parcel Area.,Parzellengebiet.,Area della parcella.,Área de parcela.
+Parcel farm.,Exploitation rattachée à la parcelle.,Parcel farm.,Parzellenhof.,Azienda agricola.,Explotación parcelaria.
+Vegetation index retrieved by satellite. Updated on a weekly basis.,Indice de végétation obtenu par satellite. Mis à jour de manière hebdomadaire.,Vegetation index retrieved by satellite. Updated on a weekly basis.,"Vegetationsindex, abgerufen über Satellit. Wöchentlich aktualisiert.",Indice di vegetazione recuperato da satellite. Aggiornato su base settimanale.,Índice de vegetación obtenido por satélite. Actualización semanal.
+"Predicted or satellite detected crop for ongoing and next campaign. Updated on a monthly basis. For past campaigns,  our predictions are corrected with public data.","Culture détectée ou prédite. Mise à jour une fois par mois. Pour les campagnes passées, nos données sont corrigées avec les données publiques.","Predicted or satellite detected crop for ongoing and next campaign. Updated on a bi-monthly basis.For past campaigns,  our predictions are corrected with public data.",Vorausgesagte oder per Satellit erfasste Ernte für die laufende und die nächste Kampagne. Für vergangene Kampagnen werden unsere Vorhersagen mit öffentlichen Daten korrigiert.,"Coltura prevista o rilevata dal satellite per la campagna in corso e per quella successiva. Per le campagne passate, le nostre previsioni sono corrette con i dati pubblici.","Cultivo predicho o detectado por satélite para la campaña en curso y la siguiente. Para campañas pasadas, nuestras predicciones se corrigen con datos públicos."
+"Predictive yield of the parcel for the crop. Updated on a weekly basis during campaign. For past campaigns,  our predictions are corrected with public data.","Rendement prévisionnel de la parcelle. Mis à jour de manière hebdomadaire. Pour les campagnes passées, nos prédictions sont corrigées avec les données publiques.","Predictive yield of the parcel for the crop. Updated on a weekly basis. For past campaigns,  our predictions are corrected with public data.",Voraussichtlicher Ertrag der Parzelle für die Ernte. Wöchentliche Aktualisierung. Für vergangene Kampagnen werden unsere Vorhersagen mit öffentlichen Daten korrigiert.,"Previsione della resa dell'appezzamento per la coltura. Aggiornato su base settimanale. Per le campagne passate, le nostre previsioni sono corrette con i dati pubblici.","Predicción del rendimiento de la parcela para el cultivo. Actualizado semanalmente. Para campañas pasadas,  nuestras predicciones se corrigen con datos públicos."
+Observed accumulative temperature. Updated on a weekly basis.,Cumul de température observé. Mis à jour de manière hebdomadaire.,Observed accumulative temperature. Updated on a weekly basis.,Beobachtete akkumulierte Temperatur. Wöchentlich aktualisiert.,Temperatura cumulativa osservata. Aggiornata su base settimanale.,Temperatura acumulada observada. Actualizado semanalmente.
+Observed accumulative rainfalls. Updated on a weekly basis.,Cumul de pluie observé. Mis à jour de manière hebdomadaire.,Observed accumulative rainfalls. Updated on a weekly basis.,Beobachtete akkumulierte Regenfälle. Wöchentlich aktualisiert.,Precipitazioni cumulate osservate. Aggiornato su base settimanale.,Precipitaciones acumuladas observadas. Actualizado semanalmente.
+Soil type we get from LUCAS database.,Type de sol obtenu de la base de données LUCAS.,Soil type we get from LUCAS database.,"Bodenart,  die wir aus der LUCAS-Datenbank beziehen.",Tipo di suolo ricavato dal database LUCAS.,Tipo de suelo que obtenemos de la base de datos LUCAS.
+Parcel I3P.,I3P de la parcelle.,Parcel I3P.,Parzelle I3P.,Parcella I3P.,Parcela I3P.
+Observed irrigation of the parcel (not real time data).,Irrigation observée de la parcelle (pas en temps réel).,Observed irrigation of the parcel (not real time data).,Beobachtete Bewässerung der Parzelle (keine Echtzeitdaten).,Irrigazione osservata della parcella (dati non in tempo reale).,Riego observado de la parcela (datos no en tiempo real).
+Observed hydric stress of the parcel (not real time data).,Stress hydrique observé de la parcelle (pas en temps réel).,Observed hydric stress of the parcel (not real time data).,Beobachtete hydrische Belastung der Parzelle (keine Echtzeitdaten).,Stress idrico osservato della parcella (dati non in tempo reale).,Estrés hídrico observado en la parcela (datos no en tiempo real).
+"Closest silo parcel defined,  defined as a driving distance.","Silo le plus proche de la parcelle, défini sur la base de la distance par la route.","Closest silo parcel defined,  defined as a driving distance.","Definition der nächstgelegenen Siloparzelle, definiert als Fahrstrecke.","Parcella del silo più vicino, definita come distanza in auto.","Parcela de silo más cercana, definida como distancia en coche."
+Farm owner of a parcel.,Exploitation rattachée à la parcelle.,Farm owner of a parcel.,Eigentümer einer Parzelle.,Proprietario dell'azienda agricola di una parcella.,Propietario de una parcela.
+Parcel name.,Nom de la parcelle.,Parcel name.,Parzellenname.,Nome della parcella.,Nombre de la parcela.
+Parcel phenology stage.,Stade phénologique de la parcelle.,Parcel phenology stage.,Phänologisches Stadium der Parzelle.,Stadio fenologico della parcella.,Estado fenológico de la parcela.
+Parcel area.,Surface de la parcelle.,Parcel area.,Parzellenfläche.,Area dell'appezzamento.,Superficie de la parcela.
+Crop surface multiplied by yield.,Assolement x rendement.,Crop surface multiplied by yield.,Anbaufläche multipliziert mit dem Ertrag.,Superficie del raccolto moltiplicata per la resa.,Superficie de cultivo multiplicada por rendimiento.
+Parcel municipality location.,Commune où se situe la parcelle.,Parcel municipality location.,Standort der Parzellengemeinde.,Ubicazione del comune della parcella.,Localización del municipio de la parcela.
+Hyperplan confidence score for crop prediction.,Indice de confiance d'Hyperplan pour la détection de culture.,Hyperplan confidence score for crop prediction.,Hyperplan-Konfidenzwert für die Erntevorhersage.,Punteggio di confidenza Hyperplan per la previsione delle colture.,Puntuación de confianza de Hyperplan para la predicción del cultivo.
+Field sales in charge.,TC rattaché à l'exploitation de la parcelle.,Field sales in charge.,Zuständiger Außendienst.,Vendite sul campo incaricate.,Ventas de campo a cargo.
