@@ -16,7 +16,7 @@ Hide,Masquer,Hide,Ausblenden,Nascondi,Ocultar
 Display,Afficher,Display,Anzeige,Display,Mostrar
 H,R,H,E,R,C
 Updated every first Thursday of each month,Mis à jour chaque premier samedi du mois,Updated every first Thursday of each month,Wird jeden ersten Samstag im Monat aktualisiert.,Aggiornato ogni primo sabato del mese,Actualización cada primer sábado de mes
-Download CSV,Télécharger CSV,Download CSV,,,
+Download CSV,Télécharger CSV,Download CSV,CSV herunterladen,Scarica CSV,Descargar CSV
 Hectares,hectares,Hectares,Hektar,ettari,hectáreas
 Yield,Rendement,Yield,Ausbeute,Rendimento,Rendimiento
 Volume,Volume,Volume,Volumen,Volume,Volumen
@@ -27,7 +27,7 @@ Collect forecast,Prévisionnel de collecte,Collect forecast,Prognose sammeln,Pre
 Data history,Historique des données,Data history,Datengeschichte,Storia dei dati,Historial de datos
 User management,Gestion des utilisateurs,User management,Datentyp,Gestione degli utenti,Gestión de usuarios
 Territories management,Gestion des territoires,Territories management,Verwaltung von Gebieten,Gestione del territorio,Gestión del territorio
-Logout,Déconnexion,Logout,Abmelden,,
+Logout,Déconnexion,Logout,Abmelden,Disconnessione,Cerrar sesión
 Select all,Tout sélectionner,Select all,Alle auswählen,Seleziona tutto,Seleccionar todo
 Unselect all,Désélectionner tout,Unselect all,Alle abwählen,Deseleziona tutti,Deseleccionar todo
 Cancel,annuler,Cancel,abbrechen,annullare,cancelar
@@ -37,13 +37,13 @@ Crops of interest,Cultures d'intérêt,Crops of interest,Pflanzen von Interesse,
 Please select crops you want to see across the app.,Choisissez les cultures que vous souhaitez voir à travers l'application.,Please select crops you want to see across the app.,Bitte wählen Sie die Kulturen aus,Selezionare le colture che si desidera visualizzare in tutta l'applicazione.,Seleccione los cultivos que desea ver en la aplicación.
 You can select all crops or up to five.,"Vous pouvez sélectionner toutes les cultures, ou bien en choisir jusqu'à 5 maximum.",You can select all crops or up to five.,Sie können alle Kulturen oder bis zu fünf auswählen.,È possibile selezionare tutte le colture o solo cinque.,Puede seleccionar todos los cultivos o hasta cinco.
 Parcel ID,Identifiant parcel,Parcel ID,Parzellen-ID,ID parcella,ID de parcela
-Latitude;Longitude,Latitude ; Longitude,Latitude;Longitude,Breitengrad;Längengrad,Latitudine; Longitudine,Latitud;Longitud
+"Latitude;Longitude","Latitude ; Longitude","Latitude;Longitude","Breitengrad;Längengrad","Latitudine; Longitudine","Latitud;Longitud"
 Parcels,parcelles,Parcels,Pakete,parcelle,parcelas
 parcels,parcelles,parcels,Pakete,parcelle,parcelas
 Views,Vues,Views,Ansichten,Visualizzazioni,Vistas
 Filter,Filtrer,Filter,Filtern,Filtro,Filtrar
 My profile,Mon profil,My profile,Mein Profil,Il mio profilo,Mi perfil
-Additional information,Informations supplémentaires,Additional information,Zusätzliche Daten,,
+Additional information,Informations supplémentaires,Additional information,Zusätzliche Daten,Informazioni aggiuntive,Información adicional
 My parcels,Mes parcelles,My parcels,Meine Parzellen,Le mie parcelle,Mis parcelas
 Cultural failure risk,Risque d'échec culture,Cultural failure risk,Kulturelles Ausfallrisiko,Rischio di fallimento culturale,Riesgo de fallo cultural
 This field is required,Ce champ est obligatoire.,This field is required,Dieses Feld ist erforderlich,Questo campo è obbligatorio,Este campo es obligatorio
