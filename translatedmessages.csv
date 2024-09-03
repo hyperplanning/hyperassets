@@ -291,11 +291,11 @@ Parcel municipality location.,Commune où se situe la parcelle.,Parcel municipal
 Hyperplan confidence score for crop prediction.,Indice de confiance d'Hyperplan pour la détection de culture.,Hyperplan confidence score for crop prediction.,Hyperplan-Konfidenzwert für die Erntevorhersage.,Punteggio di confidenza Hyperplan per la previsione delle colture.,Puntuación de confianza de Hyperplan para la predicción del cultivo.
 Field sales in charge.,TC rattaché à l'exploitation de la parcelle.,Field sales in charge.,Zuständiger Außendienst.,Vendite sul campo incaricate.,Ventas de campo a cargo.
 Field sales,TC,Field sales,Außendienst,Field sales,Field sales
-Choose the name of the new zone group,,Choose the name of the new zone group,,,
-Edit zone,,Edit zone,,,
-What name do you want to give to this zone ?,,What name do you want to give to this zone ?,,,
-Atoms,,Atoms,,,
-Farms (all),,Farms (all),,,
-Farms (clients),,Farms (clients),,,
-Are you sure you want to delete this zone ?,,Are you sure you want to delete this zone ?,,,
-Please type the exact zone name to proceed,,Please type the exact zone name to proceed,,,
+Choose the name of the new zone group,Nommez votre sectorisation,Choose the name of the new zone group,Wählen Sie den Namen der neuen Zonengruppe,Scegliere il nome del nuovo gruppo di zone,Elija el nombre del nuevo grupo de zonas
+Edit zone,Modifier une zone,Edit zone,Zone bearbeiten,Modifica zona,Editar zona
+What name do you want to give to this zone ?,Comment souhaitez vous appeler cette zone ?,What name do you want to give to this zone ?,Welchen Namen möchten Sie dieser Zone geben?,Che nome si vuole dare a questa zona?,¿Qué nombre quiere dar a esta zona?
+Atoms,Atomes,Atoms,Atome,Atomi,Átomos
+Farms (all),Exploitations (toutes),Farms (all),Bauernhöfe (alle),Aziende agricole (tutte),Granjas (todas)
+Farms (clients),Exploitations (clientes),Farms (clients),Bauernhöfe (Kunden),Fattorie (clienti),Granjas (clientes)
+Are you sure you want to delete this zone ?,Etes vous sure de vouloir supprimer cette zone ?,Are you sure you want to delete this zone ?,"Sind Sie sicher,  dass Sie diese Zone löschen möchten?",Siete sicuri di voler eliminare questa zona?,¿Está seguro de que desea eliminar esta zona?
+Please type the exact zone name to proceed,Merci de saisir le nom exact de la zone pour confirmer,,Bitte geben Sie den genauen Zonennamen ein,Digitare il nome esatto della zona per procedere,"Por favor, escriba el nombre exacto de la zona para proceder"
