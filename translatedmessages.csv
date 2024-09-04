@@ -144,7 +144,7 @@ Zone group rules,Paramètres de la sectorisation,Zone group rules,Regeln für di
 "Finally, choose if it is possible or not for several zones to overlap","Enfin, choisissez si vous souhaitez autoriser le chevauchement des zones","Finally, choose if it is possible or not for several zones to overlap","Wählen Sie schließlich, ob sich mehrere Zonen überschneiden können oder nicht","Infine, scegliere se è possibile o meno che diverse zone si sovrappongano.","Por último, elija si es posible o no que varias zonas se solapen"
 Exclusive zones,Zones exclusives,Exclusive zones,Exklusive Zonen,Zone esclusive,Zonas exclusivas
 Non exclusive zones,Zones non exclusives,Non exclusive zones,Nicht exklusive Zonen,Zone non esclusive,Zonas no exclusivas
-"A zone group is a group of zones of same type. For example: zone group « Sections » is made of my TC zones.","Une sectorisation est un groupe de zones de même type. Par exemple, une sectorisation «Sections» peut être composée des zones de vos TC.","A zone group is a group of zones of same type. For example: zone group «Sections» is made of my TC zones.","Eine Zonengruppe ist eine Gruppe von Zonen desselben Typs. Zum Beispiel: Die Zonengruppe «Sections» besteht aus meinen TC-Zonen.","Un gruppo di zone è un gruppo di zone dello stesso tipo. Ad esempio, il gruppo di zone «Sezioni» è composto dalle mie zone TC.","Un grupo de zonas es un conjunto de zonas del mismo tipo. Por ejemplo: el grupo de zonas «Secciones» está formado por mis zonas TC."
+"A zone group is a group of zones of same type. For example: zone group ""Sections"" is made of my TC zones.","Une sectorisation est un groupe de zones de même type. Par exemple, une sectorisation «Sections» peut être composée des zones de vos TC.","A zone group is a group of zones of same type. For example: zone group «Sections» is made of my TC zones.","Eine Zonengruppe ist eine Gruppe von Zonen desselben Typs. Zum Beispiel: Die Zonengruppe «Sections» besteht aus meinen TC-Zonen.","Un gruppo di zone è un gruppo di zone dello stesso tipo. Ad esempio, il gruppo di zone «Sezioni» è composto dalle mie zone TC.","Un grupo de zonas es un conjunto de zonas del mismo tipo. Por ejemplo: el grupo de zonas «Secciones» está formado por mis zonas TC."
 Create,Créer,Create,Erstellen Sie,Creare,Cree
 from scratch,à partir d'une carte vierge,from scratch,von Grund auf,da zero,desde cero
 Duplicate,Dupliquer,Duplicate,Duplizieren,Duplicare,Duplicar
@@ -302,3 +302,10 @@ Please type the exact zone name to proceed,Merci de saisir le nom exact de la zo
 Edit zone group,Modifier une sectorisation,Edit zone group,Eine Sektorisierung ändern,Modificare una settorizzazione,Modificar una sectorización
 What name do you want to give to this zone group ?,Quel nom souhaitez vous donner à cette sectorisation ?,What name do you want to give to this zone group ?,Welchen Namen möchten Sie dieser Sektorisierung geben?,Che nome volete dare a questa settorizzazione?,¿Qué nombre desea dar a esta sectorización?
 Set zone group visible for the whole organization,Rendre cette sectorisation visible pour l'ensemble de votre organisation,Set zone group visible for the whole organization,Diese Sektorisierung für Ihre gesamte Organisation sichtbar machen,Rendere questa settorizzazione visibile a tutta l'organizzazione,Haga que esta sectorización sea visible para toda su organización
+on,,on,,,
+Delete zone,,Delete zone,,,
+Please type the exact zone group name to proceed,,Please type the exact zone group name to proceed,,,
+All farms,,All farms,,,
+Organization farms,,Organization farms,,,
+Field sales farms,,Field sales farms,,,
+Reachable part,,Reachable part,,,
