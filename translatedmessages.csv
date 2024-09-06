@@ -302,25 +302,23 @@ Please type the exact zone name to proceed,Merci de saisir le nom exact de la zo
 Edit zone group,Modifier une sectorisation,Edit zone group,Eine Sektorisierung ändern,Modificare una settorizzazione,Modificar una sectorización
 What name do you want to give to this zone group ?,Quel nom souhaitez vous donner à cette sectorisation ?,What name do you want to give to this zone group ?,Welchen Namen möchten Sie dieser Sektorisierung geben?,Che nome volete dare a questa settorizzazione?,¿Qué nombre desea dar a esta sectorización?
 Set zone group visible for the whole organization,Rendre cette sectorisation visible pour l'ensemble de votre organisation,Set zone group visible for the whole organization,Diese Sektorisierung für Ihre gesamte Organisation sichtbar machen,Rendere questa settorizzazione visibile a tutta l'organizzazione,Haga que esta sectorización sea visible para toda su organización
-on,,on,,,
-Delete zone,,Delete zone,,,
-Please type the exact zone group name to proceed,,Please type the exact zone group name to proceed,,,
-All farms,,All farms,,,
-Organization farms,,Organization farms,,,
-Field sales farms,,Field sales farms,,,
-Reachable part,,Reachable part,,,
-Farm,a,Farm,a,a,a
-Farm type,,Farm type,,,
-Farmer,,Farmer,,,
-Technician,,Technician,,,
-Address,,Address,,,
-No crop data found for this farm,,No crop data found for this farm,,,
-Display silos,,Display silos,,,
-Parcel caracteristic edition,,Parcel caracteristic edition,,,
-Temperature,,Temperature,,,
-Rainfall,,Rainfall,,,
-Edit filters,,Edit filters,,,
-Add to favorite,,Add to favorite,,,
-Add fitlers to favorites,,Add fitlers to favorites,,,
-What name do you want to give to this set of filters ?,,What name do you want to give to this set of filters ?,,,
-First of all, choose which zoneGroup you want to duplicate,,First of all, choose which zoneGroup you want to duplicate,,,
+on,sur,on,auf,su,en
+Delete zone,Supprimer une zone,Delete zone,Zone löschen,Elimina zona,Borrar zona
+Please type the exact zone group name to proceed,Merci de saisir le nom exact de la sectorisation pour confirmer,Please type the exact zone group name to proceed,Bitte geben Sie den genauen Namen der Zonengruppe ein, um fortzufahren,Digitare il nome esatto del gruppo di zone per procedere,Escriba el nombre exacto del grupo de zonas para continuar
+All farms,Toutes les exploitations,All farms,Alle Farmen,Tutte le aziende agricole,Todas las granjas
+Organization farms,Exploitations de mon organisation,Organization farms,Organisationsbetriebe,Aziende agricole dell'organizzazione,Explotaciones de organización
+Field sales farms,Exploitations d'un TC,Field sales farms,Außendienst-Betriebe,Aziende di vendita sul campo,Explotaciones de venta sobre el terreno
+Adressable market share,Part adressable,Adressable market share,Adressierbarer Marktanteil,Quota di mercato indirizzabile,Explotaciones de venta
+Farm,Exploitation,Farm,Betrieb,Azienda agricola,Explotación
+Farm type,Type d'exploitation,Farm type,Typ des Betriebs,Tipo di azienda,Tipo de explotación
+Farmer,Agriculteur,Farmer,Landwirt,Agricoltore,Agricultor
+Technician,TC,Technician,Techniker,Tecnico,Técnico
+Address,Adresse,Address,Adresse,Indirizzo,Dirección
+No crop data found for this farm,Absence de parcelle rattachées à cette exploitation.,No crop data found for this farm,Keine Anbaudaten für diesen Betrieb gefunden,Non sono stati trovati dati sulle colture per questa azienda,No se han encontrado datos de cultivo para esta explotación
+Display silos,Afficher les silos,Display silos,Silos anzeigen,Visualizza i silos,Mostrar silos
+Parcel caracteristic edition,Modification d'une caractéristique parcelle,Parcel caracteristic edition,Parzellenmerkmal Ausgabe,Edizione delle caratteristiche della parcella,Edición de características de la parcela
+Edit filters,,Edit filters,Filter bearbeiten,Modifica filtri,Editar filtros
+Add to favorite,Ajouter aux favoris,Add to favorite,Zu Favoriten hinzufügen,Aggiungi ai preferiti,Añadir a favoritos
+Add fitlers to favorites,,Add fitlers to favorites,Fitlers zu den Favoriten hinzufügen,Aggiungi fitler ai preferiti,Añadir fitlers a favoritos
+What name do you want to give to this set of filters ?,,What name do you want to give to this set of filters ?,Welchen Namen möchten Sie dieser Gruppe von Filtern geben?,Che nome si vuole dare a questo insieme di filtri?,¿Qué nombre quiere dar a este conjunto de filtros?
+"First of all, choose which zoneGroup you want to duplicate",,"First of all, choose which zoneGroup you want to duplicate","Wählen Sie zunächst die Zonengruppe aus, die Sie duplizieren möchten","Prima di tutto scegliere il gruppo di zone che si desidera duplicare","En primer lugar, elija qué zoneGroup desea duplicar"
