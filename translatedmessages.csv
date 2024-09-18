@@ -15,7 +15,7 @@ farms,les exploitations,farms,die Betriebe,fattorie,granjas
 Hide,Masquer,Hide,Ausblenden,Nascondi,Ocultar
 Display,Afficher,Display,Anzeige,Display,Mostrar
 H,R,H,E,R,C
-Updated every first Thursday of each month.,Mis à jour chaque premier samedi du mois.,Updated every first Thursday of each month.,Wird jeden ersten Samstag im Monat aktualisiert.,Aggiornato ogni primo sabato del mese.,Actualización cada primer sábado de mes.
+Updated every first Thursday of each month.,Mis à jour chaque premier jeudi du mois.,Updated every first Thursday of each month.,Jeden ersten Donnerstag im Monat aktualisiert.,Aggiornato ogni primo giovedì del mese.,Actualización cada primer jueves de cada mes.
 Download CSV,Télécharger CSV,Download CSV,CSV herunterladen,Scarica CSV,Descargar CSV
 Hectares,hectares,Hectares,Hektar,ettari,hectáreas
 Yield,Rendement,Yield,Ernte,Rendimento,Rendimiento
@@ -339,10 +339,11 @@ This zone group is empty,Cette sectorisation est vide,This zone group is empty,D
 View mode,Mode vue,View mode,Modus Ansicht,Modalità di visualizzazione,Modo de visualización
 Clic edit mode,Mode modification au clic,Clic edit mode,Änderungsmodus bei Klick,Modalità di modifica con clic,Modo de modificación por clic
 Lasso edit mode,Mode modification au lasso,Lasso edit mode,Bearbeitungsmodus mit Lasso,Modalità di modifica con lazo,Modo de modificación del lazo
-"Select characteristics you want to see for parcels, or",,"Select characteristics you want to see for parcels, or",,,
-ask for new ones !,,ask for new ones !,,,
-You can sort characteristics by grabbing the handle on the left.,,You can sort characteristics by grabbing the handle on the left.,,,
-Active labels,,Active labels,,,
-Inactive labels,,Inactive labels,,,
-inside,,inside,,,
-on week of,,on week of,,,
+"Select characteristics you want to see for parcels, or",Séléctionnez les caractéristiques parcelles que vous souhaitez voir, ou,"Select characteristics you want to see for parcels, or","Wählen Sie die Merkmale aus, die Sie für Pakete sehen möchten, oder","Selezionare le caratteristiche che si desidera visualizzare per i pacchi,","Seleccione las características que desea ver para las parcelas, o"
+ask for new ones !,demandez-en de nouvelles !,ask for new ones !,nach neuen Merkmalen fragen!,oppure richiederne di nuove!,solicita otras nuevas.
+You can sort characteristics by grabbing the handle on the left.,Vous pouvez changer l'ordre des caractéristiques en utilisant le symbole sur la gauche.,You can sort characteristics by grabbing the handle on the left.,Sie können die Merkmale sortieren,È possibile ordinare le caratteristiche afferrando la maniglia a sinistra.,Puedes ordenar las características agarrando el asa de la izquierda.
+Active characteristics,Caractéristiques actives,Active characteristics,Aktive Merkmale,Caratteristiche attive,Características activas
+Inactive characteristics,Caractéristiques inactives,Inactive characteristics,Inaktive Merkmale,Caratteristiche inattive,Características inactivas,
+inside,dans le,inside,in der,nel,en el
+on week of,la semaine du,on week of,die Woche vom,la settimana di,la semana de
+Crop detail, Culture détaillée, Crop detail,Ernte Detail,Dettaglio del raccolto,Detalle del cultivo
