@@ -234,7 +234,7 @@ Hyperplan confidence score for crop prediction.,Score de confiance Hyperplan pou
 Regions,Régions,Regions,Regionen,Regioni,CCAA
 I want to filter on parcels...,Je veux filtrer les parcelles...,I want to filter on parcels...,Ich möchte nach Flurstücken filtern...,Voglio filtrare le parcelle...,Quiero filtrar por parcelas...
 Custom selection,Sélection personalisée,Custom selection,Benutzerdefinierte Auswahl,Selezione personalizzata,Selección personalizada
-Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Surface*Rendement. Les parts de marché ne sont pas prises en compte. Mise à jour tous les mardis.,Surface*Yield. Market shares are not taken into account. Updated every Tuesday.,Fläche*Ernte. Die Marktanteile werden nicht berücksichtigt. Wird jeden Dienstag aktualisiert.,Superficie*Rendimento. Le quote di mercato non sono prese in considerazione. Aggiornato ogni martedì.,Superficie*Rendimiento. No se tienen en cuenta las cuotas de mercado. Actualizado todos los martes.
+Surface * Yield. Market shares are not taken into account. Updated every Tuesday.,Surface x rendement. Les parts de marché ne sont pas prises en compte. Mise à jour tous les mardis.,Surface * Yield. Market shares are not taken into account. Updated every Tuesday,Fläche * Ernte. Die Marktanteile werden nicht berücksichtigt. Wird jeden Dienstag aktualisiert.,Fläsche * Rendimento. Le quote di mercato non sono prese in considerazione. Aggiornato ogni martedì.,Superficie * Rendimiento. No se tienen en cuenta las cuotas de mercado. Actualizado todos los martes.
 Low,Faible,Low,Niedrig,Basso,Bajo
 High,Elevé,High,Hoch,Alto,Alta
 Medium,Moyen,Medium,Mittel,Medio,Media
@@ -259,8 +259,6 @@ Total of,Ensemble des,Total of,Summe der,Totale di,Total de
 Question ?,Une question ?,Any questions?,Eine Frage?,Una domanda?,¿Alguna pregunta?
 Location,Localisation,Location,Standort,Località,Ubicación
 Postal codes,Codes postaux,Postal codes,Postleitzahlen,Codici postali,Códigos postales
-Updated every tuesday,Mis à jour tous les mardis.,Updated every tuesday,Aktualisiert jeden Dienstag,Aggiornato ogni martedì,Actualizado cada martes
-Surface * Yield. Market shares are not taken into account. Updated every tuesday,Surface x rendement. Les parts de marché ne sont pas prises en compte. Mis à jour chaque mardi.,Surface * Yield. Market shares are not taken into account. Updated every tuesday,Fläche * Ernte. Die Marktanteile werden nicht berücksichtigt. Jeden Dienstag aktualisiert,Fläsche * Rendimento. Le quote di mercato non sono prese in considerazione. Aggiornato ogni martedì,Superficie * Rendimiento. No se tienen en cuenta las cuotas de mercado. Actualizado cada martes
 Evolution,Évolution,Evolution,Entwicklung,Evoluzione,Evolución
 evolution,évolution,evolution,Entwicklung,evoluzione,evolución
 Farms,Exploitations,Farms,Betriebe,Aziende agricole,Explotaciones
