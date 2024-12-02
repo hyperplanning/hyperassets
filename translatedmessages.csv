@@ -698,6 +698,7 @@ Sowing,Semis,Sowing,Aussaat,Semina,Siembra
 Type,Type,Type,Type,Type,Type
 Years,Years,Years,Years,Years,Years
 Label,Label,Label,Label,Label,Label
+Labels,Labels,Labels,Labels,Labels,Labels
 Active,Active,Active,Active,Active,Active
 Bio,Bio,Organic,Organisch,Organico,Ecológico
 Auhorized,Auhorized,Auhorized,Auhorized,Auhorized,Auhorized
@@ -708,3 +709,7 @@ Silos,Silos,Silos,Silos,Silos,Silos
 "Warning, updating the list of silos does not affect the catchment areas","Warning, updating the list of silos does not affect the catchment areas","Warning, updating the list of silos does not affect the catchment areas","Warning, updating the list of silos does not affect the catchment areas","Warning, updating the list of silos does not affect the catchment areas","Warning, updating the list of silos does not affect the catchment areas"
 Farm types,Farm types,Farm types,Farm types,Farm types,Farm types
 Sectorisation,Sectorisation,Sectorisation,Sectorisation,Sectorisation,Sectorisation
+Organization edition,Organization edition,Organization edition,Organization edition,Organization edition,Organization edition
+Organization creation,Organization creation,Organization creation,Organization creation,Organization creation,Organization creation
+General informations,General informations,General informations,General informations,General informations,General informations
+Filters,Filters,Filters,Filters,Filters,Filters
