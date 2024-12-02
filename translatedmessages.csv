@@ -695,3 +695,10 @@ Maturity NDVI fit,Maturité NDVI fit,Maturity NDVI fit,Reife NDVI fit,Maturità 
 NDVI Falloff,Chute NDVI,NDVI Falloff,NDVI Fallof,NDVI Fallof,Fallo de NDVI
 Senescence NDVI fit,Senescence NDVI fit,Senescence NDVI fit,Seneszenz NDVI fit,Senescenza NDVI fit,Senescencia Ajuste NDVI
 Sowing,Semis,Sowing,Aussaat,Semina,Siembra
+Type,Type,Type,Type,Type,Type
+Years,Years,Years,Years,Years,Years
+Label,Label,Label,Label,Label,Label
+Active,Active,Active,Active,Active,Active
+Bio,Bio,Organic,Organisch,Organico,Ecológico
+Auhorized,Auhorized,Auhorized,Auhorized,Auhorized,Auhorized
+Value is not above minimum,Value is not above minimum,Value is not above minimum,Value is not above minimum,Value is not above minimum,Value is not above minimum
