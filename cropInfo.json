@@ -15,19 +15,19 @@
       "falcoId": "orge-de-printemps",
       "displayDate": "01/05",
       "nextYearDisplayDate": null,
-      "dateRange": null
+      "dateRange": [[1, 0], [28, 0]]
    },
    {
       "falcoId": "triticale",
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "dateRange": null
+      "dateRange": [[28, -1], [52, -1]]
    },
    {
       "falcoId": "autres-cereales",
       "displayDate": "01/01",
       "nextYearDisplayDate": "01/12",
-      "dateRange": null
+      "dateRange": [[28, -1], [52, -1]]
    },
    {
       "falcoId": "ble-de-printemps",
