@@ -1,5 +1,7 @@
-# Falco - Front assets
+# Front assets
 
 ## You can find here
-- Falco front-end translations
-- Falco "Did you know" assets
+- Translation file
+- Crop details file
+- Static xlsx templates (silos, territories management, ...)
+- Email assets
