@@ -1,9 +1,9 @@
 TAG,FR,EN,DE,IT,ES
 Hyperplan,Hyperplan,Hyperplan,Hyperplan,Hyperplan,Hyperplan
 Close,Fermer,Close,Schließen,Chiudere,Cerrar
-Cartography,Cartographie,Cartography,Feldkarte,Mappa del campo,Mapa del campo
+Cartography,Cartographie,Cartography,Feldkarte,Mappa del campo,Cartografía
 Crop Rotation,Rotation cultures,Crop Rotation,Fruchtfolge,Rotazione delle colture,Recortar rotación
-Hyperplan map type,Carte Hyperplan,Hyperplan map type,Hyperplan-Kartentyp,Tipo di mappa Hyperplan,Tipo de mapa hiperplano
+Hyperplan map type,Carte Hyperplan,Hyperplan map type,Hyperplan-Kartentyp,Tipo di mappa Hyperplan,Tipo de mapa Hyperplan
 Satellite map type,Carte satellite,Satellite map type,Typ der Satellitenkarte,Tipo di mappa satellitare,Tipo de mapa satélite
 Geolocate me,Me géolocaliser,Geolocate me,Geolokalisiere mich,Geolocalizzami,Geolocalízame
 Find address,Rechercher une adresse,Find address,Adresse finden,Trova indirizzo,Encontrar dirección
@@ -11,7 +11,7 @@ Download PNG,Télécharger PNG,Download PNG,PNG herunterladen,Scarica PNG,Descar
 "You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [120])","Vous pouvez également rechercher des coordonnées (ex: 48.86;2.33) ou un identifiant de parcelle (ex: [120])","You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [120])","Sie können auch nach Koordinaten (z.B.: 48.86;2.33) oder einer Parzellenkennung (z.B.: [120]) suchen.","È anche possibile cercare le coordinate (ad esempio, 48.86;2.33) o un identificatore di parcella (ad esempio, [120]).","También puedes buscar por coordenadas (ej: 48.86;2.33) o id de parcela (ej: [120])"
 Add a background layer,Ajouter un calque en arrière plan,Add a background layer,Eine Ebene im Hintergrund hinzufügen,Aggiunta di un livello di sfondo,Añadir una capa de fondo
 silos,les silos,silos,die Silos,silos,silos
-farms,les exploitations,farms,die Betriebe,fattorie,granjas
+farms,les exploitations,farms,die Betriebe,fattorie,explotaciones
 Hide,Masquer,Hide,Ausblenden,Nascondi,Ocultar
 Display,Afficher,Display,Anzeige,Display,Mostrar
 H,R,H,E,R,C
@@ -203,7 +203,7 @@ Value calculated on the basis of crop rotation logic,Valeur calculée sur la bas
 Phenological stages,Stades phénologiques,Phenological stages,Phänologische Stadien,Fasi fenologiche,Etapas fenológicas
 Crop confidence score,Indice de confiance (culture),Crop confidence score,Konfidenzniveau der Kulturpflanzen,Punteggio di fiducia della coltura,Puntuación de confianza del cultivo
 Municipalities,Communes,Municipalities,Gemeinden,Comuni,Municipios
-Departments,Départements,Departments,Abteilungen,Dipartimenti,Departamentos
+Departments,Départements,Departments,Abteilungen,Dipartimenti,Provincias
 Welcome to Hyperplan!,Bienvenue sur Hyperplan !,Welcome to Hyperplan!,Willkommen bei Hyperplan !,Benvenuti a Hyperplan !,¡Bienvenido a Hyperplan!
 Account creation,Création de compte,Account creation,Konto erstellen,Creazione dell'account,Creación de cuenta
 Company function,Fonction dans l'entreprise,Company function,Funktion in der Firma,Posizione in azienda,Posición en la empresa
@@ -294,8 +294,8 @@ Choose the name of the new zone group,Nommez votre sectorisation,Choose the name
 Edit zone,Modifier une zone,Edit zone,Zone bearbeiten,Modifica zona,Editar zona
 What name do you want to give to this zone ?,Comment souhaitez vous appeler cette zone ?,What name do you want to give to this zone ?,Welchen Namen möchten Sie dieser Zone geben?,Che nome si vuole dare a questa zona?,¿Qué nombre quiere dar a esta zona?
 Atoms,Atomes,Atoms,Atome,Atomi,Átomos
-Farms (all),Exploitations (toutes),Farms (all),Bauernhöfe (alle),Aziende agricole (tutte),Granjas (todas)
-Farms (clients),Exploitations (clientes),Farms (clients),Bauernhöfe (Kunden),Fattorie (clienti),Granjas (clientes)
+Farms (all),Exploitations (toutes),Farms (all),Bauernhöfe (alle),Aziende agricole (tutte),Explotaciones (todas)
+Farms (clients),Exploitations (clientes),Farms (clients),Bauernhöfe (Kunden),Fattorie (clienti),Explotaciones (clientes)
 Are you sure you want to delete this zone ?,Etes vous sure de vouloir supprimer cette zone ?,Are you sure you want to delete this zone ?,"Sind Sie sicher,  dass Sie diese Zone löschen möchten?",Siete sicuri di voler eliminare questa zona?,¿Está seguro de que desea eliminar esta zona?
 Please type the exact zone name to proceed,Merci de saisir le nom exact de la zone pour confirmer,,Bitte geben Sie den genauen Zonennamen ein,Digitare il nome esatto della zona per procedere,"Por favor, escriba el nombre exacto de la zona para proceder"
 Edit zone group,Modifier une sectorisation,Edit zone group,Eine Sektorisierung ändern,Modificare una settorizzazione,Modificar una sectorización
@@ -304,7 +304,7 @@ Set zone group visible for the whole organization,Rendre cette sectorisation vis
 on,sur,on,auf,su,en
 Delete zone,Supprimer une zone,Delete zone,Zone löschen,Elimina zona,Borrar zona
 Please type the exact zone group name to proceed,Merci de saisir le nom exact de la sectorisation pour confirmer,Please type the exact zone group name to proceed,"Bitte geben Sie den genauen Namen der Zonengruppe ein, um fortzufahren",Digitare il nome esatto del gruppo di zone per procedere,Escriba el nombre exacto del grupo de zonas para continuar
-All farms,Toutes les exploitations,All farms,Alle Farmen,Tutte le aziende agricole,Todas las granjas
+All farms,Toutes les exploitations,All farms,Alle Farmen,Tutte le aziende agricole,Todas las explotaciones
 Organization farms,Exploitations de mon organisation,Organization farms,Organisationsbetriebe,Aziende agricole dell'organizzazione,Explotaciones de organización
 Field sales farms,Exploitations d'un TC,Field sales farms,Außendienst-Betriebe,Aziende di vendita sul campo,Explotaciones de venta sobre el terreno
 Adressable market share,Part adressable,Adressable market share,Adressierbarer Marktanteil,Quota di mercato indirizzabile,Explotaciones de venta
@@ -321,12 +321,12 @@ Add to favorites,Ajouter aux favoris,Add to favorites,Zu Favoriten hinzufügen,A
 Add filters to favorites,Ajouter cette combination de filtres à vos favoris,Add filters to favorites,Filters zu den Favoriten hinzufügen,Aggiungi fitler ai preferiti,Añadir filters a favoritos
 What name do you want to give to this set of filters ?,Comment souhaitez vous nommer ce favoris ?,What name do you want to give to this set of filters ?,Welchen Namen möchten Sie dieser Gruppe von Filtern geben?,Che nome si vuole dare a questo insieme di filtri?,¿Qué nombre quiere dar a este conjunto de filtros?
 "First of all, choose which zoneGroup you want to duplicate",,"First of all, choose which zoneGroup you want to duplicate","Wählen Sie zunächst die Zonengruppe aus, die Sie duplizieren möchten","Prima di tutto scegliere il gruppo di zone che si desidera duplicare","En primer lugar, elija qué zoneGroup desea duplicar"
-Default filters,Filtre par défaut,Default filters,Standardfilter,Filtro predefinito,Filtro por defecto
+Default filters,Filtre par défaut,Default filters,Standardfilter,Filtro predefinito,Filtros predeterminados
 Remove from favorites,Supprimer le favoris,Remove from favorites,Favoriten löschen,Eliminare i preferiti,Borrar favoritos
 Reset filters,Ré-initialiser les filtres,Reset filters,Filter zurücksetzen,Azzeramento dei filtri,Restablecer filtros
-Relative evolution (vs. n-1),Evolution relative (vs n-1),Relative evolution (vs. n-1),Relative Entwicklung (vs n-1),Variazione relativa (vs n-1),Cambio relativo (vs n-1)
-Absolute evolution (vs. n-1),Evolution absolue (vs n-1),Absolute evolution (vs. n-1),Absolute Entwicklung (vs n-1),Variazione assoluta (rispetto a n-1),Cambio absoluto (vs n-1)
-Default,Par défaut,Default,Standard,Predefinito,Por defecto
+Relative evolution (vs. n-1),Evolution relative (vs n-1),Relative evolution (vs. n-1),Relative Entwicklung (vs n-1),Variazione relativa (vs n-1),Evolución relativa (vs n-1)
+Absolute evolution (vs. n-1),Evolution absolue (vs n-1),Absolute evolution (vs. n-1),Absolute Entwicklung (vs n-1),Variazione assoluta (rispetto a n-1),Evolución absoluta (vs n-1)
+Default,Par défaut,Default,Standard,Predefinito,Predeterminado
 Sales management,Performance commerciale,Sales management,Geschäftliche Leistung,Prestazioni commerciali,Rendimiento comercial
 Active crops,Cultures actives,Active crops,Aktive Kulturen,Colture attive,Cultivos activos
 Inactive crops,Cultures inactives,Inactive crops,Inaktive Kulturen,Colture inattive,Cultivos inactivos
@@ -337,7 +337,7 @@ None,Aucune,None,Keine,Nessuna,Ninguno
 This zone group is empty,Cette sectorisation est vide,This zone group is empty,Diese Sektorisierung ist leer,Questa settorizzazione è vuota,Esta sectorización está vacía
 View mode,Mode vue,View mode,Modus Ansicht,Modalità di visualizzazione,Modo de visualización
 Clic edit mode,Mode modification au clic,Clic edit mode,Änderungsmodus bei Klick,Modalità di modifica con clic,Modo de modificación por clic
-Lasso edit mode,Mode modification au lasso,Lasso edit mode,Bearbeitungsmodus mit Lasso,Modalità di modifica con lazo,Modo de modificación del lazo
+Lasso edit mode,Mode modification au lasso,Lasso edit mode,Bearbeitungsmodus mit Lasso,Modalità di modifica con lazo,Modo de edición con selección lazo
 "Select characteristics you want to see for parcels, or","Séléctionnez les caractéristiques parcelles que vous souhaitez voir, ou","Select characteristics you want to see for fields, or","Wählen Sie die Merkmale aus, die Sie für Pakete sehen möchten, oder","Selezionare le caratteristiche che si desidera visualizzare per i pacchi,","Seleccione las características que desea ver para las parcelas, o"
 ask for new ones !,demandez-en de nouvelles !,ask for new ones !,nach neuen Merkmalen fragen!,oppure richiederne di nuove!,solicita otras nuevas.
 You can sort characteristics by grabbing the handle on the left.,Vous pouvez changer l'ordre des caractéristiques en utilisant le symbole sur la gauche.,You can sort characteristics by grabbing the handle on the left.,Sie können die Merkmale sortieren,È possibile ordinare le caratteristiche afferrando la maniglia a sinistra.,Puedes ordenar las características agarrando el asa de la izquierda.
@@ -350,7 +350,7 @@ New Password,Nouveau mot de passe,New Password,Neues Passwort,Nuova password,Nue
 Password reset,Réinitialisation du mot de passe,Password reset,Passwort zurücksetzen,Ripristino della password,Restablecer contraseña
 Reset,Réinitialiser,Reset,Zurücksetzen,Ripristino,Restablecer
 This value already exists,Cette valeur existe déjà,This value already exists,Dieser Wert existiert bereits,Questo valore esiste già,Este valor ya existe
-Loading farms... It may take a few seconds,Chargement des fermes... Cela peut prendre quelques secondes,Loading farms... It may take a few seconds,Farmen laden... Es kann ein paar Sekunden dauern,Caricamento fattorie... Potrebbero essere necessari alcuni secondi,Cargando granjas... Puede tardar unos segundos
+Loading farms... It may take a few seconds,Chargement des fermes... Cela peut prendre quelques secondes,Loading farms... It may take a few seconds,Farmen laden... Es kann ein paar Sekunden dauern,Caricamento fattorie... Potrebbero essere necessari alcuni secondi,Cargando explotaciones... Puede tardar unos segundos
 A reset email will be sent to you,Nous vous enverrons un email de réinitialisation,A reset email will be sent to you,Sie erhalten eine E-Mail zum Zurücksetzen,Verrà inviata un'e-mail di ripristino,Te enviaremos un correo electrónico de restablecimiento
 Year,Année,Year,Jahr,Anno,Año
 Please zoom in to see municipalities,Merci de zoomer pour voir les communes,Please zoom in to see municipalities,"Bitte zoomen Sie hinein, um die Gemeinden zu sehen",Ingrandire per vedere i comuni,Amplíe la imagen para ver los municipios
@@ -369,7 +369,7 @@ You can select several zones by holding shift key while clicking,Maintenez la to
 Organizations,Organizations,Organizations,Organizations,Organizations,Organizations
 Organizations Managment,Organizations Managment,Organizations Managment,Organizations Managment,Organizations Managment,Organizations Managment
 Add an organization,Add an organization,Add an organization,Add an organization,Add an organization,Add an organization
-Table,Table,Table,Table,Table,Table
+Table,Table,Table,Table,Table,Tabla
 Parcel average yield. Not weighted by area.,Parcel average yield. Not weighted by area.,Parcel average yield. Not weighted by area.,Parcel average yield. Not weighted by area.,Parcel average yield. Not weighted by area.,Parcel average yield. Not weighted by area.
 Visited Ha divided by the zone potential.,Total ha visités divisé par le potentiel de la zone.,Visited Ha divided by the zone potential.,Besuchte Ha geteilt durch das Zonenpotenzial.,Ha visitati divisi per il potenziale della zona.,Ha visitadas divididas por el potencial de la zona.
 Collected volume divided by the zone potential.,Volume collecté divisé par le potentiel de la zone.,Collected volume divided by the zone potential.,Gesammeltes Volumen geteilt durch das Zonenpotenzial.,Volume raccolto diviso per il potenziale della zona.,Volumen recaudado dividido por el potencial de la zona.
