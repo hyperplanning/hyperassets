@@ -749,3 +749,16 @@ Non-Agricultural,Non-agricoles,Non-Agricultural,Nicht-landwirtschaftliche Erzeug
 Organizations Management,Organizations Management,Organizations Management,Organizations Management,Organizations Management,Organizations Management
 Labels Management,Labels Management,Labels Management,Labels Management,Labels Management,Labels Management
 Area for,Surface pour,Area for,Area for,Area for,Area for
+1 - Low,1 - Faible,1 - Low,1 - Niedrig,1 - Basso,1 - Bajo
+2 - Medium,2 - Moyen,2 - Medium,2 - Mittel,2 - Medio,2 - Medio
+3 - High,3 - Elevé,3 - High,3 - Hoch,3 - Alto,3 - Alto
+4 - Super High,4 - Très élevé,4 - Super High,4 - Sehr hoch,4 - Super alto,4 - Súper alto
+Not High,Pas élevé,Not High,Nicht hoch,Non alto,No alto
+High or very high,Elevé ou très elevé,High or very high,Hoch oder sehr hoch,Alto o molto alto,Alto o muy alto
+Not high or very high,Pas elevé ou très élevé,Not high or very high,Nicht hoch oder sehr hoch,Non alto o molto alto,No alto o muy alto
+Not low,Pas faible,Not low,Nicht niedrig,Non basso,No bajo
+Low or medium,Faible ou moyen,Low or medium,Niedrig oder mittel,Basso o medio,Bajo o medio
+Not low or medium,Pas faible ou moyen,Not low or medium,Nicht niedrig oder mittel,Non basso o medio,No bajo o medio
+Not medium,Pas moyen,Not medium,Nicht mittel,Non medio,No media
+Medium or high,Moyen ou élevé,Medium or high,Mittel oder hoch,Medio o alto,Media o alta
+Not medium or high,Pas moyen ou élevé,Not medium or high,Nicht mittel oder hoch,Non medio o alto,No media o alta
