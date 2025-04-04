@@ -83,7 +83,7 @@ TAG,FR,EN,DE,IT,ES,TR
 "Irrigation","Irrigation","Irrigation","Bewässerung","Irrigazione","Riego","Sulama"
 "Water stress","Stress hydrique","Water stress","Wasserstress","Stress idrico","Estrés hídrico","Su stresi"
 "Accumulated temperature","Températures cumulées","Accumulated temperature","Kumulierte Temperaturen","Temperature accumulate","Temperaturas acumuladas","Birikmiş sıcaklık"
-"Accumulated rainfall","Précipitations cumulées","Accumulated rainfall","Kumulierte Niederschlagsmenge","Precipitazioni accumulate","Precipitaciones acumuladas","Birikmiş yağış"
+"Week cumulated rainfall","Précipitations cumulées hebdomadaires","Week cumulated rainfall","Kumulierte Niederschlagsmenge pro Woche","Settimana di precipitazioni cumulate","Semana de precipitaciones acumuladas","Haftalık birikmiş yağış"
 "NDVI","NDVI","NDVI","NDVI","NDVI","NDVI","NDVI"
 "Area","Surface","Area","Fläsche","Area","Superficie","Alan"
 "Municipality","Commune","Municipality","Gemeinde","Comune","Municipio","Belediye"
