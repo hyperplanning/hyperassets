@@ -821,3 +821,5 @@ TAG,FR,EN,DE,IT,ES,TR
 "Create zone group",,,,,,
 "Please select a zone on the map or from the list to edit it",,,,,,
 "Id has been copied to your clipboard",,,,,,
+"Compare zones",,,,,,
+"Create one line per zone (only available for less than 20 zones)",,,,,,
