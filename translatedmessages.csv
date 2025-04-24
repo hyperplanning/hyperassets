@@ -794,39 +794,39 @@ TAG,FR,EN,DE,IT,ES,TR
 "Unit","Unité","Unit","Einheit","Unità","Unidad","Birim"
 "Add","Ajouter","Add","Hinzufügen","Aggiungi","Añadir","Ekle"
 "No linked farm","Reliée à aucune exploitation","No linked farm","Kein verknüpfter Betrieb","Nessuna azienda collegata","Ninguna explotación vinculada","Bağlantılı çiftlik yok"
-"Tables",,,,,,
-"Charts",,,,,,
-"Cartographies",,,,,,
-"Help",,,,,,
-"Profile",,,,,,
-"Explore",,,,,,
-"Organization management",,,,,,
-"Label management",,,,,,
-"SIRET",,,,,,
-"Wiuz",,,,,,
-"Elevage Ovin/caprin",,,,,,
-"Elevage Porc/porcin",,,,,,
-"Elevage autres bovins",,,,,,
-"Edit or create preset",,,,,,
-"Share URL",,,,,,
-"Open field filter",,,,,,
-"Reset field filter",,,,,,
-"Filters are not available on this analyse",,,,,,
-"Display text labels",,,,,,
-"Search location",,,,,,
-"Show zone split",,,,,,
-"Search analyse",,,,,,
-"Add zone",,,,,,
-"This zone group is public",,,,,,
-"Create zone group",,,,,,
-"Please select a zone on the map or from the list to edit it",,,,,,
-"Id has been copied to your clipboard",,,,,,
-"Compare zones",,,,,,
-"Create one line per zone (only available for less than 20 zones)",,,,,,
-"Relative evolution vs. n-1",,,,,,
-"Absolute evolution vs. n-1",,,,,,
-"Percentage",,,,,,
-"with",,,,,,
-"Area (ha)",,,,,,
-"You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [250000051000079532])",,,,,,
-"No zone group available. You can only edit zone groups you have created",,,,,,
+"Tables",x,x,x,x,x,x
+"Charts",x,x,x,x,x,x
+"Cartographies",x,x,x,x,x,x
+"Help",x,x,x,x,x,x
+"Profile",x,x,x,x,x,x
+"Explore",x,x,x,x,x,x
+"Organization management",x,x,x,x,x,x
+"Label management",x,x,x,x,x,x
+"SIRET",x,x,x,x,x,x
+"Wiuz",x,x,x,x,x,x
+"Elevage Ovin/caprin",x,x,x,x,x,x
+"Elevage Porc/porcin",x,x,x,x,x,x
+"Elevage autres bovins",x,x,x,x,x,x
+"Edit or create preset",x,x,x,x,x,x
+"Share URL",x,x,x,x,x,x
+"Open field filter",x,x,x,x,x,x
+"Reset field filter",x,x,x,x,x,x
+"Filters are not available on this analyse",x,x,x,x,x,x
+"Display text labels",x,x,x,x,x,x
+"Search location",x,x,x,x,x,x
+"Show zone split",x,x,x,x,x,x
+"Search analyse",x,x,x,x,x,x
+"Add zone",x,x,x,x,x,x
+"This zone group is public",x,x,x,x,x,x
+"Create zone group",x,x,x,x,x,x
+"Please select a zone on the map or from the list to edit it",x,x,x,x,x,x
+"Id has been copied to your clipboard",x,x,x,x,x,x
+"Compare zones",x,x,x,x,x,x
+"Create one line per zone (only available for less than 20 zones)",x,x,x,x,x,x
+"Relative evolution vs. n-1",x,x,x,x,x,x
+"Absolute evolution vs. n-1",x,x,x,x,x,x
+"Percentage",x,x,x,x,x,x
+"with",x,x,x,x,x,x
+"Area (ha)",x,x,x,x,x,x
+"You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [250000051000079532])",x,x,x,x,x,x
+"No zone group available. You can only edit zone groups you have created",x,x,x,x,x,x
