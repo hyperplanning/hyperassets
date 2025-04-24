@@ -830,3 +830,11 @@ TAG,FR,EN,DE,IT,ES,TR
 "Area (ha)",x,x,x,x,x,x
 "You can also search for coordinates (ex: 48.86;2.33) or parcel id (ex: [250000051000079532])",x,x,x,x,x,x
 "No zone group available. You can only edit zone groups you have created",x,x,x,x,x,x
+"No value",x,x,x,x,x,x
+"Welcome on the new version of Hyperplan ! Check the video to see what is new",x,x,x,x,x,x
+"Zone group has been successfully created.",x,x,x,x,x,x
+"Accessible territory",x,x,x,x,x,x
+"Entire territory accessible",x,x,x,x,x,x
+"Add new colleague",x,x,x,x,x,x
+"Waiting...",x,x,x,x,x,x
+"Api",x,x,x,x,x,x
