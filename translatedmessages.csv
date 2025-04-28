@@ -841,5 +841,5 @@ TAG,FR,EN,DE,IT,ES,TR
 "I want to filter on fields...",Je veux filtrer sur les parcelles...,I want to filter on fields...,Ich möchte nach Feldern filtern...,Voglio filtrare i campi...,Quiero filtrar por campos...,"Alanlara göre filtreleme yapmak istiyorum..."
 "fields",parcelles,fields,Felder,campi,campos,alanlar
 on week of,la semaine du,on week of,in der Woche vom,la settimana di,en la semana de,haftasında
-"Satellite data",,,,,,
-GPS coordinates,,,,,,
+"Satellite data",x,x,x,x,x,x
+GPS coordinates,x,x,x,x,x,x
