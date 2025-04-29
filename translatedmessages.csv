@@ -841,5 +841,15 @@ TAG,FR,EN,DE,IT,ES,TR
 "I want to filter on fields...",Je veux filtrer sur les parcelles...,I want to filter on fields...,Ich möchte nach Feldern filtern...,Voglio filtrare i campi...,Quiero filtrar por campos...,"Alanlara göre filtreleme yapmak istiyorum..."
 "fields",parcelles,fields,Felder,campi,campos,alanlar
 On week of,la semaine du,on week of,in der Woche vom,la settimana di,en la semana de,haftasında
-"Satellite data",x,x,x,x,x,x
-GPS coordinates,x,x,x,x,x,x
+"GPS coordinates","Coordonées GPS","GPS coordinates","GPS-Koordinaten","Coordinate GPS","Coordenadas GPS","GPS koordinatları"
+"Satellite data","Données satellite","Satellite data","Satellitendaten","Dati satellitari","Datos por satélite","Uydu verileri"
+"Autres","Autres","Other","Andere","Altro","Otros","Diğer"
+"Agronomie","Agronomie","Agronomy","Agronomie","Agronomia","Agronomía","Tarım Bilimi"
+"Exploitation / Supply-Chain","Exploitation / Supply-Chain","Operations / Supply-Chain","Betrieb / Supply-Chain","Operations / Supply-Chain","Operaciones / Cadena de suministro","Operasyonlar / Tedarik Zinciri"
+"Hyperplan ","Hyperplan ","Hyperplan ","Hyperplan ","Hyperplan ","Hiperplanificación ","Hiperplan"
+"IT / Digital","IT / Digital","IT / Digital","IT / Digital","IT / Digital","TI / Digital","BT / Dijital"
+"Marketing / Sales Effectiveness / Directeur commercial","Marketing / Sales Effectiveness / Directeur commercial","Marketing / Sales Effectiveness / Sales manager","Marketing / Sales Effectiveness / Verkaufsleiter","Marketing / Sales Effectiveness / Sales Director","Marketing / Eficacia comercial / Director de ventas","Pazarlama / Satış Etkinliği / Direktör reklamı"
+"Technico-commercial","Technico-commercial","Technico-commercial","Technischer Verkaufsleiter","Tecnico commerciale","Ventas técnicas","Teknik-ticari"
+"Responsable appro","Responsable appro","Supply manager","Versorgungsmanager","Supply manager","Gestor de suministros","Sorumlu onay"
+"Responsable collecte / Trading","Responsable collecte / Trading","Collection / Trading manager","Sammel- / Handelsmanager","Collection / Trading manager","Gestor de cobros / comercio","Sorumlu tahsilat / Ticaret"
+"Responsable région (commercial)","Responsable région (commercial)","Regional manager (sales)","Regionalleiter (Handel)","Manager regionale (vendite)","Gestor regional (ventas)","Sorumlu bölge (ticari)"
