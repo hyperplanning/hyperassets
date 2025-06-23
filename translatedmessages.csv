@@ -933,3 +933,7 @@ On week of,la semaine du,on week of,in der Woche vom,la settimana di,en la seman
 "Exploration","Exploration","Exploration","Codice SIGPAC","Esplorazione","Exploración","Keşif"
 "Field SIGPAC code","Codice SIGPAC","Field SIGPAC code","Silo","Codice SIGPAC","Codice SIGPAC","Codice SIGPAC"
 "Silo","Silo","Silo","","Silo","Silo","Silo"
+"No risk ","Aucun risque ","No risk ","Geringes Risiko","Nessun rischio ","Sin riesgo ","Risk yok "
+"Low risk","Risque faible","Low risk","Mäßiges Risiko","Basso rischio","Riesgo bajo","Düşük risk"
+"Moderate risk","Risque modéré","Moderate risk","Hohes Risiko","Moderato rischio","Riesgo moderado","Orta risk"
+"High risk","Risque élevé","High risk","","Alto rischio","Riesgo alto","Yüksek risk"
