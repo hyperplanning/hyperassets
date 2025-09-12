@@ -13,16 +13,17 @@ jobs:
         uses: actions/checkout@v3
 
       # Upload vers DEV
-      - name: Upload assets to DEV storage
+      - name: Upload to Azure Blob Storage (DEV)
         uses: azure/CLI@v1
         with:
-          azcliversion: 2.53.0
           inlineScript: |
-            echo "Uploading to DEV..."
             az storage blob upload-batch \
-              --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }}" \
-              -d '$web/hyperasset' \
-              -s "./hyperasset"
+              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_DEV }} \
+              --auth-mode login \
+              --destination '$web' \
+              --source ./hyperassets \
+              --overwrite
+
 
 #      # Upload vers UAT
 #      - name: Upload assets to UAT storage
