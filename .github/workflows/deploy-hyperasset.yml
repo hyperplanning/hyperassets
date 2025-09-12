@@ -9,23 +9,35 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      # 1️⃣ Checkout du repo
+      - uses: actions/checkout@v3
 
-      - name: Login Azure
-        uses: azure/login@v1
+      # 2️⃣ Upload vers Azure Storage (DEV)
+      - name: Upload hyperassets to DEV
+        uses: azure/storage-blob-upload@v1
         with:
-          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }}
+          container-name: '$web'
+          source: ./hyperassets
+          destination: hyperasset
+          overwrite: true
 
-      - name: Upload hyperassets DEV
-        uses: azure/CLI@v1
-        with:
-          inlineScript: |
-            echo "Contenu du dossier hyperassets :"
-            ls -l ./hyperassets
-            az storage blob upload-batch \
-              --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }}" \
-              --destination '$web' \
-              --source ./hyperassets \
-              --destination-path hyperasset \
-              --overwrite
+#      # 3️⃣ Upload vers Azure Storage (UAT)
+#      - name: Upload hyperassets to UAT
+#        uses: azure/storage-blob-upload@v1
+#        with:
+#          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING_UAT }}
+#          container-name: '$web'
+#          source: ./hyperassets
+#          destination: hyperasset
+#          overwrite: true
+#
+#      # 4️⃣ Upload vers Azure Storage (PROD)
+#      - name: Upload hyperassets to PROD
+#        uses: azure/storage-blob-upload@v1
+#        with:
+#          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING_PROD }}
+#          container-name: '$web'
+#          source: ./hyperassets
+#          destination: hyperasset
+#          overwrite: true
