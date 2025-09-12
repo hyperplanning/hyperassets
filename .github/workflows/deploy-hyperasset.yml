@@ -1,4 +1,4 @@
-name: Deploy Hyperasset to Azure Storage
+name: Deploy Hyperassets
 
 on:
   push:
@@ -6,51 +6,26 @@ on:
       - main
 
 jobs:
-  deploy-hyperassets:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout du repo pour avoir les fichiers
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      # 2️⃣ Login Azure via secret
-      - uses: azure/login@v1
+      - name: Login Azure
+        uses: azure/login@v1
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-      # 3️⃣ Upload vers Azure Storage
-      - name: Upload hyperassets to Azure Blob Storage (DEV)
+      - name: Upload hyperassets DEV
         uses: azure/CLI@v1
         with:
           inlineScript: |
+            echo "Contenu du dossier hyperassets :"
+            ls -l ./hyperassets
             az storage blob upload-batch \
               --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }}" \
               --destination '$web' \
               --source ./hyperassets \
               --destination-path hyperasset \
               --overwrite
-
-
-
-#      # Upload vers UAT
-#      - name: Upload assets to UAT storage
-#        uses: azure/CLI@v1
-#        with:
-#          azcliversion: 2.53.0
-#          inlineScript: |
-#            echo "Uploading to UAT..."
-#            az storage blob upload-batch \
-#              --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_UAT }}" \
-#              -d '$web/hyperasset' \
-#              -s "./hyperasset"
-#
-#      # Upload vers PROD
-#      - name: Upload assets to PROD storage
-#        uses: azure/CLI@v1
-#        with:
-#          azcliversion: 2.53.0
-#          inlineScript: |
-#            echo "Uploading to PROD..."
-#            az storage blob upload-batch \
-#              --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_PROD }}" \
-#              -d '$web/hyperasset' \
-#              -s "./hyperasset"
