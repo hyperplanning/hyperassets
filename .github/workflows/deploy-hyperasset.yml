@@ -6,13 +6,18 @@ on:
       - main
 
 jobs:
-  deploy:
+  deploy-hyperassets:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      # 1️⃣ Checkout du repo pour avoir les fichiers
+      - uses: actions/checkout@v3
 
-      # Upload vers DEV
+      # 2️⃣ Login Azure via secret
+      - uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      # 3️⃣ Upload vers Azure Storage
       - name: Upload hyperassets to Azure Blob Storage (DEV)
         uses: azure/CLI@v1
         with:
@@ -23,6 +28,7 @@ jobs:
               --source ./hyperassets \
               --destination-path hyperasset \
               --overwrite
+
 
 
 #      # Upload vers UAT
