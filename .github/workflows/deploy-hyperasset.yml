@@ -18,8 +18,7 @@ jobs:
         with:
           inlineScript: |
             az storage blob upload-batch \
-              --account-name ${{ secrets.AZURE_STORAGE_ACCOUNT_DEV }} \
-              --auth-mode login \
+              --connection-string ${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }} \
               --destination '$web' \
               --source ./hyperassets \
               --overwrite
