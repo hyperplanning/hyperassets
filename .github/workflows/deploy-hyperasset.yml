@@ -9,35 +9,47 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout du repo
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # 2️⃣ Upload vers Azure Storage (DEV)
-      - name: Upload hyperassets to DEV
-        uses: azure/storage-blob-upload@v1
+      - name: Login Azure
+        uses: azure/login@v1
         with:
-          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }}
-          container-name: '$web'
-          source: ./hyperassets
-          destination: hyperasset
-          overwrite: true
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-#      # 3️⃣ Upload vers Azure Storage (UAT)
+      - name: List hyperassets
+        run: |
+          echo "Contenu du repo :"
+          ls -l
+          echo "Contenu du dossier hyperassets :"
+          ls -l ./hyperassets
+
+      # 4️⃣ Upload DEV
+      - name: Upload hyperassets to DEV
+        run: |
+          az storage blob upload-batch \
+            --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }}" \
+            --destination '$web' \
+            --source ./hyperassets \
+            --destination-path hyperasset \
+            --overwrite
+
+#      # 5️⃣ Upload UAT
 #      - name: Upload hyperassets to UAT
-#        uses: azure/storage-blob-upload@v1
-#        with:
-#          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING_UAT }}
-#          container-name: '$web'
-#          source: ./hyperassets
-#          destination: hyperasset
-#          overwrite: true
+#        run: |
+#          az storage blob upload-batch \
+#            --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_UAT }}" \
+#            --destination '$web' \
+#            --source ./hyperassets \
+#            --destination-path hyperasset \
+#            --overwrite
 #
-#      # 4️⃣ Upload vers Azure Storage (PROD)
+#      # 6️⃣ Upload PROD
 #      - name: Upload hyperassets to PROD
-#        uses: azure/storage-blob-upload@v1
-#        with:
-#          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING_PROD }}
-#          container-name: '$web'
-#          source: ./hyperassets
-#          destination: hyperasset
-#          overwrite: true
+#        run: |
+#          az storage blob upload-batch \
+#            --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_PROD }}" \
+#            --destination '$web' \
+#            --source ./hyperassets \
+#            --destination-path hyperasset \
+#            --overwrite
