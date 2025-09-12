@@ -1,0 +1,49 @@
+name: Deploy Hyperasset to Azure Storage
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Upload vers DEV
+      - name: Upload assets to DEV storage
+        uses: azure/CLI@v1
+        with:
+          azcliversion: 2.53.0
+          inlineScript: |
+            echo "Uploading to DEV..."
+            az storage blob upload-batch \
+              --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_DEV }}" \
+              -d '$web/hyperasset' \
+              -s "./hyperasset"
+
+#      # Upload vers UAT
+#      - name: Upload assets to UAT storage
+#        uses: azure/CLI@v1
+#        with:
+#          azcliversion: 2.53.0
+#          inlineScript: |
+#            echo "Uploading to UAT..."
+#            az storage blob upload-batch \
+#              --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_UAT }}" \
+#              -d '$web/hyperasset' \
+#              -s "./hyperasset"
+#
+#      # Upload vers PROD
+#      - name: Upload assets to PROD storage
+#        uses: azure/CLI@v1
+#        with:
+#          azcliversion: 2.53.0
+#          inlineScript: |
+#            echo "Uploading to PROD..."
+#            az storage blob upload-batch \
+#              --connection-string "${{ secrets.AZURE_STORAGE_CONNECTION_STRING_PROD }}" \
+#              -d '$web/hyperasset' \
+#              -s "./hyperasset"
