@@ -1,0 +1,128 @@
+[
+   {
+      "falcoId": "ble-d-hiver",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": [[28, -1], [52, -1]]
+   },
+   {
+      "falcoId": "orge-d-hiver",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": [[28, -1], [52, -1]]
+   },
+   {
+      "falcoId": "orge-de-printemps",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": [[1, 0], [28, 0]]
+   },
+   {
+      "falcoId": "triticale",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": [[28, -1], [52, -1]]
+   },
+   {
+      "falcoId": "autres-cereales",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": [[28, -1], [52, -1]]
+   },
+   {
+      "falcoId": "ble-de-printemps",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "riz",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": null
+   },
+   {
+      "falcoId": "vignes",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": null
+   },
+   {
+      "falcoId": "haricot-flageolet",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "betteraves",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "mais",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": [[8, 0], [28, 0]]
+   },
+   {
+      "falcoId": "colza",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": [[28, -1], [52, -1]]
+   },
+   {
+      "falcoId": "tournesol",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": [[8, 0], [28, 0]]
+   },
+   {
+      "falcoId": "luzerne",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "pomme-de-terre",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "soja",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "pois",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "chanvre",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   },
+   {
+      "falcoId": "lin",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": null
+   },
+   {
+      "falcoId": "prairies-arbres-autres",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "dateRange": null
+   },
+   {
+      "falcoId": "legumes-autres-legumes",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": null
+   }
+]

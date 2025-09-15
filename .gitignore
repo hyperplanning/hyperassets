@@ -1,0 +1,6 @@
+.env
+*.pyc
+**/*.pyc
+hyperassets.egg-info/
+venv
+.idea/

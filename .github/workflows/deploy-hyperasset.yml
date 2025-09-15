@@ -1,0 +1,27 @@
+name: Deploy Hyperassets
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Login Azure
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Debug path
+        run: |
+          echo "Repo root = ${{ github.workspace }}"
+          ls -la ${{ github.workspace }}
+
+      - name: Upload with AzCopy
+        run: azcopy copy "${{ github.workspace}}/*" "https://${{ secrets.AZURE_STORAGE_ACCOUNT_DEV }}.blob.core.windows.net/\$web/hyperasset?${{ secrets.AZURE_SAS_TOKEN_DEV }}" --recursive --overwrite=true --exclude-path ".git;.github" --exclude-pattern "*.yml;*.yaml;README.md"
