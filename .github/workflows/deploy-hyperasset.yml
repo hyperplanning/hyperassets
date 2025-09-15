@@ -6,22 +6,44 @@ on:
       - main
 
 jobs:
-  deploy:
+  deploy-dev:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Login Azure
-        uses: azure/login@v1
-        with:
-          creds: ${{ secrets.AZURE_CREDENTIALS }}
-
-      - name: Debug path
+      - name: Upload to Dev
         run: |
-          echo "Repo root = ${{ github.workspace }}"
-          ls -la ${{ github.workspace }}
+          azcopy copy "${{ github.workspace }}/*" \
+            "https://${{ secrets.AZURE_STORAGE_ACCOUNT_DEV }}.blob.core.windows.net/\$web/hyperasset?${{ secrets.AZURE_SAS_TOKEN_DEV }}" \
+            --recursive --overwrite=true \
+            --exclude-path ".git;.github" \
+            --exclude-pattern "*.yml;*.yaml;README.md"
 
-      - name: Upload with AzCopy
-        run: azcopy copy "${{ github.workspace}}/*" "https://${{ secrets.AZURE_STORAGE_ACCOUNT_DEV }}.blob.core.windows.net/\$web/hyperasset?${{ secrets.AZURE_SAS_TOKEN_DEV }}" --recursive --overwrite=true --exclude-path ".git;.github" --exclude-pattern "*.yml;*.yaml;README.md"
+  deploy-uat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Upload to UAT
+        run: |
+          azcopy copy "${{ github.workspace }}/*" \
+            "https://${{ secrets.AZURE_STORAGE_ACCOUNT_UAT }}.blob.core.windows.net/\$web/hyperasset?${{ secrets.AZURE_SAS_TOKEN_UAT }}" \
+            --recursive --overwrite=true \
+            --exclude-path ".git;.github" \
+            --exclude-pattern "*.yml;*.yaml;README.md"
+
+#  deploy-prod:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v3
+#
+#      - name: Upload to Prod
+#        run: |
+#          azcopy copy "${{ github.workspace }}/*" \
+#            "https://${{ secrets.AZURE_STORAGE_ACCOUNT_PROD }}.blob.core.windows.net/\$web/hyperasset?${{ secrets.AZURE_SAS_TOKEN_PROD }}" \
+#            --recursive --overwrite=true \
+#            --exclude-path ".git;.github" \
+#            --exclude-pattern "*.yml;*.yaml;README.md"
