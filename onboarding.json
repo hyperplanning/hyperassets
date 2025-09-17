@@ -62,9 +62,9 @@
     }
   ],
   "modules": {
-    "ZoneGroupManagment": "https://www.youtube.com/embed/x1lNauRFqUQ?si=hod5nuZPbKboloyI",
-    "AnalyseChart": "https://www.youtube.com/embed/D86yJEBAzkA?si=TcKGcGzQ1z-SAXnW",
-    "AnalyseTable": "https://www.youtube.com/embed/sxXsNbM-p4U?si=nQ3IlgzYm4wbw3rj",
-    "ExploreMap": "https://www.youtube.com/embed/JpzMre8K0zY?si=zdMy6CaLiBjyK9Vf"
+    "Territories management": "https://www.youtube.com/embed/x1lNauRFqUQ?si=hod5nuZPbKboloyI",
+    "Chart": "https://www.youtube.com/embed/D86yJEBAzkA?si=TcKGcGzQ1z-SAXnW",
+    "Table": "https://www.youtube.com/embed/sxXsNbM-p4U?si=nQ3IlgzYm4wbw3rj",
+    "Exploration": "https://www.youtube.com/embed/JpzMre8K0zY?si=zdMy6CaLiBjyK9Vf"
   }
 }
