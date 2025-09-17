@@ -1,0 +1,70 @@
+{
+  "whereToStart": [
+    {
+      "title": "Prospect more effectively: Establish a list of farms to target",
+      "icon": "fak fa-farm",
+      "url": "https://www.youtube.com/embed/MJiXNdQ3-90?si=Hq98Ca_WKeeOyQy6",
+      "professions": ["Technico_commercial", "Marketing_Sales_Effectiveness_Directeur_commercial"]
+    },
+    {
+      "title": "Prospect more effectively: Identify the municipalities to target as a priority",
+      "icon": "fas fa-border-none",
+      "url": "https://www.youtube.com/embed/nJMKnyAIu7o?si=2FV2IxA3YKqqeHby",
+      "professions": ["Technico_commercial", "Marketing_Sales_Effectiveness_Directeur_commercial"]
+    },
+    {
+      "title": "Estimate a market",
+      "icon": "fas fa-home",
+      "url": "https://www.youtube.com/embed/IVU6MSNus5k?si=8_dyrnP6Hv0ZGgW6",
+      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+    },
+    {
+      "title": "Understand and adjust crop rotation estimates",
+      "icon": "fas fa-home",
+      "url": "https://www.youtube.com/embed/d-CIUprQ2Y8?si=xZIFP7PFKapfQVr-",
+      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial", "Responsable_collecte_Trading"]
+    },
+    {
+      "title": "Build and position my offer",
+      "icon": "fas fa-home",
+      "url": "https://www.youtube.com/embed/2bUSyK1VjMA?si=B3VBPdRw3ZgwFkUo",
+      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+    },
+    {
+      "title": "Seize opportunities in season",
+      "icon": "fas fa-home",
+      "url": "https://www.youtube.com/embed/Iya_V6Md6e4?si=pYq7c9RBLyIBHtDn",
+      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+    },
+    {
+      "title": "Optimize my commercial sectorization",
+      "icon": "fas fa-home",
+      "url": "https://www.youtube.com/embed/IqKIiTgXQ7U?si=Pd50RAzgJ_EnPL07",
+      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+    },
+    {
+      "title": "Estimate the crop rotation",
+      "icon": "fak fa-crops",
+      "url": "https://www.youtube.com/embed/6LPNpbAkwT4?si=3G89AmVkgSd7dQkb",
+      "professions": ["Technico_commercial"]
+    },
+    {
+      "title": "Anticipate the volumes to be collected",
+      "icon": "fas fa-home",
+      "url": "https://www.youtube.com/embed/WevMFJs_6Ho?si=Rel8lmlHaHKE3qZ_",
+      "professions": ["Responsable_collecte_Trading"]
+    },
+    {
+      "title": "Define my goals for the next campaign",
+      "icon": "fas fa-home",
+      "url": "https://www.youtube.com/embed/FM_X7pozOI8?si=pxqhIoNY6cI6w_QL",
+      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+    }
+  ],
+  "modules": {
+    "ZoneGroupManagment": "https://www.youtube.com/embed/x1lNauRFqUQ?si=hod5nuZPbKboloyI",
+    "AnalyseChart": "https://www.youtube.com/embed/D86yJEBAzkA?si=TcKGcGzQ1z-SAXnW",
+    "AnalyseTable": "https://www.youtube.com/embed/sxXsNbM-p4U?si=nQ3IlgzYm4wbw3rj",
+    "ExploreMap": "https://www.youtube.com/embed/JpzMre8K0zY?si=zdMy6CaLiBjyK9Vf"
+  }
+}
