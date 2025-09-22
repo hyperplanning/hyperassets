@@ -34,16 +34,16 @@ jobs:
             --exclude-path ".git;.github" \
             --exclude-pattern "*.yml;*.yaml;README.md"
 
-#  deploy-prod:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Checkout repository
-#        uses: actions/checkout@v3
-#
-#      - name: Upload to Prod
-#        run: |
-#          azcopy copy "${{ github.workspace }}/*" \
-#            "https://${{ secrets.AZURE_STORAGE_ACCOUNT_PROD }}.blob.core.windows.net/\$web/hyperasset?${{ secrets.AZURE_SAS_TOKEN_PROD }}" \
-#            --recursive --overwrite=true \
-#            --exclude-path ".git;.github" \
-#            --exclude-pattern "*.yml;*.yaml;README.md"
+  deploy-prod:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Upload to Prod
+        run: |
+          azcopy copy "${{ github.workspace }}/*" \
+            "https://${{ secrets.AZURE_STORAGE_ACCOUNT_PROD }}.blob.core.windows.net/\$web/hyperasset?${{ secrets.AZURE_SAS_TOKEN_PROD }}" \
+            --recursive --overwrite=true \
+            --exclude-path ".git;.github" \
+            --exclude-pattern "*.yml;*.yaml;README.md"
