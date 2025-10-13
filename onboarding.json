@@ -8,19 +8,19 @@
     },
     {
       "title": "Prospect more effectively: Identify the municipalities to target as a priority",
-      "icon": "fas fa-border-none",
+      "icon": "fas fa-bullseye", 
       "url": "https://www.youtube.com/embed/nJMKnyAIu7o?si=2FV2IxA3YKqqeHby",
       "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres"]
     },
     {
       "title": "Estimate a market",
-      "icon": "fas fa-home",
+      "icon": "fa fa-magnifying-glass-chart",
       "url": "https://www.youtube.com/embed/IVU6MSNus5k?si=8_dyrnP6Hv0ZGgW6",
       "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres"]
     },
     {
       "title": "Understand and adjust crop rotation estimates",
-      "icon": "fas fa-home",
+      "icon":  "fa fa-magnifying-glass-chart",
       "url": "https://www.youtube.com/embed/d-CIUprQ2Y8?si=xZIFP7PFKapfQVr-",
       "professions": ["Marketing / Sales Effectiveness / Directeur commercial", "Exploitation / Supply-chain","Responsable collecte / Trading","Responsable appro","IT / Digital","Autres","Agronomy"]
     },
