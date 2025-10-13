@@ -63,25 +63,25 @@
   ],
   "modules": {
     "Territories management": {
-      "title": "Test",
+      "title": "Presentation of the Territory Management module",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/x1lNauRFqUQ?si=hod5nuZPbKboloyI",
       "professions": []
     },
     "Chart": {
-      "title": "Test",
+      "title": "Presentation of the Chart module features",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/D86yJEBAzkA?si=TcKGcGzQ1z-SAXnW",
       "professions": []
     },
     "Table": {
-      "title": "Test",
+      "title": "Presentation of the Table module features",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/sxXsNbM-p4U?si=nQ3IlgzYm4wbw3rj",
       "professions": []
     },
     "Exploration": {
-      "title": "Test",
+      "title": "Welcome to Hyperplan!",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/JpzMre8K0zY?si=zdMy6CaLiBjyK9Vf",
       "professions": []
