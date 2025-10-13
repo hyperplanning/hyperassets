@@ -4,61 +4,61 @@
       "title": "Prospect more effectively: Establish a list of farms to target",
       "icon": "fak fa-farm",
       "url": "https://www.youtube.com/embed/MJiXNdQ3-90?si=Hq98Ca_WKeeOyQy6",
-      "professions": ["Technico_commercial", "Marketing_Sales_Effectiveness_Directeur_commercial"]
+      "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres"]
     },
     {
       "title": "Prospect more effectively: Identify the municipalities to target as a priority",
       "icon": "fas fa-border-none",
       "url": "https://www.youtube.com/embed/nJMKnyAIu7o?si=2FV2IxA3YKqqeHby",
-      "professions": ["Technico_commercial", "Marketing_Sales_Effectiveness_Directeur_commercial"]
+      "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres"]
     },
     {
       "title": "Estimate a market",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/IVU6MSNus5k?si=8_dyrnP6Hv0ZGgW6",
-      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres"]
     },
     {
       "title": "Understand and adjust crop rotation estimates",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/d-CIUprQ2Y8?si=xZIFP7PFKapfQVr-",
-      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial", "Responsable_collecte_Trading"]
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial", "Exploitation / Supply-chain","Responsable collecte / Trading","Responsable appro","IT / Digital","Autres","Agronomy"]
     },
     {
       "title": "Build and position my offer",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/2bUSyK1VjMA?si=B3VBPdRw3ZgwFkUo",
-      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable appro","IT / Digital","Autres"]
     },
     {
       "title": "Seize opportunities in season",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/Iya_V6Md6e4?si=pYq7c9RBLyIBHtDn",
-      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Agronomy"]
     },
     {
       "title": "Optimize my commercial sectorization",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/IqKIiTgXQ7U?si=Pd50RAzgJ_EnPL07",
-      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres"]
     },
     {
       "title": "Estimate the crop rotation",
       "icon": "fak fa-crops",
       "url": "https://www.youtube.com/embed/6LPNpbAkwT4?si=3G89AmVkgSd7dQkb",
-      "professions": ["Technico_commercial"]
+      "professions": ["Technico-commercial"]
     },
     {
       "title": "Anticipate the volumes to be collected",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/WevMFJs_6Ho?si=Rel8lmlHaHKE3qZ_",
-      "professions": ["Responsable_collecte_Trading"]
+      "professions": ["Exploitation / Supply-chain","Responsable collecte / Trading","IT / Digital","Autres"]
     },
     {
       "title": "Define my goals for the next campaign",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/FM_X7pozOI8?si=pxqhIoNY6cI6w_QL",
-      "professions": ["Marketing_Sales_Effectiveness_Directeur_commercial"]
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres"]
     }
   ],
   "modules": {
