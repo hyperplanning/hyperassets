@@ -4,70 +4,70 @@
       "title": "Prospect more effectively: Establish a list of farms to target",
       "icon": "fak fa-farm",
       "url": "https://www.youtube.com/embed/MJiXNdQ3-90?si=Hq98Ca_WKeeOyQy6",
-      "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres"],
+      "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres","Hyperplan"],
       "index": 1
     },
     {
       "title": "Prospect more effectively: Identify the municipalities to target as a priority",
       "icon": "fas fa-magnifying-glass-chart", 
       "url": "https://www.youtube.com/embed/nJMKnyAIu7o?si=2FV2IxA3YKqqeHby",
-      "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres"],
+      "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres","Hyperplan"],
       "index": 2
+    },
+       {
+      "title": "Estimate the crop rotation",
+      "icon": "fak fa-crops",
+      "url": "https://www.youtube.com/embed/6LPNpbAkwT4?si=3G89AmVkgSd7dQkb",
+      "professions": ["Technico-commercial","Hyperplan"],
+      "index": 3
     },
     {
       "title": "Estimate a market",
       "icon": "fak fa-estimate",
       "url": "https://www.youtube.com/embed/IVU6MSNus5k?si=8_dyrnP6Hv0ZGgW6",
-      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres"],
-      "index": 3
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Hyperplan"],
+      "index": 4
+    },
+       {
+      "title": "Build and position my offer",
+      "icon": "fak fa-leaflet",
+      "url": "https://www.youtube.com/embed/2bUSyK1VjMA?si=B3VBPdRw3ZgwFkUo",
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable appro","IT / Digital","Autres","Hyperplan"],
+      "index": 5
+    },
+      {
+      "title": "Seize opportunities in season",
+      "icon": "fas fa-calendar-circle-exclamation",
+      "url": "https://www.youtube.com/embed/Iya_V6Md6e4?si=pYq7c9RBLyIBHtDn",
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Agronomy","Hyperplan"],
+      "index": 6
+    },
+   {
+      "title": "Anticipate the volumes to be collected",
+      "icon": "fak fa-transportation",
+      "url": "https://www.youtube.com/embed/WevMFJs_6Ho?si=Rel8lmlHaHKE3qZ_",
+      "professions": ["Exploitation / Supply-chain","Responsable collecte / Trading","IT / Digital","Autres","Hyperplan"],
+      "index": 7
     },
     {
       "title": "Understand and adjust crop rotation estimates",
       "icon":  "fak fa-idea-crop",
       "url": "https://www.youtube.com/embed/d-CIUprQ2Y8?si=xZIFP7PFKapfQVr-",
-      "professions": ["Marketing / Sales Effectiveness / Directeur commercial", "Exploitation / Supply-chain","Responsable collecte / Trading","Responsable appro","IT / Digital","Autres","Agronomy"],
-      "index": 4
-    },
-    {
-      "title": "Build and position my offer",
-      "icon": "fak fa-leaflet",
-      "url": "https://www.youtube.com/embed/2bUSyK1VjMA?si=B3VBPdRw3ZgwFkUo",
-      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable appro","IT / Digital","Autres"],
-      "index": 5
-    },
-    {
-      "title": "Seize opportunities in season",
-      "icon": "fas fa-calendar-circle-exclamation",
-      "url": "https://www.youtube.com/embed/Iya_V6Md6e4?si=pYq7c9RBLyIBHtDn",
-      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Agronomy"],
-      "index": 6
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial", "Exploitation / Supply-chain","Responsable collecte / Trading","Responsable appro","IT / Digital","Autres","Agronomy","Hyperplan"],
+      "index": 8
     },
     {
       "title": "Optimize my commercial sectorization",
       "icon": "fas fa-draw-polygon",
       "url": "https://www.youtube.com/embed/IqKIiTgXQ7U?si=Pd50RAzgJ_EnPL07",
-      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres"],
-      "index": 7
-    },
-    {
-      "title": "Estimate the crop rotation",
-      "icon": "fak fa-crops",
-      "url": "https://www.youtube.com/embed/6LPNpbAkwT4?si=3G89AmVkgSd7dQkb",
-      "professions": ["Technico-commercial"],
-      "index": 8
-    },
-    {
-      "title": "Anticipate the volumes to be collected",
-      "icon": "fak fa-transportation",
-      "url": "https://www.youtube.com/embed/WevMFJs_6Ho?si=Rel8lmlHaHKE3qZ_",
-      "professions": ["Exploitation / Supply-chain","Responsable collecte / Trading","IT / Digital","Autres"],
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres","Hyperplan"],
       "index": 9
     },
     {
       "title": "Define my goals for the next campaign",
       "icon": "fas fa-bullseye-arrow",
       "url": "https://www.youtube.com/embed/FM_X7pozOI8?si=pxqhIoNY6cI6w_QL",
-      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres"],
+      "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Hyperplan"],
       "index": 10
     }
   ],
