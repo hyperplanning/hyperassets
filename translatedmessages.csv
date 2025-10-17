@@ -1,4 +1,3 @@
-TAG,FR,EN,DE,IT,ES,TR
 "Hyperplan","Hyperplan","Hyperplan","Hyperplan","Hyperplan","Hyperplan","Hyperplan"
 "Close","Fermer","Close","Schließen","Chiudere","Cerrar","Kapat"
 "Cartography","Cartographie","Cartography","Feldkarte","Mappa del campo","Cartografía","Kartografi"
@@ -948,7 +947,7 @@ On week of,la semaine du,on week of,in der Woche vom,la settimana di,en la seman
 "PAC grant","Subvention PAC","PAC grant","PAC-Zuschuss","Sovvenzione PAC","Subvención PAC","PAC hibesi"
 "Potential","Potentiel","Potential","Potenzial","Potenziale","Potencial","Potansiyel"
 "Ha visited","Ha visités","Ha visited","Ha besucht","Ha visitato","Ha visitado","Ha ziyaret edildi"
-"T collected","T collectés","T collected","T gesammelt","T raccolto","T recogido","T toplandı"
+"T collected","T collectées","T collected","T gesammelt","T raccolto","T recogido","T toplandı"
 "Client","Client","Client","Kunde","Cliente","Cliente","Müşteri"
 "TC","TC","TC","TC","TC","TC","Tarla yaşı"
 "Farm name","Nom de la ferme","Farm name","Betriebsname","Nome azienda agricola","Nombre de la explotación","Çiftlik adı"
@@ -1046,7 +1045,7 @@ On week of,la semaine du,on week of,in der Woche vom,la settimana di,en la seman
 "SIRET","SIRET","Code","Code","Codice","Código","Kod"
 Please enter a valid date range,Merci d'indiquer une plage de dates valide,Please enter a valid date range,Bitte geben Sie einen gültigen Datumsbereich an,Si prega di indicare un intervallo di date valido,"Por favor, indique un intervalo de fechas válido",Lütfen geçerli bir tarih aralığı belirtin
 "Visited ha","Ha visités","Visited ha","Ha besucht","Ha visitato","Ha visitados","Ha ziyaret edildi"
-"Collected t","T collectés","Collected t","T gesammelt","T raccolto","T recogidas","T toplandı"
+"Collected t","T collectées","Collected t","T gesammelt","T raccolto","T recogidas","T toplandı"
 Sold seed,Semences vendues,Sold seed,Verkauftes Saatgut,Semi venduti,Semillas vendidas,Satılan tohum
 Sold ha,Ha vendus,Sold ha,Verkauftes ha,Ha venduti,Ha vendidas,Satılan hektar
 Please zoom in to see farms on the map,Merci de zoomer pour voir les exploitations,Please zoom in to see farms on the map,"Bitte zoomen Sie heran, um die Höfe auf der Karte zu sehen",Ingrandisci la mappa per vedere le fattorie,Amplíe el mapa para ver las granjas,Haritada çiftlikleri görmek için lütfen yakınlaştırın
@@ -1073,9 +1072,9 @@ Please zoom in to see farms on the map,Merci de zoomer pour voir les exploitatio
 "Define my goals for the next campaign","Définir mes objectifs pour la prochaine campagne","Define my goals for the next campaign","Meine Ziele für die nächste Kampagne definieren","Definisci i tuoi obiettivi per la prossima campagna","Definir mis objetivos para la próxima campaña","Bir sonraki kampanya için hedeflerimi belirleyin"
 "Presentation of the Territory Management module","Présentation du module gestion de territoires","Presentation of the Territory Management module","Vorstellung des Moduls „Gebietsverwaltung“","Presentazione del modulo Gestione del territorio","Presentación del módulo gestión del territorio.","Bölge Yönetimi modülünün tanıtımı"
 "Presentation of the Chart module features","Présentation des fonctionnalités du module graphiques","Presentation of the Chart module features","Vorstellung der Funktionen des Moduls „Diagramm“","Presentazione delle funzionalità del modulo Grafico","Presentación de las funciones del módulo gráfico.","Grafik modülünün özelliklerinin tanıtımı"
-"Presentation of the Table module features","Présentation des fonctionnalités du module tableaus","Presentation of the Table module features","Vorstellung der Funktionen des Moduls „Tabelle“","Presentazione delle funzionalità del modulo Tabella","Presentación de las funciones del módulo tabla.","Tablo modülünün özelliklerinin tanıtımı"
+"Presentation of the Table module features","Présentation des fonctionnalités du module tableaux","Presentation of the Table module features","Vorstellung der Funktionen des Moduls „Tabelle“","Presentazione delle funzionalità del modulo Tabella","Presentación de las funciones del módulo tabla.","Tablo modülünün özelliklerinin tanıtımı"
 "Welcome to Hyperplan!","Bienvenue sur Hyperplan !","Welcome to Hyperplan!","Willkommen bei Hyperplan!","Benvenuto su Hyperplan!","¡Bienvenido en Hyperplan!","Hyperplan'a hoş geldiniz!"
 "Where to start ?","Par où commencer ?","Where to start ?","Wo soll ich anfangen?","Da dove iniziare?","¿Por dónde empezar?","Nereden başlamalı?"
-"Watch our various videos to learn more :","Regardez ces  courtes vidéos pour aller plus loin","Watch our various videos to learn more :","Sehen Sie sich diese  kurzen Videos an, um mehr zu erfahren.","Guarda questi  brevi video per approfondire l'argomento","Vea estos  breves vídeos para profundizar más:","Daha fazla bilgi için bu kısa videoları izleyin."
+"Watch our various videos to learn more :","Regardez ces courtes vidéos pour aller plus loin","Watch our various videos to learn more :","Sehen Sie sich diese  kurzen Videos an, um mehr zu erfahren.","Guarda questi  brevi video per approfondire l'argomento","Vea estos  breves vídeos para profundizar más:","Daha fazla bilgi için bu kısa videoları izleyin."
 "You will receive an email with exported data","Un email avec les données exportées vous a été envoyé !","An email with the exported data has been sent to you!","Eine E-Mail mit den exportierten Daten wurde Ihnen zugesandt!","Ti è stata inviata un'e-mail con i dati esportati!","¡Te le ha enviado un correo electrónico con los datos exportados!","Dışa aktarılan veriler içeren bir e-posta size gönderildi!"
 "Please zoom in to see zones on the map","Merci de zoomer pour voir les zones sur la carte.","Please zoom in to see zones on the map","Bitte zoomen Sie heran, um die Zonen auf der Karte zu sehen.","Ingrandisci la mappa per vedere le zone.","Amplíes el mapa para ver las zonas.","Haritada bölgeleri görmek için lütfen yakınlaştırın."
