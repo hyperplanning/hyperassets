@@ -6,7 +6,7 @@
       "url": "https://www.youtube.com/embed/MJiXNdQ3-90?si=Hq98Ca_WKeeOyQy6",
       "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","IT / Digital","Autres","Hyperplan"],
       "index": 1,
-      "countriesBlacklist": [SP]
+      "countriesBlacklist": ["SP"]
     },
     {
       "title": "Prospect more effectively: Identify the municipalities to target as a priority",
