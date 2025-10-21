@@ -82,7 +82,7 @@
     },
     {
       "title": "Hyperplan in 1 minute",
-      "icon": "fas fa-bullseye-arrow",
+      "icon": "fa-solid fa-stopwatch-1",
       "url": "https://www.youtube.com/watch?v=Zpu2H8q4MNY&feature=youtu.be",
       "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Hyperplan","Exploitation / Supply-chain","Responsable collecte / Trading","Responsable appro","Agronomie"],
       "index": 11,
@@ -109,7 +109,7 @@
       "professions": []
     },
     "Exploration": {
-      "title": "Welcome to Hyperplan!",
+      "title": "Presentation of the Exploration module features",
       "icon": "fas fa-home",
       "url": "https://www.youtube.com/embed/JpzMre8K0zY?si=zdMy6CaLiBjyK9Vf",
       "professions": []
