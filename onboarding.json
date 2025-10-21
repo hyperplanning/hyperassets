@@ -79,6 +79,14 @@
       "professions": ["Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Hyperplan"],
       "index": 10,
       "countriesBlacklist": []
+    },
+    {
+      "title": "Hyperplan in 1 minute",
+      "icon": "fas fa-bullseye-arrow",
+      "url": "https://www.youtube.com/watch?v=Zpu2H8q4MNY&feature=youtu.be",
+      "professions": ["Technico-commercial", "Marketing / Sales Effectiveness / Directeur commercial","Responsable région (commercial)","Responsable appro","IT / Digital","Autres","Hyperplan","Exploitation / Supply-chain","Responsable collecte / Trading","Responsable appro","Agronomie"],
+      "index": 11,
+      "countriesBlacklist": []
     }
   ],
   "modules": {
