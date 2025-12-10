@@ -73,7 +73,7 @@
       "falcoId": "mais",
       "choiceType": "mais",
       "displayDate": "01/05",
-      "nextYearDisplayDate": "01/12",
+      "nextYearDisplayDate": null,
       "dateRange": [[8, 0], [28, 0]]
    },
    {
