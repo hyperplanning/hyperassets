@@ -77,6 +77,13 @@
       "dateRange": [[8, 0], [28, 0]]
    },
    {
+      "falcoId": "sorgho",
+      "choiceType": "sorgho",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "dateRange": [[8, 0], [28, 0]]
+   },
+   {
       "falcoId": "colza",
       "choiceType": "colza",
       "displayDate": "01/01",
