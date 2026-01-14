@@ -1,158 +1,158 @@
 {
-"FR": [
-   {
-      "falcoId": "ble-d-hiver",
-      "choiceType": "ble-d-hiver",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": [[28, -1], [52, -1]]
-   },
-   {
-      "falcoId": "orge-d-hiver",
-      "choiceType": "orge-d-hiver",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": [[28, -1], [52, -1]]
-   },
-   {
-      "falcoId": "orge-de-printemps",
-      "choiceType": "orge-de-printemps",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": [[1, 0], [28, 0]]
-   },
-   {
-      "falcoId": "triticale",
-      "choiceType": "triticale",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": [[28, -1], [52, -1]]
-   },
-   {
-      "falcoId": "autres-cereales",
-      "choiceType": "autres-cereales",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": [[28, -1], [52, -1]]
-   },
-   {
-      "falcoId": "ble-de-printemps",
-      "choiceType": "ble-de-printemps",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "riz",
-      "choiceType": "riz",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": null
-   },
-   {
-      "falcoId": "vignes",
-      "choiceType": "vignes",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": null
-   },
-   {
-      "falcoId": "haricot-flageolet",
-      "choiceType": "haricot-flageolet",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "betteraves",
-      "choiceType": "betteraves",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "mais",
-      "choiceType": "mais",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": [[8, 0], [28, 0]]
-   },
-   {
-      "falcoId": "sorgho",
-      "choiceType": "sorgho",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": [[8, 0], [28, 0]]
-   },
-   {
-      "falcoId": "colza",
-      "choiceType": "colza",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": [[28, -1], [52, -1]]
-   },
-   {
-      "falcoId": "tournesol",
-      "choiceType": "tournesol",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": [[8, 0], [28, 0]]
-   },
-   {
-      "falcoId": "luzerne",
-      "choiceType": "luzerne",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "pomme-de-terre",
-      "choiceType": "pomme-de-terre",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "soja",
-      "choiceType": "soja",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "pois",
-      "choiceType": "pois",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "chanvre",
-      "choiceType": "chanvre",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   },
-   {
-      "falcoId": "lin",
-      "choiceType": "lin",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": null
-   },
-   {
-      "falcoId": "prairies-arbres-autres",
-      "choiceType": "prairies-arbres-autres",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
-      "dateRange": null
-   },
-   {
-      "falcoId": "legumes-autres-legumes",
-      "choiceType": "legumes-autres-legumes",
-      "displayDate": "01/05",
-      "nextYearDisplayDate": null,
-      "dateRange": null
-   }
-]
+   "FR": [
+      {
+         "falcoId": "ble-d-hiver",
+         "choiceType": "ble-d-hiver",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": [[28, -1], [52, -1]]
+      },
+      {
+         "falcoId": "orge-d-hiver",
+         "choiceType": "orge-d-hiver",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": [[28, -1], [52, -1]]
+      },
+      {
+         "falcoId": "orge-de-printemps",
+         "choiceType": "orge-de-printemps",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": [[1, 0], [28, 0]]
+      },
+      {
+         "falcoId": "triticale",
+         "choiceType": "triticale",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": [[28, -1], [52, -1]]
+      },
+      {
+         "falcoId": "autres-cereales",
+         "choiceType": "autres-cereales",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": [[28, -1], [52, -1]]
+      },
+      {
+         "falcoId": "ble-de-printemps",
+         "choiceType": "ble-de-printemps",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "riz",
+         "choiceType": "riz",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": null
+      },
+      {
+         "falcoId": "vignes",
+         "choiceType": "vignes",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": null
+      },
+      {
+         "falcoId": "haricot-flageolet",
+         "choiceType": "haricot-flageolet",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "betteraves",
+         "choiceType": "betteraves",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "mais",
+         "choiceType": "mais",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": [[8, 0], [28, 0]]
+      },
+      {
+         "falcoId": "sorgho",
+         "choiceType": "sorgho",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": [[8, 0], [28, 0]]
+      },
+      {
+         "falcoId": "colza",
+         "choiceType": "colza",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": [[28, -1], [52, -1]]
+      },
+      {
+         "falcoId": "tournesol",
+         "choiceType": "tournesol",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": [[8, 0], [28, 0]]
+      },
+      {
+         "falcoId": "luzerne",
+         "choiceType": "luzerne",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "pomme-de-terre",
+         "choiceType": "pomme-de-terre",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "soja",
+         "choiceType": "soja",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "pois",
+         "choiceType": "pois",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "chanvre",
+         "choiceType": "chanvre",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      },
+      {
+         "falcoId": "lin",
+         "choiceType": "lin",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": null
+      },
+      {
+         "falcoId": "prairies-arbres-autres",
+         "choiceType": "prairies-arbres-autres",
+         "displayDate": "01/01",
+         "nextYearDisplayDate": "01/12",
+         "dateRange": null
+      },
+      {
+         "falcoId": "legumes-autres-legumes",
+         "choiceType": "legumes-autres-legumes",
+         "displayDate": "01/05",
+         "nextYearDisplayDate": null,
+         "dateRange": null
+      }
+   ]
 }
