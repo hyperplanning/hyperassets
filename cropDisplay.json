@@ -4999,4 +4999,8759 @@
       "choiceType": "tournesol",
       "displayDate": "01/05",
       "nextYearDisplayDate": null,
-      "sowing
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "GB": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "HU": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          40,
+          -1
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "IT": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "LT": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "LV": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "PL": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "RO": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "SE": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "SK": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "TR": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "UA": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "UK": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ],
+  "ZA": [
+    {
+      "choiceType": "ble-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-d-hiver",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "orge-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          1,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "triticale",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "autres-cereales",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "ble-de-printemps",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "riz",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "vignes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "haricot-flageolet",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "betteraves",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "mais",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "sorgho",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "tournesol",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          8,
+          0
+        ],
+        [
+          28,
+          0
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "luzerne",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pomme-de-terre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "soja",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "pois",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "chanvre",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "lin",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "prairies-arbres-autres",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "legumes-autres-legumes",
+      "displayDate": null,
+      "nextYearDisplayDate": null,
+      "sowingDateRange": null,
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    }
+  ]
+}
