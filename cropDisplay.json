@@ -2,8 +2,8 @@
   "BG": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -37,8 +37,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -72,7 +72,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -107,8 +107,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -142,8 +142,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -177,7 +177,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -203,8 +203,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -229,8 +229,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -255,7 +255,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -281,7 +281,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -307,7 +307,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -342,7 +342,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -377,8 +377,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -412,7 +412,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -447,7 +447,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -473,7 +473,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -499,7 +499,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -525,7 +525,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -551,7 +551,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -577,7 +577,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -603,8 +603,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -629,7 +629,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -657,16 +657,16 @@
   "CA": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          28,
-          -1
+          1,
+          0
         ],
         [
-          52,
-          -1
+          28,
+          0
         ]
       ],
       "cropEvolutionDateRange": [
@@ -692,16 +692,16 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          28,
-          -1
+          1,
+          0
         ],
         [
-          52,
-          -1
+          28,
+          0
         ]
       ],
       "cropEvolutionDateRange": [
@@ -727,7 +727,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -762,16 +762,16 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          28,
-          -1
+          1,
+          0
         ],
         [
-          52,
-          -1
+          28,
+          0
         ]
       ],
       "cropEvolutionDateRange": [
@@ -797,16 +797,16 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          28,
-          -1
+          1,
+          0
         ],
         [
-          52,
-          -1
+          28,
+          0
         ]
       ],
       "cropEvolutionDateRange": [
@@ -832,7 +832,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -858,7 +858,7 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -884,7 +884,7 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -910,7 +910,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -936,7 +936,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -962,11 +962,11 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          8,
+          1,
           0
         ],
         [
@@ -997,11 +997,11 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          8,
+          1,
           0
         ],
         [
@@ -1032,16 +1032,16 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          28,
-          -1
+          1,
+          0
         ],
         [
-          52,
-          -1
+          28,
+          0
         ]
       ],
       "cropEvolutionDateRange": [
@@ -1067,11 +1067,11 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          8,
+          1,
           0
         ],
         [
@@ -1102,7 +1102,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1128,7 +1128,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1154,7 +1154,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1180,7 +1180,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1206,7 +1206,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1232,7 +1232,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1258,7 +1258,7 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1284,7 +1284,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1312,8 +1312,8 @@
   "CZ": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -1347,8 +1347,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -1382,7 +1382,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -1417,8 +1417,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -1452,8 +1452,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -1487,7 +1487,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1513,8 +1513,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -1539,8 +1539,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -1565,7 +1565,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1591,7 +1591,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1617,7 +1617,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -1652,7 +1652,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -1687,8 +1687,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -1722,7 +1722,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -1757,7 +1757,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1783,7 +1783,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1809,7 +1809,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1835,7 +1835,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1861,7 +1861,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1887,7 +1887,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1913,8 +1913,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -1939,7 +1939,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -1967,8 +1967,8 @@
   "DE": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2002,8 +2002,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2037,7 +2037,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -2072,8 +2072,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2107,8 +2107,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2142,7 +2142,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2168,8 +2168,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -2194,8 +2194,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -2220,7 +2220,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2246,7 +2246,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2272,7 +2272,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -2307,7 +2307,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -2342,8 +2342,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2377,7 +2377,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -2412,7 +2412,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2438,7 +2438,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2464,7 +2464,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2490,7 +2490,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2516,7 +2516,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2542,7 +2542,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2568,8 +2568,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -2594,7 +2594,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2622,8 +2622,8 @@
   "DK": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2657,8 +2657,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2692,7 +2692,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -2727,8 +2727,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2762,8 +2762,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -2797,7 +2797,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2823,8 +2823,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -2849,8 +2849,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -2875,7 +2875,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2901,7 +2901,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -2927,7 +2927,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -2962,7 +2962,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -2997,8 +2997,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -3032,7 +3032,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -3067,7 +3067,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3093,7 +3093,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3119,7 +3119,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3145,7 +3145,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3171,7 +3171,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3197,7 +3197,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3223,8 +3223,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -3249,7 +3249,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3277,8 +3277,8 @@
   "ES": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -3312,8 +3312,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -3347,7 +3347,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -3382,8 +3382,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -3417,8 +3417,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -3452,7 +3452,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3478,8 +3478,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -3504,8 +3504,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -3530,7 +3530,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3556,7 +3556,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3582,7 +3582,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -3617,7 +3617,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -3652,8 +3652,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -3687,7 +3687,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -3722,7 +3722,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3748,7 +3748,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3774,7 +3774,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3800,7 +3800,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3826,7 +3826,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3852,7 +3852,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3878,8 +3878,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -3904,7 +3904,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -3932,8 +3932,8 @@
   "FI": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -3967,8 +3967,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -4002,7 +4002,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -4037,8 +4037,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -4072,8 +4072,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -4107,7 +4107,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4133,8 +4133,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -4159,8 +4159,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -4185,7 +4185,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4211,7 +4211,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4237,7 +4237,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -4272,7 +4272,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -4307,8 +4307,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -4342,7 +4342,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -4377,7 +4377,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4403,7 +4403,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4429,7 +4429,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4455,7 +4455,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4481,7 +4481,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4507,7 +4507,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -4533,8 +4533,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -4559,7 +4559,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5162,8 +5162,8 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": "01/01",
-      "nextYearDisplayDate": "01/12",
+      "displayDate": "01/05",
+      "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -5242,8 +5242,8 @@
   "GB": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -5277,8 +5277,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -5312,7 +5312,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -5347,8 +5347,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -5382,8 +5382,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -5417,7 +5417,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5443,8 +5443,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -5469,8 +5469,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -5495,7 +5495,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5521,7 +5521,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5547,7 +5547,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -5582,7 +5582,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -5617,8 +5617,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -5652,7 +5652,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -5687,7 +5687,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5713,7 +5713,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5739,7 +5739,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5765,7 +5765,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5791,7 +5791,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5817,7 +5817,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5843,8 +5843,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -5869,7 +5869,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -5897,8 +5897,8 @@
   "HU": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -5932,8 +5932,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -5967,7 +5967,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6002,8 +6002,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6037,8 +6037,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6072,7 +6072,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6098,8 +6098,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -6124,8 +6124,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -6150,7 +6150,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6176,7 +6176,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6202,7 +6202,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6237,7 +6237,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6272,8 +6272,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6307,7 +6307,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6342,7 +6342,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6368,7 +6368,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6394,7 +6394,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6420,7 +6420,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6446,7 +6446,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6472,7 +6472,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6498,8 +6498,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -6524,7 +6524,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6552,8 +6552,8 @@
   "IT": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6587,8 +6587,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6622,7 +6622,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6657,8 +6657,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6692,8 +6692,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6727,7 +6727,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6753,8 +6753,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -6779,8 +6779,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -6805,7 +6805,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6831,7 +6831,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -6857,7 +6857,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6892,7 +6892,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6927,8 +6927,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -6962,7 +6962,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -6997,7 +6997,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7023,7 +7023,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7049,7 +7049,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7075,7 +7075,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7101,7 +7101,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7127,7 +7127,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7153,8 +7153,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -7179,7 +7179,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7207,8 +7207,8 @@
   "LT": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -7242,8 +7242,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -7277,7 +7277,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -7312,8 +7312,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -7347,8 +7347,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -7382,7 +7382,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7408,8 +7408,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -7434,8 +7434,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -7460,7 +7460,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7486,7 +7486,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7512,7 +7512,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -7547,7 +7547,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -7582,8 +7582,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -7617,7 +7617,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -7652,7 +7652,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7678,7 +7678,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7704,7 +7704,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7730,7 +7730,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7756,7 +7756,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7782,7 +7782,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7808,8 +7808,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -7834,7 +7834,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -7862,8 +7862,8 @@
   "LV": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -7897,8 +7897,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -7932,7 +7932,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -7967,8 +7967,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8002,8 +8002,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8037,7 +8037,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8063,8 +8063,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -8089,8 +8089,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -8115,7 +8115,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8141,7 +8141,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8167,7 +8167,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -8202,7 +8202,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -8237,8 +8237,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8272,7 +8272,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -8307,7 +8307,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8333,7 +8333,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8359,7 +8359,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8385,7 +8385,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8411,7 +8411,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8437,7 +8437,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8463,8 +8463,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -8489,7 +8489,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8517,8 +8517,8 @@
   "PL": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8552,8 +8552,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8587,7 +8587,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -8622,8 +8622,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8657,8 +8657,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8692,7 +8692,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8718,8 +8718,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -8744,8 +8744,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -8770,7 +8770,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8796,7 +8796,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8822,7 +8822,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -8857,7 +8857,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -8892,8 +8892,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -8927,7 +8927,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -8962,7 +8962,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -8988,7 +8988,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9014,7 +9014,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9040,7 +9040,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9066,7 +9066,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9092,7 +9092,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9118,8 +9118,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -9144,7 +9144,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9172,8 +9172,8 @@
   "RO": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9207,8 +9207,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9242,7 +9242,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -9277,8 +9277,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9312,8 +9312,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9347,7 +9347,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9373,8 +9373,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -9399,8 +9399,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -9425,7 +9425,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9451,7 +9451,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9477,7 +9477,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -9512,7 +9512,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -9547,8 +9547,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9582,7 +9582,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -9617,7 +9617,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9643,7 +9643,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9669,7 +9669,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9695,7 +9695,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9721,7 +9721,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9747,7 +9747,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9773,8 +9773,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -9799,7 +9799,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -9827,8 +9827,8 @@
   "SE": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9862,8 +9862,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9897,7 +9897,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -9932,8 +9932,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -9967,8 +9967,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -10002,7 +10002,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10028,8 +10028,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -10054,8 +10054,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -10080,7 +10080,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10106,7 +10106,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10132,7 +10132,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -10167,7 +10167,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -10202,8 +10202,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -10237,7 +10237,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -10272,7 +10272,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10298,7 +10298,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10324,7 +10324,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10350,7 +10350,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10376,7 +10376,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10402,7 +10402,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10428,8 +10428,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -10454,7 +10454,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10482,8 +10482,8 @@
   "SK": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -10517,8 +10517,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -10552,7 +10552,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -10587,8 +10587,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -10622,8 +10622,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -10657,7 +10657,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10683,8 +10683,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -10709,8 +10709,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -10735,7 +10735,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10761,7 +10761,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10787,7 +10787,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -10822,7 +10822,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -10857,8 +10857,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -10892,7 +10892,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -10927,7 +10927,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10953,7 +10953,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -10979,7 +10979,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11005,7 +11005,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11031,7 +11031,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11057,7 +11057,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11083,8 +11083,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -11109,7 +11109,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11137,8 +11137,8 @@
   "TR": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11172,8 +11172,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11207,7 +11207,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -11242,8 +11242,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11277,8 +11277,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11312,7 +11312,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11338,8 +11338,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -11364,8 +11364,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -11390,7 +11390,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11416,7 +11416,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11442,7 +11442,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -11477,7 +11477,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -11512,8 +11512,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11547,7 +11547,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -11582,7 +11582,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11608,7 +11608,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11634,7 +11634,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11660,7 +11660,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11686,7 +11686,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11712,7 +11712,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11738,8 +11738,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -11764,7 +11764,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11792,8 +11792,8 @@
   "UA": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11827,8 +11827,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11862,7 +11862,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -11897,8 +11897,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11932,8 +11932,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -11967,7 +11967,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -11993,8 +11993,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -12019,8 +12019,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -12045,7 +12045,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12071,7 +12071,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12097,7 +12097,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -12132,7 +12132,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -12167,8 +12167,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -12202,7 +12202,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -12237,7 +12237,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12263,7 +12263,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12289,7 +12289,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12315,7 +12315,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12341,7 +12341,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12367,7 +12367,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12393,8 +12393,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -12419,7 +12419,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12447,8 +12447,8 @@
   "UK": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -12482,8 +12482,8 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -12517,7 +12517,7 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -12552,8 +12552,8 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -12587,8 +12587,8 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -12622,7 +12622,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12648,8 +12648,8 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -12674,8 +12674,8 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -12700,7 +12700,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12726,7 +12726,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12752,7 +12752,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -12787,7 +12787,7 @@
     },
     {
       "choiceType": "sorgho",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -12822,8 +12822,8 @@
     },
     {
       "choiceType": "colza",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": [
         [
           28,
@@ -12857,7 +12857,7 @@
     },
     {
       "choiceType": "tournesol",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -12892,7 +12892,7 @@
     },
     {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12918,7 +12918,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12944,7 +12944,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12970,7 +12970,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -12996,7 +12996,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13022,7 +13022,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13048,8 +13048,8 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
+      "displayDate": "01/01",
+      "nextYearDisplayDate": "01/12",
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
@@ -13074,7 +13074,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/05",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13102,16 +13102,16 @@
   "ZA": [
     {
       "choiceType": "ble-d-hiver",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          28,
-          -1
+          15,
+          0
         ],
         [
-          52,
-          -1
+          28,
+          0
         ]
       ],
       "cropEvolutionDateRange": [
@@ -13137,16 +13137,16 @@
     },
     {
       "choiceType": "orge-d-hiver",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          28,
-          -1
+          15,
+          0
         ],
         [
-          52,
-          -1
+          28,
+          0
         ]
       ],
       "cropEvolutionDateRange": [
@@ -13172,18 +13172,9 @@
     },
     {
       "choiceType": "orge-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
-      "sowingDateRange": [
-        [
-          1,
-          0
-        ],
-        [
-          28,
-          0
-        ]
-      ],
+      "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
           35,
@@ -13207,18 +13198,9 @@
     },
     {
       "choiceType": "triticale",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
-      "sowingDateRange": [
-        [
-          28,
-          -1
-        ],
-        [
-          52,
-          -1
-        ]
-      ],
+      "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
           35,
@@ -13242,18 +13224,9 @@
     },
     {
       "choiceType": "autres-cereales",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
-      "sowingDateRange": [
-        [
-          28,
-          -1
-        ],
-        [
-          52,
-          -1
-        ]
-      ],
+      "sowingDateRange": null,
       "cropEvolutionDateRange": [
         [
           35,
@@ -13277,7 +13250,7 @@
     },
     {
       "choiceType": "ble-de-printemps",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13303,7 +13276,7 @@
     },
     {
       "choiceType": "riz",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13329,7 +13302,7 @@
     },
     {
       "choiceType": "vignes",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13355,7 +13328,7 @@
     },
     {
       "choiceType": "haricot-flageolet",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13381,7 +13354,7 @@
     },
     {
       "choiceType": "betteraves",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13407,77 +13380,7 @@
     },
     {
       "choiceType": "mais",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
-      "sowingDateRange": [
-        [
-          8,
-          0
-        ],
-        [
-          28,
-          0
-        ]
-      ],
-      "cropEvolutionDateRange": [
-        [
-          35,
-          -1
-        ],
-        [
-          30,
-          0
-        ]
-      ],
-      "yieldEvolutionDateRange": [
-        [
-          15,
-          0
-        ],
-        [
-          10,
-          1
-        ]
-      ]
-    },
-    {
-      "choiceType": "sorgho",
-      "displayDate": null,
-      "nextYearDisplayDate": null,
-      "sowingDateRange": [
-        [
-          8,
-          0
-        ],
-        [
-          28,
-          0
-        ]
-      ],
-      "cropEvolutionDateRange": [
-        [
-          35,
-          -1
-        ],
-        [
-          30,
-          0
-        ]
-      ],
-      "yieldEvolutionDateRange": [
-        [
-          15,
-          0
-        ],
-        [
-          10,
-          1
-        ]
-      ]
-    },
-    {
-      "choiceType": "colza",
-      "displayDate": null,
+      "displayDate": "01/03",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
@@ -13511,12 +13414,47 @@
       ]
     },
     {
-      "choiceType": "tournesol",
-      "displayDate": null,
+      "choiceType": "sorgho",
+      "displayDate": "01/03",
       "nextYearDisplayDate": null,
       "sowingDateRange": [
         [
-          8,
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
+      "choiceType": "colza",
+      "displayDate": "01/09",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          15,
           0
         ],
         [
@@ -13546,8 +13484,43 @@
       ]
     },
     {
+      "choiceType": "tournesol",
+      "displayDate": "01/03",
+      "nextYearDisplayDate": null,
+      "sowingDateRange": [
+        [
+          28,
+          -1
+        ],
+        [
+          52,
+          -1
+        ]
+      ],
+      "cropEvolutionDateRange": [
+        [
+          35,
+          -1
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "yieldEvolutionDateRange": [
+        [
+          15,
+          0
+        ],
+        [
+          10,
+          1
+        ]
+      ]
+    },
+    {
       "choiceType": "luzerne",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13573,7 +13546,7 @@
     },
     {
       "choiceType": "pomme-de-terre",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13599,7 +13572,7 @@
     },
     {
       "choiceType": "soja",
-      "displayDate": null,
+      "displayDate": "01/03",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13625,7 +13598,7 @@
     },
     {
       "choiceType": "pois",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13651,7 +13624,7 @@
     },
     {
       "choiceType": "chanvre",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13677,7 +13650,7 @@
     },
     {
       "choiceType": "lin",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13703,7 +13676,7 @@
     },
     {
       "choiceType": "prairies-arbres-autres",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
@@ -13729,7 +13702,7 @@
     },
     {
       "choiceType": "legumes-autres-legumes",
-      "displayDate": null,
+      "displayDate": "01/09",
       "nextYearDisplayDate": null,
       "sowingDateRange": null,
       "cropEvolutionDateRange": [
